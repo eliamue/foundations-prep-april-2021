@@ -1,17 +1,20 @@
 # Tuesday
 
 * 6:00pm - Git: Branching
+  * [Visualizing git](https://learngitbranching.js.org/?NODEMO)
   * Did you push your code last night?
   * Create a new branch:
-    * `git checkout -b tuesday`
+    * `git branch tuesday` 
+  * Switch to your new branch:
+    * `git checkout tuesday`
   * Add a new file: notes/tuesday.md
-    * Create the file in Atom, or from the command line with `touch notes/tuesday.md`
+    * Create the file in VS Code, or from the command line with `touch notes/tuesday.md`
     * Add to your repo *before* you add any content:
       * `git add notes/tuesday.md`
       * `git commit -m "Add notes file for Tuesday"`
   * What happens if you check out master (`git checkout master`)? Is the new file there?
-  * At the end of night we'll merge the new feature branch back into master
-  * Make sure you check out the new branch (`git checkout feature/tuesday`) before continuing
+  * At the end of night we'll merge the new branch into master
+  * Make sure you are on the new branch (`git status` to see what branch you're on) before continuing
 * 6:15pm - Working at the Command Line
   * Navigating at the command line
     * `cd` = Change Directory (combine with `~`, `..`)

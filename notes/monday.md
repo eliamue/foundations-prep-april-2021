@@ -1,9 +1,10 @@
-Make a change
-Make another change
-Do something else
-tra la la
-
-here's another change
-
-more notes for a monday night!!!!
-monday night
+# #TIL
+- draw a rectangle with: rect(x, y, width, height)
+- draw a circle with: ellipse(x, y, w, h)
+- VCS = version control system
+- `SHIFT + ALT + down arrow` copies current line
+- `CTRL + ALT + DOWN` will flip your screen (maybe)
+- how to assign values to variables
+    - `var whatever = 5;`
+    - and using those variables in functions 
+    - to make entities' positions relative to each other
