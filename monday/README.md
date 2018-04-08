@@ -19,14 +19,14 @@ Day 1: Developer Tools
 
 > [Managing code](github.md)
 
-### Git/VSCode
+### VSCode
 
-Integrated Development Environment (IDE)
+> [Integrated Development Environment (IDE)](ide.md)
+
+### Markdown
+
+> [Write docs the developers way](markdown.md)
 
 ### Commit
 
-Checking in work
-
-### GHPages
-
-Show the world!
+> [Checking in work](commit.md)

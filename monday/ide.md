@@ -61,38 +61,4 @@ Let's get meta!
 
 ## Outcome
 
-Update `README.md`, with a bit of markdown!
-
-### Headings
-
-```md
-# h1
-## h2
-### h3
-```
-
-### Bold and Italic
-
-```md
-**bold**
-_italic_
-```
-
-### Lists
-
-#### Bullets
-
-```md
-* one
-* two
-* three
-```
-
-#### Numbered
-
-```md
-1. one
-1. two
-1. three
-```
-
+Update `README.md`, with a bit of [markdown](markdown.md)!

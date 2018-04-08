@@ -5,7 +5,7 @@ Commit
 
 ## Prerequisites
 
-Have code changes account.
+Have changed code in your repo.
 
 ## Credential Helper
 
