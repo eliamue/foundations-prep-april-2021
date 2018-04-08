@@ -42,25 +42,25 @@ Time           | Agenda
 Time | Topic | Notes
 ---|---|---
 6:00 - 6:15    | _Intro_         | On the job training
-6:15 - 6:30    | **Keyboard**      | Let your fingers do the talking
-6:30 - 7:00    | **Terminal**      | Your developer portal!
-7:10 - 7:30    | **Github/Git**    | Managing Code
-: - :          | _Break_           |
-8:00 - 8:30    | **Git/VSCode**        | Integrated Development Environment (IDE)
-8:30 - 8:45    | _Commit_          | Checking in work
-8:45 - 9:00    | **GHPages**       | Show the world!
+6:15 - 6:30    | **Keyboard**    | Let your fingers do the talking
+6:30 - 7:00    | **Terminal**    | Your developer portal!
+7:10 - 7:30    | **Github/Git**  | Managing Code
+: - :          | _Break_         |
+8:00 - 8:30    | **Git/VSCode**  | Integrated Development Environment (IDE)
+8:30 - 8:45    | **Markdown**    | Write docs the developers way
+8:45 - 9:00    | _Commit_        | Checking in work
 
 ### Tuesday
 
 Time | Topic | Notes
 ---|---|---
 6:00 - 6:30    | _Review_       | Using your dev tools
-6:30 - 7:00    | **VSCode 2**   | Help me do dev
-7:00 - 7:30    | **Html Pages** | Structured presentation
+6:30 - 6:50    | **Html Pages** | Structured presentation
+7:00 - 7:30    | **Html**       | Presenting content
 : - :          | _Break_        | 
-8:00 - 8:20    | **Html**       | Presenting content
-8:20 - 8:40    | **CSS**        | Styling content
-8:45 - 9:00    | _Commit_       | Checking in work
+8:00 - 8:30    | **CSS**        | Styling content
+8:30 - 8:45    | _Commit_       | Checking in work
+8:45 - 9:00    | **GHPages**    | Show the world!
 
 ### Wednesday
 

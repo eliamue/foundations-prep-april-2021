@@ -17,7 +17,7 @@ Day 1: Developer Tools
 
 ### Github/Git
 
-> [Managing Code](github.md)
+> [Managing code](github.md)
 
 ### Git/VSCode
 
