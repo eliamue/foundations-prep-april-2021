@@ -18,10 +18,9 @@
     * `git commit -m "Add notes file for Monday"`
   * Take notes on what you learn today in this markdown file
 * 7:00pm - Developer Tools
-  * You need to develop a relationship with your text editor ([VS Code](https://code.visualstudio.com/docs/introvideos/basics), [Atom](http://flight-manual.atom.io/getting-started/sections/atom-basics/) [2](/resources/atom.md), [Sublime](http://docs.sublimetext.info/en/latest/basic_concepts.html), etc.). Spend the time to get to know it, and to customize it to make your workflow easier and more productive.
+  * You need to develop a relationship with your text editor ([VS Code](https://code.visualstudio.com/docs/introvideos/basics). Spend the time to get to know it, and to customize it to make your workflow easier and more productive.
   * Learn keyboard shortcuts (see links on [main page](/)). If your laptop allows multiple workspaces, learn how to use them.
   * Learn how to type. If you can't type quickly and accurately, you'll be at a severe disadvantage. (A fantastic resource is [typing.io](https://typing.io).)
-* 7:15pm - Prework (you should be at least 20% complete by the end of class)
 * 8:30pm - Git
   * Did you add your new `notes/monday.md` file to the repo earlier? How can you check?
   * Practice your git workflow:
