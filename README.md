@@ -54,7 +54,8 @@ Time | Topic | Notes
 
 Time | Topic | Notes
 ---|---|---
-6:00 - 6:30    | _Review_       | Using your dev tools
+6:00 - 6:15    | _Review_       | Using your dev tools
+6:15 - 6:30    | **Keyboard 2** | Let your fingers do the talking
 6:30 - 6:50    | **Html Pages** | Structured presentation
 7:00 - 7:30    | **Html**       | Presenting content
 : - :          | _Break_        | 

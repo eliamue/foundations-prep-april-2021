@@ -29,4 +29,4 @@ Day 1: Developer Tools
 
 ### Commit
 
-> [Checking in work](commit.md)
+> [Checking in work](../commit.md)
