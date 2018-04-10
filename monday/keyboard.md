@@ -37,7 +37,7 @@ Software Development is multi-app:
 
 OS|Command
 ---|---
-Mac | `SHIFT` + `SPACEBAR`
+Mac | `CMD` + `SPACEBAR`
 Windows|`WINDOWS` + `R`
 
 ### Switching
