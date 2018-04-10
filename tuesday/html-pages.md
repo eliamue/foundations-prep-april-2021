@@ -5,15 +5,19 @@ Html Pages
 
 ## VS Code
 
+### Features
+
 * Snippets
 * [Features](https://code.visualstudio.com/docs/languages/html)
 * Html Linting
     * Install Extension HTMLHint (mkaufman.htmlhint)
-* Preview
-    * Open in browser (`$ open index.html`)
-    * Refresh browser (`CMD/CTRL` + `R`)
-    * (For today, practice switching and refresh)
 * `CTRL` + `SPACE` - Bring up autocomplete
+
+### Preview
+* Open in browser (`$ open index.html`)
+* Refresh browser (`CMD/CTRL` + `R`)
+* (For today, practice switching and refresh)
+* Open Dev Tools! (`CMD/CTRL` + `I`)
 
 ## Structure
 

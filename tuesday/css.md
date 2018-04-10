@@ -7,6 +7,16 @@ CSS
 
 For today, we will "inline our css" in a `style` tag 
 
+## Dev Tools
+
+* select from `Elements`
+* Smart match
+* Change values
+    * `⬆⬇` +-1
+    * `SHIFT` + `⬆⬇` +-10
+    * `OPTION/ALT` + `⬆⬇` +-.1
+* Color picker
+
 ## Selector + Props
 
 ### Selector
