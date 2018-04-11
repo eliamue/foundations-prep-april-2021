@@ -7,6 +7,8 @@ Developer Tools
 
 ## Agenda
 
+time | topic | description
+---|---|---
 6:30 - 6:50    | **Html Pages** | Structured presentation
 7:00 - 7:30    | **Html**       | Presenting content
 : - :          | _Break_        | 
