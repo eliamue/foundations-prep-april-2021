@@ -1,10 +1,6 @@
 Day 2: HTML and CSS
 ===
 
-## Review
-
-Developer Tools
-
 ## Agenda
 
 Time | Topic | Notes
@@ -18,26 +14,30 @@ Time | Topic | Notes
 8:30 - 8:45    | _Commit_       | Checking in work
 8:45 - 9:00    | **GHPages**    | Show the world!
 
-### Keyboard 2
+## Review
+
+Developer Tools
+
+## Keyboard 2
 
 > [Let your fingers do the talking](keyboard.md)
 
-### Html Pages
+## Html Pages
 
 > [Structured presentation!](html-pages.md)
 
-### Html
+## Html
 
 > [Presenting content](html.md)
 
-### CSS
+## CSS
 
 > [Styling content](css.md)
 
-### Commit
+## Commit
 
 > [Checking in work](../commit.md)
 
-### GhPages
+## GhPages
 
 > [Show the world!](gh-pages.md)
