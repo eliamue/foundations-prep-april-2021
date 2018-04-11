@@ -1,4 +1,4 @@
-Day 1: HTML and CSS
+Day 2: HTML and CSS
 ===
 
 ## Review
