@@ -14,32 +14,32 @@ Html
 
 Tag | Description
 ---|---
-<h1></h1> | Header Level 1
-<h2></h2> | Header Level 2
-<ul><li></li></ul> | Bullet List
-<ol><li></li></ol> | Numbered List
+`<h1></h1>` | Header Level 1
+`<h2></h2>` | Header Level 2
+`<ul><li></li></ul>` | Bullet List
+`<ol><li></li></ol>` | Numbered List
 
 ## Text
 
 Tag | Description
 ---|---
-<p></p> | Paragraph
-<em></em> | Italics
-<strong></strong> | Bold
+`<p></p>` | Paragraph
+`<em></em>` | Italics
+`<strong></strong>` | Bold
 
 ## Blocks
 
 Tag | Description
 ---|---
-<div></div> | Division
-<article></article> | Content
+`<div></div>` | Division
+`<article></article>` | Content
 
 ## Visual
 
 Tag | Description
 ---|---
-<img src=""> | Image
-<hr> | Horizontal Rule
+`<img src="">` | Image
+`<hr>` | Horizontal Rule
 
 ## Attributes: `id` and `class`
 
@@ -50,8 +50,8 @@ Tag | Description
 
 Tag | Description
 ---|---
-<a href="other-page.html"></a> | Link to another page
-<a href="#flowers"></a> | Jump to element with id
+`<a href="other-page.html"></a>` | Link to another page
+`<a href="#flowers"></a>` | Jump to element with id
 
 ## Outcome
 
