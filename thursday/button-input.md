@@ -8,7 +8,7 @@ Buttons and Input
 tag     | type
 ---|---
 `<input>` | <input>
-`<input type="text">` | <input type="text"
+`<input type="text">` | <input type="text">
 `<input type="checkbox">` | <input type="checkbox">
 `<input type="radio">` | <input type="radio">
 `<textarea></textarea>` | <textarea></textarea>
