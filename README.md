@@ -81,9 +81,8 @@ Time | Topic | Notes
 Time | Topic | Notes
 ---|---|---
 6:00 - 6:15    | Review       | Using JavaScript
-6:15 - 6:45    | button/input | basic user input
-6:55 - 7:10    | functions    | Saving code for later
-7:15 - 7:30    | `onclick`    | Responding to user input
+6:15 - 6:45    | button/input          | basic user input
+7:00 - 7:30    | functions/`onclick`    | Saving code for later
 : - :  | _Break_   | 
 8:00 - 8:20    | read DOM     | Finding and reading values from inputs
 8:20 - 8:40    | write DOM    | Updating content
