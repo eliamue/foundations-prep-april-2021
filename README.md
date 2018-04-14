@@ -92,10 +92,10 @@ Time | Topic | Notes
 
 Time | Topic | Notes
 ---|---|---
-6:00 - 6:30    | Review         | Combining Html, JavaScript and Css
-6:30 - 7:30    | Guest Speaker  | Chat with an ACL alum
+6:00 - 6:15    | Review         | Plus pizza and beverages
+6:15 - 7:15    | Guest Panel    | Chat and Q&A with an ACL alums
 : - :  | _Break_        | 
-8:00 - 9:00    | Wrap-up        | Q&A, discussion, next steps
+7:30 - 8:00    | Wrap-up        | Q&A, discussion, next steps
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
