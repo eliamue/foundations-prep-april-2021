@@ -43,8 +43,11 @@ Time | Topic | Notes
         1. Try making things
     1. Read blog articles
         * Follow along with sample code in own project
-    1. Go to a meetup
-        * Meet people in the community
+    1. Go to a meetup - Meet people in the community
+        * https://calagator.org/
+        * meetup.com
+        * eventrbrite.com
+        * https://www.designweekportland.com/
     1. Online Tutorials
         * https://www.freecodecamp.org/
         * https://www.codecademy.com/learn/introduction-to-javascript
