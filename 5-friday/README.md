@@ -22,10 +22,10 @@ Time | Topic | Notes
 
 * Repository is live, so review information
 * Links to marty's in-class work:
-    1. [Monday](https://github.com/martypdx/bcp-demo)
-    1. [Tuesday](https://github.com/martypdx/bcp-html)
-    1. [Wednesday](https://github.com/martypdx/bcp-js)
-    1. [Thursday](https://github.com/martypdx/bcp-app)
+    1. Monday
+    1. Tuesday
+    1. Wednesday
+    1. Thursday
 
 ### Priorities
 

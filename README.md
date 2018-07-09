@@ -29,11 +29,11 @@ Time           | Agenda
 
 ## Day-by-Day Agendas
 
-* [Monday](monday/README.md)
-* [Tuesday](tuesday/README.md)
-* [Wednesday](wednesday/README.md)
-* [Thursday](thursday/README.md)
-* [Friday](friday/README.md)
+* [Monday](1-monday/README.md)
+* [Tuesday](2-tuesday/README.md)
+* [Wednesday](3-wednesday/README.md)
+* [Thursday](4-thursday/README.md)
+* [Friday](5-friday/README.md)
 
 ## Nightly Agenda
 

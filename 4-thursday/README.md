@@ -3,7 +3,7 @@ Day 4: Html, CSS, and JavaScript
 
 ## Review
 
-[JavaScript](../wednesday)
+[JavaScript](../3-wednesday)
 
 ## Agenda
 

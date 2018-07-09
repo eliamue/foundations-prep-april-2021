@@ -3,7 +3,7 @@ Day 3: JavaScript
 
 ## Review
 
-[Html and CSS](../tuesday)
+[Html and CSS](../2-tuesday)
 
 ## Agenda
 
