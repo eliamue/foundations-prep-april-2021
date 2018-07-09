@@ -36,3 +36,19 @@ _italic_
 1. three
 ```
 
+## Code
+
+### Inline
+
+```md
+Assign the two added values: `var x = 1 + 2`
+```
+
+### Code Fences
+
+```md
+```js
+// this is some JavaScript code
+var x = 1 + 2;
+```
+<pre>```</pre>

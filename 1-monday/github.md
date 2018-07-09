@@ -10,8 +10,8 @@ Have a `GitHub` account.
 ## Github vs Git???
 
 * Git is a system for 
-    * Managing changes to files
-    * Distributing copies of code, including different versions of the code.
+    1. Managing changes to files
+    2. Distributing copies of code, including different versions of the code.
 * GitHub is an online site to which you can distribute your code
 
 ## Credential Helper

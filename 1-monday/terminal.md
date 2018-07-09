@@ -7,6 +7,13 @@ Terminal
 
 Installed including `git`
 
+## Why?
+
+1. Speed of use (keyboard)
+1. Simplicity (no UI)
+1. Power (can be dangerous 🔥)
+1. Additional tools run from here (CLI): `git`, `npm`, `heroku`
+
 ## Files and Directories
 
 ### Paths
@@ -22,7 +29,7 @@ sigil | meaning
 
 sigil | meaning
 --- | ---
-`TAB` | auto-complete (use me!)
+`TAB` | auto-complete (**use me!**)
 `⬆⬇` | navigate history
 `CTRL` + A | go to beginning of line
 `CTRL` + E | go to end of line
@@ -40,10 +47,10 @@ command | meaning | notes
 
 command | meaning
 --- | --- 
-`touch` | create `<file>` 
-`cat`   | read `<file>` 
+`touch` | create `<file>`
+`cat`   | read `<file>`
 `echo "content" > file` | write a quick snippet to a file
-`rm`🔥 | remove `<file>` 
+`rm`🔥 | remove `<file>`
 
 ## Outcome
 

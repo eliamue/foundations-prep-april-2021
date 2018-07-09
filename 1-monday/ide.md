@@ -9,7 +9,7 @@ Have VSCode installed
 
 ## Setup
 
-### VSCode Command 
+### VSCode Command
 
 OS|Command
 ---|---
