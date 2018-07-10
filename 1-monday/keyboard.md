@@ -45,7 +45,7 @@ Windows|`WINDOWS` + `R`
 OS|Command | Reverse Command
 ---|---|---
 Mac | `CMD` + `TAB` | + `SHIFT`
-Windows|`WINDOWS` + `TAB` | + `SHIFT`
+Windows|`ALT` + `TAB` | + `SHIFT`
 
 ### Quitting
 
