@@ -1,4 +1,4 @@
-Github/Git
+GitHub/Git
 ===
 
 > Managing Code
