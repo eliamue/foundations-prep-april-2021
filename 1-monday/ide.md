@@ -46,6 +46,7 @@ Then type `shell`
 
 Toggle Via:
 
+OS|Shortcut
 ---|---
 Mac | `CMD` + `B`
 Windows|`CTRL` + `B`
