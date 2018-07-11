@@ -25,6 +25,6 @@ Command|Meaning
 
 Command|Meaning
 ---|---
-`ALT` + <code>`</code> | Switch Window
+`CMD` (or `ALT`) + <code>`</code> | Switch Window
 `CMD` + `SHIFT` + `[` | Switch Tab
 `CMD` + `SHIFT` + `]` | Reverse Switch Tab
