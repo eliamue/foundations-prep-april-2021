@@ -13,7 +13,7 @@ Command|Meaning
 ---|---
 `CMD` + `C` | Copy selected text
 `CMD` + `X` | Cut selected text
-`CMD` + `P` | Paste cut or copied text
+`CMD` + `V` | Paste cut or copied text
 
 ### Undo and Redo 
 
