@@ -7,8 +7,7 @@ Time | Topic | Notes
 ---|---|---
 6:00 - 6:15    | Review         | Plus pizza and beverages
 6:15 - 7:15    | Guest Panel    | Chat and Q&A with an ACL alums
-: - :  | _Break_        | 
-7:30 - 8:00    | Wrap-up        | Q&A, discussion, next steps
+7:15 - 8:00    | Wrap-up        | Q&A, discussion, next steps
 
 ## Alumni Q&A
 
@@ -21,11 +20,7 @@ Time | Topic | Notes
 ### Resources from Bootcamp Prep
 
 * Repository is live, so review information
-* Links to marty's in-class work:
-    1. Monday
-    1. Tuesday
-    1. Wednesday
-    1. Thursday
+* Links to marty's in-class work are in Ryver Channel Topics
 
 ### Priorities
 
@@ -41,6 +36,17 @@ Time | Topic | Notes
 1. Technical
     1. Practice don't Study
         1. Try making things
+    1. Drills
+        * Write 100 `for` loops:
+        ```js
+        for(var i = 0; i < 100; i++) {
+            console.log(i);
+        }
+        
+        for(var i = 1; i < 101; i++) {
+            console.log(i);
+        }
+        ```
     1. Read blog articles
         * Follow along with sample code in own project
     1. Go to a meetup - Meet people in the community
