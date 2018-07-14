@@ -36,17 +36,17 @@ Time | Topic | Notes
 1. Technical
     1. Practice don't Study
         1. Try making things
-    1. Drills
-        * Write 100 `for` loops:
-        ```js
-        for(var i = 0; i < 100; i++) {
-            console.log(i);
-        }
-        
-        for(var i = 1; i < 101; i++) {
-            console.log(i);
-        }
-        ```
+    1. Drills on Basic Syntax and Control Flow:
+        * Example: write 100 `for` loops:
+           ```js
+           for(var i = 0; i < 100; i++) {
+               console.log(i);
+           }
+
+           for(var i = 1; i < 101; i++) {
+               console.log(i);
+           }
+           ```
     1. Read blog articles
         * Follow along with sample code in own project
     1. Go to a meetup - Meet people in the community
