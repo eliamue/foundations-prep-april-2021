@@ -1,14 +1,6 @@
 Day 5: Alum Q&A plus Next Steps
 ===
 
-## Agenda
-
-Time | Topic | Notes
----|---|---
-6:00 - 6:15    | Review         | Plus pizza and beverages
-6:15 - 7:15    | Guest Panel    | Chat and Q&A with an ACL alums
-7:15 - 8:00    | Wrap-up        | Q&A, discussion, next steps
-
 ## Alumni Q&A
 
 * What do you wish you had known prior to entering the program?
