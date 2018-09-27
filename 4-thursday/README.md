@@ -17,27 +17,6 @@ Time | Topic | Notes
 8:20 - 8:40    | write DOM    | Updating content
 8:45 - 9:00    | _Commit_     | Checking in work
 
-### BONUS! Git Branches
-
-#### Create a branch
-
-```sh
-$ git checkout -b branch-name
-```
-
-#### Save branch to github
-
-```sh
-$ git push -u origin branch-name
-```
-
-#### Merge to master
-
-```sh
-$ git checkout master
-$ git merge branch-name
-```
-
 ### Buttons and Input
 
 > [basic user input](button-input.md)

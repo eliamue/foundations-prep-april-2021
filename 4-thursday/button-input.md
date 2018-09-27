@@ -28,3 +28,7 @@ tag     | type
 ```html
 <button>Click Me<button>
 ```
+
+## Outcome
+
+Write a function that is run when a button is clicked and outputs "hello click" to the `console.log`
