@@ -31,9 +31,9 @@ Part     | Description
 
 Part       | Description
 ---        |---
-`<header>` | The header _of the visible page_
+`<header>` | A header _of the visible page_
 `<main>`   | Main body of content
-`<footer>` | The footer _of the visible page_
+`<footer>` | A footer _of the visible page_
 
 ## Outcome
 

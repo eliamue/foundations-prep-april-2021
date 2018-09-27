@@ -34,6 +34,10 @@ sigil | meaning
 `CTRL` + A | go to beginning of line
 `CTRL` + E | go to end of line
 
+### Warning!
+
+Removing things from the command line does **not** put them in the trash/recycling. They are gone. Forever. These commands are marked with 🔥 below
+
 ### Directory Commands
 
 command | meaning | notes
@@ -51,6 +55,16 @@ command | meaning
 `cat`   | read `<file>`
 `echo "content" > file` | write a quick snippet to a file
 `rm`🔥 | remove `<file>`
+
+## Use the `man` Luke
+
+You can look at the "manual" for command line commands by typing `man <command>`, for example:
+
+```sh
+> man cd
+```
+
+will show you the built-in documentation for `cd` (change directory).
 
 ## Outcome
 
