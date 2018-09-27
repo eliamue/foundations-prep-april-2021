@@ -9,14 +9,17 @@ JavaScript Syntax
 
 ### Evaluation
 
-* `undefined`
-* Types
+* Primitive Types
     * Numbers
     * Boolean
     * String
+* `undefined`
+* `null`
 * Operators
     * Mathematic
+        * `+`, `-`, `*`, `/`, `%`
     * Logical
+        * `!`, `&&`, `||`
 * Grouping via `(` `)`
 * Literals
     * Arrays `[` `]`

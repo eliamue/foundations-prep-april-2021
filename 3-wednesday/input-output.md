@@ -21,4 +21,4 @@ Dealing with numbers as strings
 
 ## Outcome
 
-Commit with page that a logs even numbers up to inputted value, and alerts if input greater than 20.
+Commit with page that a logs even numbers up to prompted value, and alerts if prompted value is greater than 20.

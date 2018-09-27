@@ -5,7 +5,7 @@ CSS
 
 ## `<style></style>`
 
-For today, we will "inline our css" in a `style` tag 
+For today, we will put our css on elements and then in a `style` tag 
 
 ## Dev Tools
 
@@ -27,7 +27,7 @@ For today, we will "inline our css" in a `style` tag
 
 ### Props
 
-1. Structural
+1. Layout
 1. Stylistic
 
 ## Padding, Border, Margin

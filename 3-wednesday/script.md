@@ -3,7 +3,7 @@ JavaScript in the Browser
 
 > `<script>` and DevTools
 
-## Inlined Languages
+## Languages in the Browser
 
 Tag     | Language
 ---      |---

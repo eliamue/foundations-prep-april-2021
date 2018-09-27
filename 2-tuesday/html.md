@@ -24,8 +24,8 @@ Tag | Description
 Tag | Description
 ---|---
 `<p></p>` | Paragraph
-`<em></em>` | Italics
-`<strong></strong>` | Bold
+`<em></em>` | Emphasis
+`<strong></strong>` | Strong
 
 ## Blocks
 

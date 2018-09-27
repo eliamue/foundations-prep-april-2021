@@ -25,5 +25,5 @@ Reading and Writing DOM
 
 ```js
 const paragraph = document.getElementById('output');
-paragraph.innerText = 'The text you want to show';
+paragraph.textContent = 'The text you want to show';
 ```
