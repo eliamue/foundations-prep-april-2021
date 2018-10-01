@@ -31,6 +31,7 @@ sigil | meaning
 --- | ---
 `TAB` | auto-complete (**use me!**)
 `⬆⬇` | navigate history
+`CTRL` + R | find in history
 `CTRL` + A | go to beginning of line
 `CTRL` + E | go to end of line
 
