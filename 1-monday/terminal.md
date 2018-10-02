@@ -67,6 +67,14 @@ You can look at the "manual" for command line commands by typing `man <command>`
 
 will show you the built-in documentation for `cd` (change directory).
 
+If you are using git bash for your terminal on windows, it won't be able to find the `man` command. Instead try `<command> --help`. 
+
+```sh
+> cd --help
+```
+
+will show you the documentation for `cd`  (change directory)
+
 ## Outcome
 
 Create a `~/dev` directory. This is where you will clone your
