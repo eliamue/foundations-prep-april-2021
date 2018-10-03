@@ -13,6 +13,25 @@ Day 3: JavaScript
 
 > [`<script>` and DevTools](script.md)
 
+### Install ESLint
+
+* From terminal:
+    ```sh
+    > node --version
+    ```
+* Install `eslint`:
+    ```sh
+    > npm install -g eslint
+    ```
+* If above fails (for now):
+    ```sh
+    > sudo npm install -g eslint
+    ```
+* If above worked:
+    * Search for "ESLint", author is Dirk Baeumer
+    * `Install`
+    * `Reload`
+
 ### JS Syntax
 
 > [Evaluate the basics](syntax.md)
