@@ -13,6 +13,7 @@ Command|Meaning
 ---|---
 `CMD` + `N` | New Window (or Tab if single Window)
 `CMD` + `T` | New Tab on current Window
+`CMD` + `SHIFT` + `T` | Reopen last closed tab
 
 ### Close 
 
