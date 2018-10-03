@@ -15,22 +15,7 @@ Day 3: JavaScript
 
 ### Install ESLint
 
-* From terminal:
-    ```sh
-    > node --version
-    ```
-* Install `eslint`:
-    ```sh
-    > npm install -g eslint
-    ```
-* If above fails (for now):
-    ```sh
-    > sudo npm install -g eslint
-    ```
-* If above worked:
-    * Search for "ESLint", author is Dirk Baeumer
-    * `Install`
-    * `Reload`
+> [Install ESLint](eslint.md)
 
 ### JS Syntax
 

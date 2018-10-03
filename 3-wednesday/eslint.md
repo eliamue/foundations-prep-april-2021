@@ -1,0 +1,32 @@
+Install ESLint
+===
+
+## Check Node Version
+
+From terminal:
+
+```sh
+> node --version
+```
+
+## Install `eslint`
+
+From terminal:
+
+```sh
+> npm install -g eslint
+```
+
+If above fails (for now):
+
+```sh
+> sudo npm install -g eslint
+```
+
+## Install VSCode Extension
+
+(Skip if above failed)
+
+* Search for "ESLint", author is Dirk Baeumer
+* `Install`
+* `Reload`
