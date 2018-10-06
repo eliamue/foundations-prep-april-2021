@@ -12,7 +12,10 @@ Day 5: Alum Q&A plus Next Steps
 ### Resources from Bootcamp Prep
 
 * Repository is live, so review information
-* Links to marty's in-class work are in Ryver Channel Topics
+* Links to in-class work:
+   * [Day 2](https://github.com/mjordancodes/glowing-succotash)
+   * [Day 3](https://github.com/martypdx/bcp-day-three)
+   * [Day 4](https://github.com/martypdx/bcp-day-four)
 
 ### Priorities
 
