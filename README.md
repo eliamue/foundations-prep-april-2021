@@ -19,13 +19,15 @@ By the end of this week you'll have leveled up your development skills!
 
 Time           | Agenda       
 ---            |---           
-6:00 - 6:30    | _Intro/Review_     
-6:30 - 7:00    | **Topic A** + Try It Out     
-7:00 - 7:30    | **Topic B** + Try It Out   
-7:30 - 8:00    | _Break_      
-8:00 - 8:20    | **Topic C** + Try It Out       
-8:20 - 8:40    | **Topic D** + Try It Out      
-8:45 - 9:00    | _Commit_ 
+6:00 - 6:05    | _Intro/Review_     
+6:05 - 6:35    | **Topic A** + Try It Out     
+6:35 - 6:40    | _Retrospective_
+6:40 - 7:10    | **Topic B** + Try It Out  
+7:10 - 7:15    | _Retrospective_
+7:15 - 8:00    | _Break_      
+8:00 - 8:35    | **Topic B**    
+8:35 - 8:45    | _Commit_      
+8:45 - 9:00    | _Retrospective_ 
 
 ## Day-by-Day Agendas
 
