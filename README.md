@@ -45,10 +45,12 @@ Time | Topic | Notes
 6:15 - 6:30    | **Keyboard**    | Let your fingers do the talking
 6:30 - 7:00    | **Terminal**    | Your developer portal!
 7:10 - 7:30    | **Github/Git**  | Managing Code
+               | **Retro**       | What's working? What isn't? What can we change?
 : - :          | _Break_         |
 8:00 - 8:30    | **Git/VSCode**  | Integrated Development Environment (IDE)
 8:30 - 8:45    | **Markdown**    | Write docs the developers way
 8:45 - 9:00    | _Commit_        | Checking in work
+               | **Retro**       | What's working? What isn't? What can we change?
 
 ### Tuesday
 
@@ -58,10 +60,12 @@ Time | Topic | Notes
 6:15 - 6:30    | **Keyboard 2** | Let your fingers do the talking
 6:30 - 6:50    | **Html Pages** | Structured presentation
 7:00 - 7:30    | **Html**       | Presenting content
+               | **Retro**       | What's working? What isn't? What can we change?
 : - :          | _Break_        | 
 8:00 - 8:30    | **CSS**        | Styling content
 8:30 - 8:45    | _Commit_       | Checking in work
 8:45 - 9:00    | **GHPages**    | Show the world!
+               | **Retro**       | What's working? What isn't? What can we change?
 
 ### Wednesday
 
@@ -71,10 +75,12 @@ Time | Topic | Notes
 6:30 - 6:40    | Keyboard 3      | Working with text
 6:30 - 6:50    | JS in Browser   | `<script>` and DevTools 
 7:00 - 7:30    | JS Syntax       | Evaluate the basics
+               | **Retro**       | What's working? What isn't? What can we change?
 : - :  | _Break_         | 
 8:00 - 8:20    | Control Flow    | Managing variation and repetition
 8:30 - 8:40    | Input Output | Built-in input and output
 8:45 - 9:00    | _Commit_        | Checking in work
+               | **Retro**       | What's working? What isn't? What can we change?
 
 ### Thursday  
 
@@ -83,10 +89,12 @@ Time | Topic | Notes
 6:00 - 6:15    | Review       | Using JavaScript
 6:15 - 6:45    | button/input          | basic user input
 7:00 - 7:30    | functions/`onclick`    | Saving code for later
+               | **Retro**       | What's working? What isn't? What can we change?
 : - :  | _Break_   | 
 8:00 - 8:20    | read DOM     | Finding and reading values from inputs
 8:20 - 8:40    | write DOM    | Updating content
 8:45 - 9:00    | _Commit_     | Checking in work
+               | **Retro**       | What's working? What isn't? What can we change?
 
 ### Friday
 
@@ -94,8 +102,10 @@ Time | Topic | Notes
 ---|---|---
 6:00 - 6:15    | Review         | Plus pizza and beverages
 6:15 - 7:15    | Guest Panel    | Chat and Q&A with an ACL alums
+               | **Retro**       | What's working? What isn't? What can we change?
 : - :  | _Break_        | 
 7:30 - 8:00    | Wrap-up        | Q&A, discussion, next steps
+               | **Retro**       | What's working? What isn't? What can we change?
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
