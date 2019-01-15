@@ -14,7 +14,7 @@ Have a `GitHub` account.
     2. Distributing copies of code, including different versions of the code.
 * GitHub is an online site to which you can distribute your code
 
-## Setting up SSH for credentials
+## Setting up Credentials
 During the next step of creating a repository, [let's follow these instructions](https://help.github.com/articles/caching-your-github-password-in-git/). Make sure
 to use the right OS!
 
