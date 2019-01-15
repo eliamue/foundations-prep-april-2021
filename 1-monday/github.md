@@ -15,13 +15,8 @@ Have a `GitHub` account.
 * GitHub is an online site to which you can distribute your code
 
 ## Setting up SSH for credentials
-*Pay attention to which operating system you are viewing instructions for when you follow the various links.*
-1. Check to see if you have existing SSH keys: [link](https://help.github.com/articles/checking-for-existing-ssh-keys/)
-    - If you are creating a new key, continue on to step 2.
-    - If you already have a key you want to use, proceed to step 3.
-1. Create a new SSH key: [link](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
-1. Add your new key to your github account: [link](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
-
+During the next step of creating a repository, [let's follow these instructions](https://help.github.com/articles/caching-your-github-password-in-git/). Make sure
+to use the right OS!
 
 ## Workflow
 
