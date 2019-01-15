@@ -14,20 +14,20 @@ This will include:
 
 By the end of this week you'll have leveled up your development skills!
 
-
 ## Nightly Schedule
 
 Time           | Agenda       
 ---            |---           
-6:00 - 6:05    | _Intro/Review_     
-6:05 - 6:35    | **Topic A** + Try It Out     
-6:35 - 6:40    | _Retrospective_
-6:40 - 7:10    | **Topic B** + Try It Out  
-7:10 - 7:15    | _Retrospective_
-7:15 - 8:00    | _Break_      
+6:00 - 6:05    | _Intro/Review_ 
+6:05 - 6:10    | **Keyboard Shortcuts** 
+6:10 - 6:40    | **Topic A** + Try It Out     
+6:40 - 6:45    | _Retrospective_
+6:45 - 7:15    | **Topic B** + Try It Out  
+7:15 - 7:20    | _Retrospective_
+7:20 - 8:00    | _Break_      
 8:00 - 8:35    | **Topic B**    
 8:35 - 8:45    | _Commit_      
-8:45 - 9:00    | _Retrospective_ 
+8:45 - 9:00    | _Nightly Retrospective_ 
 
 ## Day-by-Day Agendas
 
@@ -41,73 +41,63 @@ Time           | Agenda
 
 ### Monday
 
-Time | Topic | Notes
----|---|---
-6:00 - 6:15    | _Intro_         | On the job training
-6:15 - 6:30    | **Keyboard**    | Let your fingers do the talking
-6:30 - 7:00    | **Terminal**    | Your developer portal!
-7:10 - 7:30    | **Github/Git**  | Managing Code
-               | **Retro**       | What's working? What isn't? What can we change?
-: - :          | _Break_         |
-8:00 - 8:30    | **Git/VSCode**  | Integrated Development Environment (IDE)
-8:30 - 8:45    | **Markdown**    | Write docs the developers way
-8:45 - 9:00    | _Commit_        | Checking in work
-               | **Retro**       | What's working? What isn't? What can we change?
+Topic | Notes
+---|---
+_Intro_         | On the job training
+**Keyboard**    | Let your fingers do the talking
+**Terminal**    | Your developer portal!
+**Github/Git**  | Managing Code
+**Git/VSCode**  | Integrated Development Environment (IDE)
+**Markdown**    | Write docs the developers way
+_Commit_        | Checking in work
+**Retro**       | What's working? What isn't? What can we change?
 
 ### Tuesday
 
-Time | Topic | Notes
----|---|---
-6:00 - 6:15    | _Review_       | Using your dev tools
-6:15 - 6:30    | **Keyboard 2** | Let your fingers do the talking
-6:30 - 6:50    | **Html Pages** | Structured presentation
-7:00 - 7:30    | **Html**       | Presenting content
-               | **Retro**       | What's working? What isn't? What can we change?
-: - :          | _Break_        | 
-8:00 - 8:30    | **CSS**        | Styling content
-8:30 - 8:45    | _Commit_       | Checking in work
-8:45 - 9:00    | **GHPages**    | Show the world!
-               | **Retro**       | What's working? What isn't? What can we change?
+Topic | Notes
+---|---
+_Review_       | Using your dev tools
+**Keyboard**   | Let your fingers do the talking
+**Html Pages** | Structured presentation
+**Html**       | Presenting content
+**CSS**        | Styling content
+_Commit_       | Checking in work
+**GHPages**    | Show the world!
+**Retro**      | What's working? What isn't? What can we change?
 
 ### Wednesday
 
-Time | Topic | Notes
----|---|---
-6:00 - 6:30    | Review          | Web pages
-6:30 - 6:40    | Keyboard 3      | Working with text
-6:30 - 6:50    | JS in Browser   | `<script>` and DevTools 
-7:00 - 7:30    | JS Syntax       | Evaluate the basics
-               | **Retro**       | What's working? What isn't? What can we change?
-: - :  | _Break_         | 
-8:00 - 8:20    | Control Flow    | Managing variation and repetition
-8:30 - 8:40    | Input Output | Built-in input and output
-8:45 - 9:00    | _Commit_        | Checking in work
-               | **Retro**       | What's working? What isn't? What can we change?
+Topic | Notes
+---|---
+Review          | Web pages
+Keyboard 3      | Working with text
+JS in Browser   | `<script>` and DevTools 
+JS Syntax       | Evaluate the basics
+Control Flow    | Managing variation and repetition
+Input Output    | Built-in input and output
+_Commit_        | Checking in work
+**Retro**       | What's working? What isn't? What can we change?
 
 ### Thursday  
 
-Time | Topic | Notes
----|---|---
-6:00 - 6:15    | Review       | Using JavaScript
-6:15 - 6:45    | button/input          | basic user input
-7:00 - 7:30    | functions/`onclick`    | Saving code for later
-               | **Retro**       | What's working? What isn't? What can we change?
-: - :  | _Break_   | 
-8:00 - 8:20    | read DOM     | Finding and reading values from inputs
-8:20 - 8:40    | write DOM    | Updating content
-8:45 - 9:00    | _Commit_     | Checking in work
-               | **Retro**       | What's working? What isn't? What can we change?
+Topic | Notes
+---|---
+Review                | Using JavaScript
+button/input          | basic user input
+functions/`onclick`   | Saving code for later
+read DOM              | Finding and reading values from inputs
+write DOM             | Updating content
+_Commit_              | Checking in work
+**Retro**             | What's working? What isn't? What can we change?
 
 ### Friday
 
-Time | Topic | Notes
----|---|---
-6:00 - 6:15    | Review         | Plus pizza and beverages
-6:15 - 7:15    | Guest Panel    | Chat and Q&A with an ACL alums
-               | **Retro**       | What's working? What isn't? What can we change?
-: - :  | _Break_        | 
-7:30 - 8:00    | Wrap-up        | Q&A, discussion, next steps
-               | **Retro**       | What's working? What isn't? What can we change?
+Topic | Notes
+---|---
+Review         | Plus pizza and beverages
+Guest Panel    | Chat and Q&A with an ACL alums
+Wrap-up        | Q&A, discussion, next steps
+**Retro**      | What's working? What isn't? What can we change?
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
