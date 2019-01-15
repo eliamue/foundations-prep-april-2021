@@ -23,6 +23,7 @@ to use the right OS!
 ### Create a Repository
 
 1. Add the repository to your Github account
+    - Choose add `README.md`!
 1. Notice Github offers instructions
 1. Copy the download link
 1. Go to terminal window (use keyboard to switch apps!)
