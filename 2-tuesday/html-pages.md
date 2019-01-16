@@ -9,15 +9,16 @@ Html Pages
 
 * Snippets
 * [Features](https://code.visualstudio.com/docs/languages/html)
-* Html Linting
-    * Install Extension HTMLHint (mkaufman.htmlhint)
 * `CTRL` + `SPACE` - Bring up autocomplete
 
 ### Preview
-* Open in browser (`$ open index.html` or `$ start index.html` (windows) or `xdg-open index.html` (linux))
-* Refresh browser (`CMD/CTRL` + `R`)
-* (For today, practice switching and refresh)
-* Open Dev Tools! (`CMD/CTRL` + `I`)
+
+* Live Server
+    * Install Extension "Live Server" (ritwickdey.livese)
+    * Click "Reload"!
+* To start:
+   * Click "Go Live" in bottom bar, or
+   * Select file and right click for "go live"
 
 ## Structure
 
