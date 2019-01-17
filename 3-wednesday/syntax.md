@@ -44,34 +44,6 @@ Introducing variables...
 * `--`/`++`
 * before vs after
 
-### Statements and Expressions
-
-The Basics:
-
-1. Statements **perform an action**
-    * Define and assign variables
-    * Control Flow statements
-2. Expressions produce a value
-
-Practice vs Theory:
-
-* Some expressions can be used as statements:
-    ```js
-    console.log('hello');
-    1 + 2;
-    ```
-
-* **But** most statements cannot be used where an expression is expected
-
-    ```js 
-    // this will throw a syntax error!
-    console.log(if(x > 2) { 
-        x = x + 7; 
-    });
-    ```
-
-[Let's Explore the Abstract Syntax Tree](https://astexplorer.net/)
-
 ### Debugging
 
 Stopping script
