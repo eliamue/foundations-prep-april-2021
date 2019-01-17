@@ -24,7 +24,6 @@ Tag     | Language
 * (Go to `console` vs open `console`)
 * Open source
 
-
 ## Log to Console
 
 Output to the console using `console.log`
@@ -32,6 +31,10 @@ Output to the console using `console.log`
 ## Typing in Console
 
 Evaluate JavaScript "on the fly"
+
+## `.js` Files
+
+Move our JavaScript code to own file and link via `src` on `<script>`
 
 ## Outcome
 
