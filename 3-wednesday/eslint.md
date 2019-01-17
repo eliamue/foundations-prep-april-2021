@@ -1,4 +1,4 @@
-Install ESLint
+Setup ESLint
 ===
 
 ## Check Node Version
@@ -30,3 +30,8 @@ If above fails (for now):
 * Search for "ESLint", author is Dirk Baeumer
 * `Install`
 * `Reload`
+
+## Copy `.eslintrc` configuration file
+
+[Download Bootcamp One `.eslintrc`](https://raw.githubusercontent.com/alchemy-bootcamp-one-fall-2018/classwork/master/.eslintrc)
+

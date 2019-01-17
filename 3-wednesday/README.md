@@ -13,9 +13,9 @@ Day 3: JavaScript
 
 > [`<script>` and DevTools](script.md)
 
-### Install ESLint
+### Setup ESLint
 
-> [Install ESLint](eslint.md)
+> [Setup ESLint](eslint.md)
 
 ### JS Syntax
 
