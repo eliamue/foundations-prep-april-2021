@@ -35,3 +35,7 @@ If above fails (for now):
 
 [Download Bootcamp One `.eslintrc`](https://raw.githubusercontent.com/alchemy-bootcamp-one-fall-2018/classwork/master/.eslintrc)
 
+## VSCode Tab Setting
+
+Make sure our default vscode is 4 spaces
+
