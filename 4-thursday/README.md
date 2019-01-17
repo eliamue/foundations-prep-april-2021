@@ -5,18 +5,6 @@ Day 4: Html, CSS, and JavaScript
 
 [JavaScript](../3-wednesday)
 
-## Agenda
-
-Time | Topic | Notes
----|---|---
-6:00 - 6:15    | Review       | Using JavaScript
-6:15 - 6:45    | button/input          | basic user input
-7:00 - 7:30    | functions/`onclick`    | Saving code for later
-: - :  | _Break_   | 
-8:00 - 8:20    | read DOM     | Finding and reading values from inputs
-8:20 - 8:40    | write DOM    | Updating content
-8:45 - 9:00    | _Commit_     | Checking in work
-
 ### Buttons and Input
 
 > [basic user input](button-input.md)
