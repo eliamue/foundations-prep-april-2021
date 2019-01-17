@@ -25,7 +25,7 @@ Day 3: JavaScript
 
 > [Managing variation and repetition](control-flow.md)
 
-### Input Output
+### OPTIONAL: Input Output
 
 > [Built-in input and output](input-output.md)
 
