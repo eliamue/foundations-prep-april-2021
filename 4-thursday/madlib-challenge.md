@@ -3,9 +3,9 @@ MadLib Challenge
 
 Create a web page that allows the user to play a MadLib game!
 
-## Choose a Laptop
+## Duel Laptops
 
-Whoever has the birthday closest (in the year) to January 1st goes first. Do **not** do both people at the same time! Laptop owner does all the typing on that computer.
+Work through the HTML and JavaScript simultaneously, then style independently
 
 ## Design MadLib
 
@@ -28,10 +28,6 @@ Time for a commit!
 Write the completed MadLib back to a paragraph tag in your html.
 
 Time for a commit!
-
-## Do It Again
-
-Complete the process above on the other person's computer. Don't just look at the first person's completed code. Redo **your own thinking** about the problem.
 
 ## Add Some Style
 
