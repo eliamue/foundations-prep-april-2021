@@ -7,6 +7,10 @@ Create a web page that allows the user to play a MadLib game!
 
 Work through the HTML and JavaScript simultaneously, then style independently
 
+## Create Repo
+
+Create and clone a new repo: `madlib-game`, then `cd` into it and open in VSCode!
+
 ## Design MadLib
 
 Come up with a short paragraph and pick some key words for which the user will provide values. You will need to know your sentence, where the words will be inserted, and part of speech for each word.
