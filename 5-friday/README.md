@@ -30,9 +30,12 @@ Tuesday and Thursday Study Nights
         1. Workflow (git and GitHub)
         1. VSCode familiarity
 1. Technical
-    1. Practice don't Study
-        1. Try making things
-    1. Drills on Basic Syntax and Control Flow:
+    1. Practice Don't Study
+    1. Practice Don't Study
+    1. Practice Don't Study
+    1. Did we mention: Practice Don't Study   
+        1. Meaning: Make things. Code things. Be confused. Code anyway. Code all the variations.
+    1. Example: Drills on Basic Syntax and Control Flow:
         * Example: write 100 `for` loops:
            ```js
            for(var i = 0; i < 100; i++) {
@@ -43,6 +46,8 @@ Tuesday and Thursday Study Nights
                console.log(i);
            }
            ```
+    1. Complete Form 1 (and maybe 2) of Js Learner Forms https://github.com/cmstead/jsLearnerForms
+        * Quickstart video: https://www.youtube.com/watch?v=6G3PH4vb_gc
     1. Read blog articles
         * Follow along with sample code in own project
     1. Go to a meetup - Meet people in the community
@@ -51,8 +56,7 @@ Tuesday and Thursday Study Nights
         * eventbrite.com
         * https://www.designweekportland.com/
     1. Online Tutorials
-        * Try this first ---> https://github.com/cmstead/jsLearnerForms
-            * Quickstart video: https://www.youtube.com/watch?v=6G3PH4vb_gc
+
         * https://www.freecodecamp.org/
         * https://www.codecademy.com/learn/introduction-to-javascript
         * http://www.learn-js.org/
