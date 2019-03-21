@@ -48,9 +48,11 @@ Tuesday and Thursday Study Nights
     1. Go to a meetup - Meet people in the community
         * https://calagator.org/
         * meetup.com
-        * eventrbrite.com
+        * eventbrite.com
         * https://www.designweekportland.com/
     1. Online Tutorials
+        * Try this first ---> https://github.com/cmstead/jsLearnerForms
+            * Quickstart video: https://www.youtube.com/watch?v=6G3PH4vb_gc
         * https://www.freecodecamp.org/
         * https://www.codecademy.com/learn/introduction-to-javascript
         * http://www.learn-js.org/
