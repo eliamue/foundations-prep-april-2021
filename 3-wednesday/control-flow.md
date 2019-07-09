@@ -7,7 +7,13 @@ Control Flow
 
 Follow the thread of execution...
 
-### Keywords
+## Debugging
+
+* Open Dev Tools
+* Find "Sources" tab
+* `CMD/CTRL + P` - type name of file
+
+## Keywords
 
 Structure:
 
@@ -28,6 +34,10 @@ keyword(condition) {
 * `while`
 * `for`
 
+### On Demand
+
+* `function`
+
 ## Outcome
 
-Commit with page that logs even numbers up to 100
+Debug page that logs numbers up to 100

@@ -13,15 +13,17 @@ Tag     | Language
 
 ## Link to File
 
+Using modern JavaScript modules:
+
 ```html
-<script src="index.js"></script>
+<script type="module" src="app.js"></script>
 ```
 
 ## Load in Browser
 
 * Same process as html pages (because on html page!)
 * Open Dev Tools
-* (Go to `console` vs open `console`)
+* (`console` Tab vs open `console` with `esc`)
 * Open source
 
 ## Log to Console
@@ -31,10 +33,6 @@ Output to the console using `console.log`
 ## Typing in Console
 
 Evaluate JavaScript "on the fly"
-
-## `.js` Files
-
-Move our JavaScript code to own file and link via `src` on `<script>`
 
 ## Outcome
 

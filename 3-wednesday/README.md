@@ -7,7 +7,7 @@ Day 3: JavaScript
 
 ### Keyboard 3
 
-> [Working with text](keyboard.md)
+> [Intra-app switching](keyboard.md)
 
 ### JavaScript in the Browser
 
@@ -25,9 +25,9 @@ Day 3: JavaScript
 
 > [Managing variation and repetition](control-flow.md)
 
-### OPTIONAL: Input Output
+### JS Does Browser
 
-> [Built-in input and output](input-output.md)
+> [Introducing the DOM](dom.md)
 
 ### Commit
 

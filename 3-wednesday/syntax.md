@@ -1,53 +1,30 @@
 JavaScript Syntax
 ===
 
-> Evaluate the basics
+## Types
 
-## Typing in Console
+Type | Examples | Notes
+---|---|---
+Number | `7` | floating point
+Boolean | `true` and `false` | truthy/falsey
+String | `'hello world'` | 
+Undefined | `undefined` | default function return, non-existant object properties
+Null | `null` | "missing" object
+Objects | `{ name: 'felix', type: 'cat' }` | key-value pairs
+Arrays | `['apple', 'banana', 'orange' ]` | list of things
 
-**Evaluate** JavaScript "on the fly"
+## Variables
 
-### Evaluation
+Introducing variables...remembering values
 
-* Primitive Types
-    * Numbers
-    * Boolean
-    * String
-* `undefined`
-* `null`
-* Operators
-    * Mathematic
-        * `+`, `-`, `*`, `/`, `%`
-    * Logical
-        * `!`, `&&`, `||`
-* Grouping via `(` `)`
-* Literals
-    * Arrays `[` `]`
-    * Object `{` `}`
 
-### Remembering Values
-
-Introducing variables...
-
-* `var`, or `let` and `const`
-* names
+* `let` and `const` (used to be `var`)
+* names can contain:
     * `a-z`
     * `A-Z`
     * `$` and `_`
     * `1-9` (not at beginning!)
-* assignment
-* reassignment
-* scope
-* use place of the stored value!
-
-### Increment/Decrement
-* `--`/`++`
-* before vs after
-
-### Debugging
-
-Stopping script
-
-## Outcome
-
-Use the browser console to evaluate JavaScript
+* terminology:
+    * assignment
+    * reassignment
+    * scope

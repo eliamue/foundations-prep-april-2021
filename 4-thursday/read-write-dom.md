@@ -1,32 +1,8 @@
-Reading and Writing DOM
-===
 
-> Change All the Things!
 
-## Using `document`
+## Strings all the way down...
 
-* Built in "global", like `console`
-
-## Finding Elements
-
-* `const input = document.getElementById(id);`
-
-**Advanced!**
-
-* `const input = document.querySelector('any css selector');`
- 
-## Reading Values
-
-* `const value = input.value`
-* `const checked = input.checked`
-* More...
-
-## Writing Text
-
-```js
-const paragraph = document.getElementById('output');
-paragraph.textContent = 'The text you want to show';
-```
+Dealing with numbers as strings
 
 ## Outcome
 
