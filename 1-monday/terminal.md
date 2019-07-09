@@ -77,5 +77,5 @@ will show you the documentation for `cd`  (change directory)
 
 ## Outcome
 
-Create a `~/dev` directory. This is where you will clone your
+Create a `~/alchemy/bootcamp-prep` directory. This is where you will clone your
 github repos!
