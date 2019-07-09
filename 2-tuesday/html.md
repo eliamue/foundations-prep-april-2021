@@ -55,4 +55,20 @@ Tag | Description
 
 ## Outcome
 
-Commit a rough html page to git
+Blog or News Site
+
+- header
+    - title
+    - _logo_
+- main
+    - article
+        - header
+        - img
+        - lead
+        - content
+            - 2-3 paragraphs
+            - list
+        - _aside_
+- footer
+    - author info
+    - copyright `&copy;`
