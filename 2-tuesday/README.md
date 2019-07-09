@@ -7,7 +7,7 @@ Developer Tools
 
 ## Keyboard 2
 
-> [Let your fingers do the talking](keyboard.md)
+> [Working with text](keyboard.md)
 
 ## Html Pages
 
