@@ -3,6 +3,10 @@ CSS
 
 > Styling Content
 
+## Cheat Sheet Resource
+
+https://htmlcheatsheet.com/css/
+
 ## `<style></style>`
 
 For today, we will put our css on elements and then in a `style` tag 
