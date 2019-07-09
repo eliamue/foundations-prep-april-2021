@@ -70,8 +70,9 @@ Blog or News Site
         - img
         - lead
         - content
-            - 2-3 paragraphs
+            - 3+ paragraphs (lorem ipsum okay)
             - list
+            - _section headers_
         - _aside_
 - footer
     - author info
