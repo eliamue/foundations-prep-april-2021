@@ -1,3 +1,3 @@
 # Doing Software Development
 
-![Doing Sofware Development](./assets/doingSoftwareDevelopment.png)
+![Doing Sofware Development](./assets/doing-sw-dev.png)
