@@ -16,7 +16,7 @@ Examples:
 
 ## `document`
 
-Represents to active browser page
+Represents active browser page
 
 ### Finding Elements
 
@@ -39,4 +39,4 @@ paragraph.textContent = 'The text you want to show';
 
 ## Outcome
 
-Simple Hello `<World>` App
+Simple `Hello {world}` app

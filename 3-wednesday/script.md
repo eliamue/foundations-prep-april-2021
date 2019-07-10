@@ -5,11 +5,11 @@ JavaScript in the Browser
 
 ## Languages in the Browser
 
-Tag     | Language
----      |---
---| Html
-`<style></style>` | CSS
-`<script></script>` | JavaScript
+Language | Tag | Inline
+---|---|---
+HTML | -- | --
+CSS | `<link rel="stylesheet" href="...">` | `<style>...css...</style>`
+JavaScript | `<script src="..."></script>` | `<script>...js...</script>`
 
 ## Link to File
 

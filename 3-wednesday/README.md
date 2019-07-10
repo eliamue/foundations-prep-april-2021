@@ -19,7 +19,7 @@ Day 3: JavaScript
 
 ### JS Syntax
 
-> [Evaluate the basics](syntax.md)
+> [Types and Variables](types-vars.md)
 
 ### Control Flow
 
@@ -28,6 +28,10 @@ Day 3: JavaScript
 ### JS Does Browser
 
 > [Introducing the DOM](dom.md)
+
+### Make an App
+
+> [MadLib Challenge](madlib-challenge.md)
 
 ### Commit
 
