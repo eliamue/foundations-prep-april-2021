@@ -5,13 +5,13 @@ Day 2: HTML and CSS
 
 Developer Tools
 
-## Keyboard 2
-
-> [Working with text](keyboard.md)
-
 ## Html Pages
 
 > [Structured presentation!](html-pages.md)
+
+## Keyboard 2
+
+> [Working with text](keyboard.md)
 
 ## Html
 
