@@ -28,3 +28,7 @@ Developer Tools
 ## GhPages
 
 > [Show the world!](gh-pages.md)
+
+## Install Node
+
+https://github.com/nvm-sh/nvm
