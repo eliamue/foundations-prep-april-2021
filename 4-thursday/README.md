@@ -5,13 +5,13 @@ Day 4: Html, CSS, and JavaScript
 
 [JavaScript](../3-wednesday)
 
+### Keyboard 3
+
+> [Intra-app switching](keyboard.md)
+
 ### Buttons and Input
 
 > [basic user input](button-input.md)
-
-### Functions and `onclick`
-
-> [Saving code for later](functions.md)
 
 ### Read DOM
 

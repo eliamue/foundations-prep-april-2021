@@ -1,4 +1,4 @@
-Functions and `onclick`
+Handling Events
 ===
 
 > Saving code for later/sharing behavior
@@ -9,6 +9,14 @@ Functions and `onclick`
 function doThing() {
 
 }
+```
+
+## `oninput`
+
+```html
+<label>
+    Search: <input oninput="doThing()">
+</label>
 ```
 
 ## `onclick`

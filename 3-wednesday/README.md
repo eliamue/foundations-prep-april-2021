@@ -5,10 +5,6 @@ Day 3: JavaScript
 
 [Html and CSS](../2-tuesday)
 
-### Keyboard 3
-
-> [Intra-app switching](keyboard.md)
-
 ### JavaScript in the Browser
 
 > [`<script>` and DevTools](script.md)
@@ -28,6 +24,10 @@ Day 3: JavaScript
 ### JS Does Browser
 
 > [Introducing the DOM](dom.md)
+
+### Handling Events
+
+> [Calling functions from events](handling-events.md)
 
 ### Make an App
 
