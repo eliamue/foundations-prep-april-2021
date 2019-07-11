@@ -10,7 +10,7 @@ Create and clone a new repo: `madlib-game`, then `cd` into it and open in VSCode
 Add:
 
 ```
-.eslintrc
+.eslintrc (copy in class config)
 app.js
 index.html
 main.css
