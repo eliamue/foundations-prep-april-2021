@@ -13,6 +13,10 @@ Day 4: Html, CSS, and JavaScript
 
 > [basic user input](button-input.md)
 
+### QUnit FTW!
+
+QUnit testing setup!
+
 ### Read DOM
 
 > [Finding and reading values from inputs](read-write-dom.md)
