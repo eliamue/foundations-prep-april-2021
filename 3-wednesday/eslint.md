@@ -33,7 +33,7 @@ If above fails (for now):
 
 ## Copy `.eslintrc` configuration file
 
-[Download Bootcamp One `.eslintrc`](https://raw.githubusercontent.com/alchemy-bootcamp-one-fall-2018/classwork/master/.eslintrc)
+Copy Bootcamp One `.eslintrc`
 
 ## VSCode Tab Setting
 
