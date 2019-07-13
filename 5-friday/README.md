@@ -30,6 +30,7 @@ Growth Mindset is critical!
 This is a craft. Process is critical. Where can you improve?
 
 1. Attention to Detail
+1. Focus Shifting
 1. Read Code
 1. Ownership
 1. Listen to the System
