@@ -23,6 +23,10 @@ Growth Mindset is critical!
 
 ### How Can You Improve?
 
+* Technical knowledge is fleeting
+* Good habits are invaluable
+* Bad habits are hard to loose
+
 This is a craft. Process is critical. Where can you improve?
 
 1. Attention to Detail
