@@ -3,13 +3,15 @@ Ready for Bootcamp!
 
 ## Review Project Structure
 
-Your project from last night contains the basic elements.
+Your project contains the basic elements.
 
 ## Ready for Bootcamp!
 
 ### Technically
 
 Complete pre-work, familiarity helps!
+
+**Study Nights next Tuesday and Thursday!**
 
 ### Mindset
 

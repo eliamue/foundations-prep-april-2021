@@ -9,21 +9,17 @@ Day 4: Html, CSS, and JavaScript
 
 > [Intra-app switching](keyboard.md)
 
-### Buttons and Input
-
-> [basic user input](button-input.md)
-
 ### QUnit FTW!
 
 QUnit testing setup!
 
-### Read DOM
+### Demo
 
-> [Finding and reading values from inputs](read-write-dom.md)
+Adder
 
-### Write DOM
+### App Challenge
 
-> [Updating Content](read-write-dom.md)
+> [Even-Odd Number Tester](number-tester.md)
 
 ### Commit
 

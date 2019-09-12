@@ -1,8 +1,8 @@
-Number Tester Challenge
+Even-Odd Number Tester Challenge
 ===
 
 Create an app that allows a user to enter a number and
-when the click the submit button, the app shows them
+when they click the submit button, the app shows them
 an image corresponding to even or odd.
 
 ## Strings all the way down...
@@ -55,9 +55,9 @@ your function will live. Go ahead a stub and export an empty function:
         ```js
         import isEven from '../is-even.js';
         ```
-    1. Add a test i for "is even"
+    1. Add a test for "is even"
     1. Use Arrange, Act, Assert to create a _failing_ test (verify in qunit test runner)
-    1. Implement the isEven functionality ([see docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder_()) ) and make sure test passes.
+    1. Implement the isEven functionality ([see docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Remainder) ) and make sure test passes.
     1. Add another test i for "is odd" and make sure it passes
 
 Read your code and make any improvements.
@@ -70,19 +70,20 @@ Time for a commit!
     ```js
         import isEven from './is-even.js';
     ```
-1. Reference the `input`, `button`, and the even and odd `img`
-1. Assign a function to the button click:
+1. Reference the `input` and the even and odd `img` using `document.getElementById('id')`;
+1. Create a function in `app.js` for showing/hiding images:
     ```js
-    button.onclick = function() {
+    function showCorrectImage() {
 
     }
     ```
-1. In the `onclick` function:
+1. In the html page, call the function from the `button` `onclick` attribute
+1. In the `showCorrectImage` function:
     1. Get the value from the input
     1. Convert to a number
-    1. Pass to `isEven` function and store return value.
+    1. Pass to `isEven` function and store return value in a variable.
     1. Conditionally add and remove `hidden` class from
-    correct image. ([see the docs](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList))
+    correct images. ([see the docs](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList))
 
 Read your code and make any improvements.
 
