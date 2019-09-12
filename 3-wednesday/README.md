@@ -13,7 +13,7 @@ Day 3: JavaScript
 
 > [Setup ESLint](eslint.md)
 
-### JS Syntax
+### JS Types and Variables
 
 > [Types and Variables](types-vars.md)
 

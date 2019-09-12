@@ -30,7 +30,7 @@ Time for a commit!
 
 ## Prompt for Words
 
-Provide labels and inputs for the user. Describe the grammar you want them to provide (noun, verb, adjective, etc). Keep in mind each input needs a unique `id`,so you might sequentially number them like `noun-1-input`, `noun-2-input`.
+Provide labels and inputs for the user. Describe the grammar you want them to provide (noun, verb, adjective, etc). Keep in mind each input needs a unique `id`, so you might sequentially number them like `noun-1-input`, `noun-2-input`.
 
 Also provide a button for them to click when it is time to make the MadLib. 
 

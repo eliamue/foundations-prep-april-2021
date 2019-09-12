@@ -8,7 +8,7 @@ Type | Examples | Notes
 Number | `7` | floating point
 Boolean | `true` and `false` | truthy/falsey
 String | `'hello world'` | 
-Undefined | `undefined` | default function return, non-existant object properties
+Undefined | `undefined` | default function return, non-existent object properties
 Null | `null` | "missing" object
 Objects | `{ name: 'felix', type: 'cat' }` | key-value pairs
 Arrays | `['apple', 'banana', 'orange' ]` | list of things

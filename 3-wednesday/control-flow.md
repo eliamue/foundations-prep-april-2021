@@ -31,8 +31,8 @@ keyword(condition) {
 
 ### Loop
 
-* `while`
 * `for`
+* `while`
 
 ### On Demand
 
