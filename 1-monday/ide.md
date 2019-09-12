@@ -14,14 +14,14 @@ Have VSCode installed
 OS|Command
 ---|---
 Mac | `CMD` + `SHIFT` + `P`
-Windows|`CTRL` + `SHIFT` + `P`
+Windows|`CTRL` + `SHIFT` + `P` (already installed)
 
 Then type `shell`
 
 ### Terminal Launch
 
 ```
-~/dev/project-name> code .
+~/alchemy/bootcamp-prep/project-name> code .
 ```
 
 ### Default git Editor
@@ -32,7 +32,7 @@ Then type `shell`
 
 1. Left Bar
 2. Text Files
-3. Terminal/Output
+3. Output
 
 ### Left Bar
 
