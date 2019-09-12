@@ -14,7 +14,7 @@ For today, we will put our css on elements and then in a `style` tag
 ## Dev Tools
 
 * select from `Elements`
-* Smart match
+* Visual match from dev tools to live browser on hover
 * Change values
     * `⬆⬇` +-1
     * `SHIFT` + `⬆⬇` +-10
