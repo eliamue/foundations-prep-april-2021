@@ -1,4 +1,4 @@
-Day 5: Ready for Bootcamp! plus Alum Q&A
+Ready for Bootcamp!
 ===
 
 ## Review Project Structure
@@ -47,7 +47,3 @@ This is a craft. Process is critical. Where can you improve?
 What would have to happen for me to __________________?
                                      hard thing to do
 ```
-
-## Alum Q&A
-
-In the main area, hosted by Shannon Wolcott, Career Services Director

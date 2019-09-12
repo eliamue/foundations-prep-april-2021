@@ -35,7 +35,6 @@ Time           | Agenda
 * [Tuesday](2-tuesday/README.md)
 * [Wednesday](3-wednesday/README.md)
 * [Thursday](4-thursday/README.md)
-* [Friday](5-friday/README.md)
 
 ## Nightly Agenda
 
@@ -88,16 +87,7 @@ functions/`onclick`   | Saving code for later
 read DOM              | Finding and reading values from inputs
 write DOM             | Updating content
 _Commit_              | Checking in work
-**Retro**             | What's working? What isn't? What can we change?
-
-### Friday
-
-Topic | Notes
----|---
-Review         | Plus pizza and beverages
-Guest Panel    | Chat and Q&A with an ACL alums
-Wrap-up        | Q&A, discussion, next steps
-**Retro**      | What's working? What isn't? What can we change?
+Wrap-up               | Q&A, discussion, next steps
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
