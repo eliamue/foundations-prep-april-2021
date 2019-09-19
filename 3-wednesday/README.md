@@ -21,13 +21,13 @@ Day 3: JavaScript
 
 > [Managing variation and repetition](control-flow.md)
 
-### JS Does Browser
-
-> [Introducing the DOM](dom.md)
-
 ### Handling Events
 
 > [Calling functions from events](handling-events.md)
+
+### JS Does Browser
+
+> [Introducing the DOM](dom.md)
 
 ### Make an App
 

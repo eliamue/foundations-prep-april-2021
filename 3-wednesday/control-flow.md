@@ -7,12 +7,6 @@ Control Flow
 
 Follow the thread of execution...
 
-## Debugging
-
-* Open Dev Tools
-* Find "Sources" tab
-* `CMD/CTRL + P` - type name of file
-
 ## Keywords
 
 Structure:
@@ -38,6 +32,12 @@ keyword(condition) {
 
 * `function`
 
+## Debugging
+
+* Open Dev Tools
+* Find "Sources" tab
+* `CMD/CTRL + P` - type name of file
+
 ## Outcome
 
-Debug page that logs numbers up to 100
+Write `for` loop in `app.js` that logs numbers up to 100

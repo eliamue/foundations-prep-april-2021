@@ -36,3 +36,6 @@ const result = document.getElementById('result');
 const paragraph = document.getElementById('result');
 paragraph.textContent = 'The text you want to show';
 ```
+
+## Outcome
+Let's write a nametag!
