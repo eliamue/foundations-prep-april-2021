@@ -61,15 +61,15 @@ Tag | Description
 
 Blog or News Site
 
-- header
+- <header>
     - title
     - _logo_
-- main
+- <main>
     - article
-        - header
-        - img
+        - <header>
+        - <img>
         - lead
-        - content
+        - <content>
             - 3+ paragraphs (lorem ipsum okay)
             - list
             - _section headers_

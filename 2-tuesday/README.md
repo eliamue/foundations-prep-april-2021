@@ -29,6 +29,9 @@ Developer Tools
 
 > [Show the world!](gh-pages.md)
 
+## document.getElementById()
+Use javascript to change the website!
+
 ## Install Node
 
 https://github.com/nvm-sh/nvm

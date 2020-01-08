@@ -27,7 +27,7 @@ Growth Mindset is critical!
 
 * Technical knowledge is fleeting
 * Good habits are invaluable
-* Bad habits are hard to loose
+* Bad habits are hard to lose
 
 This is a craft. Process is critical. Where can you improve?
 
