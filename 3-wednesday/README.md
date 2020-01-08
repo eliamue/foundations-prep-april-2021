@@ -4,6 +4,7 @@ Day 3: JavaScript
 ## Review
 
 [Html and CSS](../2-tuesday)
+_Make simple nametag and link to nametag.html from index.html_
 
 ### JavaScript in the Browser
 
