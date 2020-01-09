@@ -10,10 +10,6 @@ _Make simple nametag and link to nametag.html from index.html_
 
 > [`<script>` and DevTools](script.md)
 
-### Setup ESLint
-
-> [Setup ESLint](eslint.md)
-
 ### JS Types and Variables
 
 > [Types and Variables](types-vars.md)
@@ -29,6 +25,10 @@ _Make simple nametag and link to nametag.html from index.html_
 ### Handling Events
 
 > [Calling functions from events](handling-events.md)
+
+### Setup ESLint
+
+> [Setup ESLint](eslint.md)
 
 ### Make an App
 
