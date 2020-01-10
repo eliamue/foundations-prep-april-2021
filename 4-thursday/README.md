@@ -5,6 +5,8 @@ Day 4: Html, CSS, and JavaScript
 
 [JavaScript](../3-wednesday)
 
+_Let's make the nametag a different color and greeting depending on whether it is currenly daytime or nighttime._
+
 ### Keyboard 3
 
 > [Intra-app switching](keyboard.md)
