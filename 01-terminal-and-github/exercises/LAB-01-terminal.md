@@ -16,12 +16,9 @@
 1) If it's working time to commit! ACP your code and push it to your master branch!
 1) From the command line `code .` your repo.
 1) Use VSCode to write in `instructions.md`. Add to this file a list of terminal commands that you used to clone this repo and create all of the files and directories in it. Use code block syntax in `instructions.md` to show your code, like so:
- 
-
- ```console
+```console
 git clone .... 
 cd /path/to/whatever/
  ``` 
-
-1) ACP your code and push it to your master branch!
-1) Put the link to the repo in the canvas submission.
+11) ACP your code and push it to your master branch!
+12) Put the link to the repo in the canvas submission.
