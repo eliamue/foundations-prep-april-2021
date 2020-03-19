@@ -75,6 +75,7 @@ JS Syntax       | Evaluate the basics
 Control Flow    | Managing variation and repetition
 Input Output    | Built-in input and output
 _Commit_        | Checking in work
+testing javascript   | QUnit and helping your future self
 **Retro**       | What's working? What isn't? What can we change?
 
 ### Thursday  
@@ -88,6 +89,16 @@ read DOM              | Finding and reading values from inputs
 write DOM             | Updating content
 _Commit_              | Checking in work
 Wrap-up               | Q&A, discussion, next steps
+
+### Friday  
+
+Topic | Notes
+---|---
+Review                | JS and the DOM
+debugging         | dev tools deep dive!
+Quiz Page           | Using state in an application
+Wrap-up               | Q&A, discussion, next steps
+
 
 ## Resources
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
