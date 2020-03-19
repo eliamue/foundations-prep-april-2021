@@ -14,20 +14,21 @@ This will include:
 
 By the end of this week you'll have leveled up your development skills!
 
-## Nightly Schedule
+## Daily Schedule
 
 Time           | Agenda       
----            |---           
-6:00 - 6:05    | _Intro/Review_ 
-6:05 - 6:10    | **Keyboard Shortcuts** 
-6:10 - 6:40    | **Topic A** + Try It Out     
-6:40 - 6:45    | _Retrospective_
-6:45 - 7:15    | **Topic B** + Try It Out  
-7:15 - 7:20    | _Retrospective_
-7:20 - 8:00    | _Break_      
-8:00 - 8:35    | **Topic B**    
-8:35 - 8:45    | _Commit_      
-8:45 - 9:00    | _Nightly Retrospective_ 
+---            |---       
+9 - 12      | Misc events / Lab Time    
+1 - 1:15   | _TA Check-in_ 
+1:15 - 1:30   | _Warm-up_
+1:30 - 2   | _Lecture and live code_ 
+2 - 2:10   | _Break_ 
+2:10 - 2:40   | _Individual/mob/pair coding_ 
+2:40 - 2:50   | _Review_ 
+2:50 - 3   | _Break_ 
+3 - 3:30   | _Lecture and live code_
+3:30 - 4   | _Individual/mob/pair coding_ 
+4 - 6      | Misc events / Lab time
 
 ## Day-by-Day Agendas
 
