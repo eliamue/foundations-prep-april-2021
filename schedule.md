@@ -1,11 +1,11 @@
 |  	| Monday 	| Tuesday 	| Wednesday 	| Thursday 	| Friday 	|
-|-----------	|----------------------------------------------------------------------------	|---------------------------------------------------------	|-------------------------------------------------------	|---------------------------------------------------------------------------------------	|--------------------------------------------------------------------	|
-| 9 - 10 	| Coffee and bagels meet and greet 	| Lecture: HTML and CSS <br/>and Git from the command line 	| Shannon follow-up 	| Workshop: Mad Libs and <br/>design-driven dev (DOM, <br/>input.value, functions 	| Workshop: About Me page<br/>(prompts, state,<br/>and control flow) 	|
-| 10 - 11 	| Marty and Megan Kickoff 	|  	| 10:30 JS Functions 	|  	|  	|
-| 11 - noon 	|  	|  	|  	|  	| 11:30 Alum Panel and Lunch 	|
-| noon - 1 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	|  	|
-| 1 - 2 	| Lecture: Terminal -- ls, cd, rm, mkdir,<br/>touch, ../, ., -, cat, echo, >> 	| Lecture: Intro to JS <br/>(data types)  	| Lecture: JS and the DOM <br/>(document.getElementById) 	| Mad Libs continued <br/>(with github deployment). . . 	| Workshop: About Me Page, <br/>continued (with github<br/>deployment) 	|
-| 2 - 3 	|  	|  	|  	|  	|  	|
-| 3 - 4 	| Lecture: Markdown on Github in the GUI 	|  	|  	| Lecture: Debugging -- console,<br/>devtools source, `debugger`,<br/>most common errors; 	|  	|
-| 4 - 5 	|  	| 4:30 Shannon -- networking 	|  	|  	|  	|
-| 5- 6 	| 	| Network with 301 students! 	| Past Cohort demo faire 	|  	|  	|
+|-----------	|-------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------	|--------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------	|
+| 9 - 10 	| Welcome to Alchemy! <br>(Marty) 	| Breakout Check-ins<br><br>9:30 - 10:00 Self-care <br>and Student Support <br>intro (Megan) 	| Breakout Check-ins<br><br><br>9:30 JS Testing with <br>Qunit 	| Breakout Check-ins<br><br>9:30 - 10:30 -Academic <br>Policy and Procedures <br>(Marty) 	| Breakout Check-ins<br><br>Workshop: About Me page <br>(prompts, state,<br>and control flow) 	|
+| 10 - 11 	| 10:15 - 12<br>Let's zoom! 	| Lecture: Intro to JS (data types) 	|  	| 10:30 Lecture: <br>JS and the DOM <br>continued 	|  	|
+| 11 - noon 	|  	|  	|  	|  	|  	|
+| noon - 1 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	|
+| 1 - 2 	| Lecture: VSCode, Terminal <br>(ls, cd, rm, mkdir,<br>touch, ../, ., -, cat, <br>echo, >>) 	| What is <br>software development? (Marty)<br> 	| Career Services <br>Follow-up (Shannon)<br><br> 	| Mad Libs continued <br>(with github deployment) 	| Workshop: About Me Page, <br>continued (with github<br>deployment, testing, <br>and branching) 	|
+| 2 - 3 	|  	| 10:30 JS Functions 	| Lecture: JS and the DOM <br>(getElementById) 	|  	|  	|
+| 3 - 4 	| Lecture: Markdown on <br>Github in the GUI 	|  	|  	| Lecture: Debugging -- <br>console, devtools source, <br>`debugger`, most common <br>errors; 	|  	|
+| 4 - 5 	|  	| 4:30 networking<br>(Shannon) 	| 4:30 - 6<br>Past Cohort demo faire 	|  	|  	|
+| 5- 6 	| npm Workshop: Install <br>Node, alchemy-bootstrap, <br>and live-server 	| Network with 301 <br>students! 	|  	| Workshop: Testing <br>with QUnit 	| Virtual Happy Hour with<br>Alums and Industry<br>Vets! 	|
