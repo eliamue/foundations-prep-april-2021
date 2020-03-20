@@ -12,7 +12,7 @@
 | 4-5 	|  	| 4:30 networking<br>(Shannon) 	| 4:30-6<br>Past Cohort demo faire 	|  	|  	|
 | 5- 6 	| npm Workshop: Install <br>Node, alchemy-bootstrap, <br>and live-server 	| Network with 301 <br>students! 	|  	| Workshop: Testing <br>with QUnit 	| Virtual Happy Hour with<br>Alums and Industry<br>Vets! 	|
 
-###Welcome to Bootcamp Prep! We're going to spend five days giving you
+### Welcome to Bootcamp Prep! We're going to spend five days giving you
 practical "how-to" training on getting setup and using your tools like a
 professional developer. 
 
