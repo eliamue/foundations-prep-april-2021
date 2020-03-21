@@ -1,4 +1,4 @@
-Day 2: HTML and CSS
+Day 2: HTML and CSS -- Lists of Things!
 ===
 
 ## Review
@@ -7,31 +7,30 @@ Developer Tools
 
 ## Html Pages
 
-> [Structured presentation!](html-pages.md)
+> [Structured presentation!](./notes/html-pages.md)
 
 ## Keyboard 2
 
-> [Working with text](keyboard.md)
+> [Working with text](./notes/keyboard.md)
 
 ## Html
 
-> [Presenting content](html.md)
+> [Presenting content](./notes/html.md)
 
 ## CSS
 
-> [Styling content](css.md)
-
-## Commit
-
-> [Checking in work](../commit.md)
+> [Styling content](./notes/css.md)
 
 ## GhPages
 
-> [Show the world!](gh-pages.md)
-
-## document.getElementById()
-Use javascript to change the website!
+> [Show the world!](./notes/gh-pages.md)
 
 ## Install Node
 
 https://github.com/nvm-sh/nvm
+
+
+## Exercises
+    - Nametag
+    - Image Gallery
+    - Restaurant Page

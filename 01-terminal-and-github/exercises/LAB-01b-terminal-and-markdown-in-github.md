@@ -20,5 +20,6 @@
 git clone .... 
 cd /path/to/whatever/
  ``` 
-11) ACP your code and push it to your master branch!
-12) Put the link to the repo in the canvas submission.
+11) In instructions.md, also add examples of a numbered list, a bullet list, a table, bold, italicized, h1, h2, and h3 text.
+12) ACP your code and push it to your master branch!
+13) Put the link to the repo in the canvas submission.

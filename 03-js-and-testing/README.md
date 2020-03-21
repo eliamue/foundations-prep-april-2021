@@ -1,40 +1,29 @@
 Day 3: JavaScript
 ===
 
-## Review
-
-[Html and CSS](../2-tuesday)
-
 _Make a simple nametag and link to nametag.html from index.html_
 
 ### JavaScript in the Browser
 
-> [`<script>` and DevTools](script.md)
+> [`<script>` and DevTools](./notes/script.md)
 
 ### JS Types and Variables
 
-> [Types and Variables](types-vars.md)
+> [Types and Variables](./notes/types-vars.md)
 
 ### Control Flow
 
-> [Managing variation and repetition](control-flow.md)
-
-### JS Does Browser
-
-> [Introducing the DOM](dom.md)
-
-### Handling Events
-
-> [Calling functions from events](handling-events.md)
+> [Managing variation and repetition](./notes/control-flow.md)
 
 ### Setup ESLint
 
-> [Setup ESLint](eslint.md)
+> [Setup ESLint](./notes/eslint.md)
 
-### Make an App
 
-> [MadLib Challenge](madlib-challenge.md)
+### QUnit FTW!
 
-### Commit
+QUnit testing setup!
 
-> [Checking in work](../commit.md)
+### Exercises 
+    - Functions in the Browser
+    - Math functions with QUnit

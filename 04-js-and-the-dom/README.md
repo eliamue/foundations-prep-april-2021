@@ -3,26 +3,22 @@ Day 4: Html, CSS, and JavaScript
 
 ## Review
 
-[JavaScript](../3-wednesday)
-
 _Let's make the nametag a different color and greeting depending on whether it is currenly daytime or nighttime._
 
 ### Keyboard 3
 
-> [Intra-app switching](keyboard.md)
+> [Intra-app switching](./notes/keyboard.md)
 
-### QUnit FTW!
+### Handling Events
 
-QUnit testing setup!
+> [Calling functions from events](./notes/handling-events.md)
 
-### Demo
+### The DOM
 
-Adder
+> [Document Object Model](./notes/dom.md)
 
-### App Challenge
 
-> [Even-Odd Number Tester](number-tester.md)
-
-### Commit
-
-> [Checking in work](../commit.md)
+### Exercises
+    - Nametag++
+    - Mad Lib Challenge
+    - Number Tester

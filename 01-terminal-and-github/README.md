@@ -9,24 +9,24 @@ Day 1: Developer Tools
 
 ### Keyboard
 
-> [Let your fingers do the talking](keyboard.md)
+> [Let your fingers do the talking](./notes/keyboard.md)
 
 ### Terminal
 
-> [Your developer portal!](terminal.md)
+> [Your developer portal!](./notes/terminal.md)
 
 ### Github/Git
 
-> [Managing code](github.md)
+> [Managing code](./notes/github.md)
 
 ### VSCode
 
-> [Integrated Development Environment (IDE)](ide.md)
+> [Integrated Development Environment (IDE)](./notes/ide.md)
 
 ### Markdown
 
-> [Write docs the developers way](markdown.md)
+> [Write docs the developers way](./notes/markdown.md)
 
-### Commit
-
-> [Checking in work](../commit.md)
+### Exercises
+    - Terminal Challenge
+    - Documenting the Terminal Challenge in Markdown with Github
