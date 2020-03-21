@@ -1,10 +1,14 @@
 ## HTML and CSS -- lists of things
 
+![List](./list.png)
 1) Create a repo with a README.md on Github
 1) Clone your repo on the command line
 1) `cd` into your repo from the command line
 1) `alchemy-bootstrap` in your repo to get all the good stuff
-1) Make 2 wirefram designs for an image gallery site. One wirefram should have all of the images lined up vertically in a cingle column. The other wireframe should be a grid of images instead. Add these wirte. Add these wireframes to your repo. ACP!
+
+![Grid](./grid.png)
+
+1) Make 2 wireframe designs for an image gallery site. One wireframe should have all of the images lined up vertically in a single column. The other wireframe should be a grid of images instead. Add these wirte. In both wireframes, each image should be inside a container with a caption. Add these wireframes to your repo. ACP!
 1) in your `index.html`, make a `ul` with an `li` inside (style the `li` in with `list-style: none;
 ` to get rid of the browser-default dot)
 1) in the `li`, make a image item `div` with a `class='gallery-item'` attricbute, and style this image item div in `style.css`. Each image item div must also have an image, and a link.
