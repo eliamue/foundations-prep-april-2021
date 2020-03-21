@@ -35,6 +35,6 @@ myButton.addEventListener('click', doThing)
 
 const myInput = document.getElementById('my-special-input');
 
-myButton.addEventListener('input', doOtherThing)
+myInput.addEventListener('input', doOtherThing)
 
 ```

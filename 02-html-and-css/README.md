@@ -1,10 +1,6 @@
 Day 2: HTML and CSS -- Lists of Things!
 ===
 
-## Review
-
-Developer Tools
-
 ## Html Pages
 
 > [Structured presentation!](./notes/html-pages.md)
