@@ -26,6 +26,9 @@ This will include:
 
 By the end of this week you'll have leveled up your development skills!
 
+
+## Get a TA's help
+[Make a GitHub issue on this board to get a TA's attention](https://github.com/alchemycodelab/ta-room-bootcamp)
 ## Daily Schedule
 
 Time           | Agenda       

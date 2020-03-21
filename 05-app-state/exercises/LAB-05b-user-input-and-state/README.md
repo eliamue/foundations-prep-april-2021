@@ -4,6 +4,7 @@
 
 Create an "About Me" page, with a quiz based on the content of the page that the user can complete.
 
+![screenshot](shot.png)
 ## Setup 
 
 **If you have any lingering issues with setup or functionality of your laptop and the software installations, please find us to address that right away!**
