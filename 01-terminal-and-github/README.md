@@ -3,8 +3,6 @@ Day 1: Developer Tools
 
 ## Intro
 
-> This is OTJ Training!
-
 ## Agenda
 
 ### Keyboard

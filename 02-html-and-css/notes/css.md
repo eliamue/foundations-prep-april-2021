@@ -7,10 +7,6 @@ CSS
 
 https://htmlcheatsheet.com/css/
 
-## `<style></style>`
-
-For today, we will put our css on elements and then in a `style` tag 
-
 ## Dev Tools
 
 * select from `Elements`

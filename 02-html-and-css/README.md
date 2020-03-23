@@ -1,6 +1,8 @@
 Day 2: HTML and CSS -- Lists of Things!
 ===
 
+## Install VSCode
+
 ## Html Pages
 
 > [Structured presentation!](./notes/html-pages.md)
@@ -8,6 +10,7 @@ Day 2: HTML and CSS -- Lists of Things!
 ## Keyboard 2
 
 > [Working with text](./notes/keyboard.md)
+
 
 ## Html
 

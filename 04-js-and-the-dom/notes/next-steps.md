@@ -11,8 +11,6 @@ Your project contains the basic elements.
 
 Complete pre-work, familiarity helps!
 
-**Study Nights next Tuesday and Thursday!**
-
 ### Mindset
 
 Growth Mindset is critical!
