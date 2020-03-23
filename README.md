@@ -45,13 +45,6 @@ Time           | Agenda
 3:30 - 4   | _Individual/mob/pair coding_ 
 4 - 6      | Misc events / Lab time
 
-## Day-by-Day Agendas
-
-* [Monday](1-monday/README.md)
-* [Tuesday](2-tuesday/README.md)
-* [Wednesday](3-wednesday/README.md)
-* [Thursday](4-thursday/README.md)
-
 ### Monday
 
 Topic | Notes
