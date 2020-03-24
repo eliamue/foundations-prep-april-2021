@@ -20,13 +20,17 @@ Create a list of things with images.
 
 ## Image Gallery
 
-![Grid](./grid.png)
+### **Wireframes**
 
-1) Make 2 wireframe designs for an image gallery site. One wireframe should have all of the images lined up vertically in a single column. The other wireframe should be a grid of images instead. In both wireframes, each image should be inside a container with a caption. Add these wireframes to your repo. ACP!
+Make 2 wireframe designs for an image gallery site. One wireframe should have all of the images lined up vertically in a single column. The other wireframe should be a grid of images instead. In both wireframes, each image should be inside a container with a caption. Feel free to add borders, and box shadows and other design elements. Take pictures of these wireframes to your repo. ACP!
 
-1) in your `index.html`, make a `ul` with an `li` inside (style the `li` in with `list-style: none;
-` to get rid of the browser-default dot)
+  > <img src="./list.png" width="300px">
 
+  > <img src="./grid.png" width="300px">
+
+### Build out HTML and CSS
+
+1) in your `index.html`, make a `ul` with an `li` inside (style the `li` in with `list-style: none;` to get rid of the browser-default dot)
 1) in the `li`, make a image item `article` with a `class='gallery-item'` attribute, and style this image item div in `style.css`. Each image item div must also have an image, and a link.
 1) now, copy and paste this `li` seven times, and change the caption and image in every copied image item.
 1) by default, `li` tags are `display: block`. notice that the image-items all go down in a  single vertical row. take a screenshot of the vertical  row of `display: block` image-items, and add that screenshot to the repo. ACP!
