@@ -1,6 +1,6 @@
 ## HTML and CSS -- lists of things
 
-Create a list of things with images.
+Create a list of things with images. Pick a theme and you can search and copy url's from the interwebs.
 
 ## Standard Setup Process
 
