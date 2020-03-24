@@ -8,7 +8,7 @@ Recreate a classic name tag in HTML.
 3. Add Layout CSS
 4. Add Stylistic CSS
 
-![image](https://user-images.githubusercontent.com/478864/77445954-f6c20600-6daa-11ea-80ea-d7bc770ca81b.png)
+<img src="https://user-images.githubusercontent.com/478864/77445954-f6c20600-6daa-11ea-80ea-d7bc770ca81b.png" width="400px">
 
 HTML Considerations:
 
