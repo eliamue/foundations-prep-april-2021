@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+.restaurant {
+  width: 200px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.restaurant, .review {
+  border: solid 1px black;
+}
+
+.picture {
+  width: 50%;
+}
+
+.bundle {
+  width: 50%;
+}
+
+.picture {
+  height: 50px;
+}
+
+.name {
+  height: 50%
+}
+
+.review {
+  width: 50%
+}
+
+#first-review {
+  width: 100%
+}
