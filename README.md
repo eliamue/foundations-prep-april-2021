@@ -7,7 +7,7 @@
 | 11-noon 	|  	|  	|  	|  	|  	|
 | noon-1 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	|
 | 1-2 	| Lecture: VSCode, Terminal <br>(ls, cd, rm, mkdir,<br>touch, ../, ., -, cat, <br>echo, >>) 	| What is <br>software development? (Marty)<br> 	| Career Services <br>Follow-up (Shannon)<br><br> 	| Mad Libs continued <br>(with github deployment) 	| Workshop: About Me Page, <br>continued (with github<br>deployment, testing, <br>and branching) 	|
-| 2-3 	|  	| Lecture: JS Data Types 	| Lecture: JS and the DOM <br>(getElementById) 	|  	|  	|
+| 2-3 	|  	| More HTML and CSS 	| Lecture: JS and the DOM <br>(getElementById) 	|  	|  	|
 | 3-4 	| Lecture: Markdown on <br>Github in the GUI 	|  	|  	| Lecture: Debugging -- <br>console, devtools source, <br>`debugger`, most common <br>errors; 	|  	|
 | 4-5 	|  	| 4:30 networking<br>(Shannon) 	| 4:30-6<br>Past Cohort demo faire 	|  	|  	|
 | 5- 6 	| npm Workshop: Install <br>Node, alchemy-bootstrap, <br>and live-server 	| Network with 301 <br>students! 	|  	| Workshop: Testing <br>with QUnit 	| Virtual Happy Hour with<br>Alums and Industry<br>Vets! 	|
