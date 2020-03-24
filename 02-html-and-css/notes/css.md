@@ -41,7 +41,3 @@ Background and Font
 ## Font
 
 Style and size
-
-## Outcome
-
-Update Github with a stylish? web page
