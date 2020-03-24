@@ -35,7 +35,3 @@ Part       | Description
 `<header>` | A header _of the visible page_
 `<main>`   | Main body of content
 `<footer>` | A footer _of the visible page_
-
-## Outcome
-
-Update Github with a skeleton html page
