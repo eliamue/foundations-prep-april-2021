@@ -2,7 +2,7 @@
 
 |  	| Monday 	| Tuesday 	| Wednesday 	| Thursday 	| Friday 	|
 |-----------	|-------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------	|
-| 9-10 	| Welcome to Alchemy! <br>(Marty) 	| Breakout Check-ins<br><br>9:30-10:00 Self-care <br>and Student Support <br>intro (Megan) 	| Breakout Check-ins<br> 9:30-10:00 What is <br>software development? (Marty)<br>| Breakout Check-ins<br><br>9:30-10:30 -Academic <br>Policy and Procedures <br>(Marty) 	| Breakout Check-ins<br><br>Workshop: About Me page <br>(prompts, state,<br>and control flow) 	|
+| 9-10 	| Welcome to Alchemy! <br>(Marty) 	| Breakout Check-ins<br><br>9:30-10:00 Self-care <br>and Student Support <br>intro (Megan) 	| Breakout Check-ins<br><br>9:30-10:00 What is software development? (Marty)| Breakout Check-ins<br><br>9:30-10:30 Academic Policy and Procedures (Marty) 	| Breakout Check-ins<br><br>Workshop: About Me page <br>(prompts, state,<br>and control flow) 	|
 | 10-11 	| 10:15-12<br>Let's zoom! 	| Lecture: HTML and CSS 	| 10:15-12 JS Functions <br>and testing with <br>Qunit 		| 10:30 Lecture: <br>JS and the DOM <br>continued 	|  	|
 | 11-noon 	|  	|  	|  	|  	|  	|
 | noon-1 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	|
