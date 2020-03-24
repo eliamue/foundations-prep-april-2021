@@ -24,6 +24,10 @@ Day 2: HTML and CSS -- Lists of Things!
 
 > [Show the world!](./notes/gh-pages.md)
 
+## Layout with Flexbox
+
+> [Flexbox FTW](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ## Install Node
 
 https://github.com/nvm-sh/nvm
