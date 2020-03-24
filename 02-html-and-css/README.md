@@ -27,7 +27,9 @@ Day 2: HTML and CSS -- Lists of Things!
 ## Layout with Flexbox
 
 > [Flexbox FTW](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-> [Food for Thought, Material Design...](https://material.io/components/cards/)
+> Food for Though
+    - [Material Design...](https://material.io/components/cards/)
+    - [User Research](https://www.nngroup.com/articles/cards-component/)
 
 ## Install Node
 
