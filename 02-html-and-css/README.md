@@ -39,4 +39,4 @@ https://github.com/nvm-sh/nvm
 ## Exercises
     - Nametag
     - Image Gallery
-    - Restaurant Page
+    - ~~Restaurant Page~~
