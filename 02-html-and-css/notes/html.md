@@ -56,24 +56,3 @@ Tag | Description
 ---|---
 `<a href="other-page.html"></a>` | Link to another page
 `<a href="#flowers"></a>` | Jump to element with id
-
-## Outcome
-
-Blog or News Site
-
-- <header>
-    - title
-    - _logo_
-- <main>
-    - article
-        - <header>
-        - <img>
-        - lead
-        - <content>
-            - 3+ paragraphs (lorem ipsum okay)
-            - list
-            - _section headers_
-        - _aside_
-- footer
-    - author info
-    - copyright `&copy;`
