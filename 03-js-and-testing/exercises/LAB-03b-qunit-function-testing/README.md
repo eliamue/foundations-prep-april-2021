@@ -1,5 +1,3 @@
-[FORK THIS REPO](https://github.com/alchemycodelab/prep-math-functions)
-
 # Math Functions with Tests
 
 ### Writing Code To Pass Tests
@@ -23,6 +21,18 @@ Open `text/index.html` in live server. This will show you which tests are passin
 
 ## Committing 'when it works'
 Every time you get a new test to pass, ACP with a concise but descriptive commit message.
+
+## ACP, then see my tests run
+When you ACP, go to https://travis-ci.com/. You will see your tests running on the travis server!
+
+## Showing the world your tests pass!
+See this image? It's special, and is tied to the tests for this repo. Go into README.md and, following the instructions below, __**REPLACE THIS WITH WITH YOUR OWN FORKED REPO'S BADGE FROM TRAVIS-CI.COM:**__
+
+[![Build Status](https://travis-ci.com/alchemycodelab/prep-math-functions.svg?token=s6NAyhTUz8pa2uz3xLcD&branch=master)](https://travis-ci.com/alchemycodelab/prep-math-functions)
+
+This badge image is provided by travis and shows the active state of this repo's tests. This repo's tests are failing on travis because `math-functions.js` hasn't been completed yet. Here are the docs on how to replace the badge above with the badge that goes with your forked version of the repo: 
+
+https://docs.travis-ci.com/user/status-images/
 
 ## Submitting
 Link to your forked repo with passing tests in travis.
