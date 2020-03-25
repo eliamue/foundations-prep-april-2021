@@ -1,5 +1,3 @@
-[FORK THIS REPO](https://github.com/alchemycodelab/prep-math-functions)
-
 # Math Functions with Tests
 
 ### Writing Code To Pass Tests
