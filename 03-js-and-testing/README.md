@@ -11,14 +11,13 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 > [Types and Variables](./notes/types-vars.md)
 
-### Control Flow
-
-> [Managing variation and repetition](./notes/control-flow.md)
-
 ### Setup ESLint
 
 > [Setup ESLint](./notes/eslint.md)
 
+### Control Flow
+
+> [Managing variation and repetition](./notes/control-flow.md)
 
 ### QUnit FTW!
 
