@@ -21,7 +21,7 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 ### Setup qUnit for Tomorrow (time permitting)
 
-> [Testing with QUnit](./notes/tdd/md)
+> Tour of qUnit
 
 ### Exercises 
     - Functions in the Browser
