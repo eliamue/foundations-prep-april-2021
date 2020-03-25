@@ -19,9 +19,9 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 > [Managing variation and repetition](./notes/control-flow.md)
 
-### QUnit FTW!
+### TDD FTW!
 
-QUnit testing setup!
+> [Testing with QUnit](./notes/tdd/md)
 
 ### Exercises 
     - Functions in the Browser
