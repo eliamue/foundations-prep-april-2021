@@ -29,15 +29,21 @@ keyword(condition) {
 * `while`
 
 ## Together 
-Write fizzbuzz. Loop through numbers 1 through 15. If a number is less than 10, log 'fizz'. If a number is greater than or equal to 10, log 'buzz'.
 
+**Even/odd Logging**
 
-### On Demand
+Loop through numbers 1 through 15:
+- If a number is odd, log 'odd'. 
+- If a number is even, log 'even'.
+
+### On Demand Unit of Work
 
 * `function`
 
 ## Together 
-Abstract fizzbuzz into a function that accepts an argument.
+
+Abstract even/odd into a function with a parameter
+that tells it how high to count.
 
 ## Debugging
 
@@ -45,6 +51,4 @@ Abstract fizzbuzz into a function that accepts an argument.
 * Find "Sources" tab
 * `CMD/CTRL + P` - type name of file
 
-## Outcome
-
-Write `for` loop in `app.js` that logs numbers up to 100
+## Lab
