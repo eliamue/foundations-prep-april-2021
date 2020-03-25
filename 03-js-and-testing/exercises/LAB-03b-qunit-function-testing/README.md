@@ -5,7 +5,7 @@
 Today in lab you will fork and clone a GitHub repo, and then create solutions to some code problems such that your solutions pass the included tests.
 
 ### Forking the repo
-Go to https://github.com/alchemycodelab/prep-math-functions and click on the `fork` button in the upper right. This will make a copy of this repo in your own account. Clone the _forked_ version of this repo locally by using `git clone url-of-my-forked-repo.git` in the terminal.
+Go to https://github.com/alchemycodelab/prep-math-functions and click on the `fork` button in the upper right. `Forking` means that you will make a copy of this repo in your own account. Clone the _forked_ version of this repo locally by using `git clone url-of-my-forked-repo.git` in the terminal.
 
 ### Writing functions
 In your cloned repo, in `math-functions.js`, you will find a place to write functions and instructions for how to write them. The first function `sum` is done for you.
@@ -26,7 +26,7 @@ Every time you get a new test to pass, ACP with a concise but descriptive commit
 When you ACP, go to https://travis-ci.com/. You will see your tests running on the travis server!
 
 ## Showing the world your tests pass!
-See this image? It's special, and is tied to the tests for this repo. Go into README.md and, following the instructions below, __**REPLACE THIS WITH WITH YOUR OWN FORKED REPO'S BADGE FROM TRAVIS-CI.COM:**__
+See this image? It's special, and is tied to the tests for this repo. Go into `README.md` in your locally cloned repo and, following the instructions below, __**REPLACE THIS WITH WITH YOUR OWN FORKED REPO'S BADGE FROM TRAVIS-CI.COM:**__
 
 [![Build Status](https://travis-ci.com/alchemycodelab/prep-math-functions.svg?token=s6NAyhTUz8pa2uz3xLcD&branch=master)](https://travis-ci.com/alchemycodelab/prep-math-functions)
 
