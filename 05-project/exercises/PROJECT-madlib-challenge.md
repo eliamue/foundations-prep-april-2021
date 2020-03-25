@@ -27,7 +27,7 @@ Read your html code and improve.
 
 Time for a commit!
 
-Give yourself a 5 minute time box to style the page and the story, maybe find some fun images! 
+Give yourself a 60 minute time box to style the page and the story, maybe find some fun images! 
 
 Time for a commit!
 

@@ -1,24 +1,24 @@
-Day 4: Html, CSS, and JavaScript
+Day 4: JavaScript and the DOM
 ===
 
-## Review
-
-_Let's make the nametag a different color and greeting depending on whether it is currenly daytime or nighttime._
-
-### Keyboard 3
+## Keyboard 3
 
 > [Intra-app switching](./notes/keyboard.md)
 
-### Handling Events
+## TDD FTW!
+
+> [Testing with QUnit](./notes/tdd/md)
+
+## Handling Events
 
 > [Calling functions from events](./notes/handling-events.md)
 
-### The DOM
+## The DOM
 
 > [Document Object Model](./notes/dom.md)
 
 
-### Exercises
-    - Nametag++
-    - Mad Lib Challenge
-    - Number Tester
+## Exercises
+
+- Tested Functions
+- Nametag++

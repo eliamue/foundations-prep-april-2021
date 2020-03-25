@@ -1,7 +1,7 @@
 Testing with qUnit
 ===
 
-We can create tested functions in isoloation. This encourages modularity and correctness.
+We can create tested functions in isolation. This encourages modularity and correctness.
 
 ## Setup qUnit
 
