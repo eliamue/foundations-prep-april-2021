@@ -1,38 +1,46 @@
 # Math Functions with Tests
 
-### Writing Code To Pass Tests
+## Write Test, Fail. Write Code, Pass. Edit
 
-Today in lab you will fork and clone a GitHub repo, and then create solutions to some code problems such that your solutions pass the included tests.
+Expand on our test suite for `add` and `getNumbers` by writing more tests and  functions (in that order!)
 
-### Forking the repo
-Go to https://github.com/alchemycodelab/prep-math-functions and click on the `fork` button in the upper right. `Forking` means that you will make a copy of this repo in your own account. Clone the _forked_ version of this repo locally by using `git clone url-of-my-forked-repo.git` in the terminal.
+**For today, you can assume valid input**
 
-### Writing functions
-In your cloned repo, in `math-functions.js`, you will find a place to write functions and instructions for how to write them. The first function `sum` is done for you.
+**For testing tables with multiple rows, each row should be its own test**
 
-### Tests
-You are being given starter code for today, including tests. The success of your code will be determined by whether it passes tests that are in the `math-functions.test.js` file. You should
-not change anything in the test files, though you should take a look at it to see how it works.
+### `subtract` two numbers
 
-Make sure your PR passes travis!
+Input | Expected
+5, 3 | 2
 
-## Checking Tests
-Open `text/index.html` in live server. This will show you which tests are passing and which are still failing. Notice that `sum` is passing, because it is complete and correct in `math-functions.js`. For this lab, write your functions in `math-functions.js` while checking these.
+### `multiple` two numbers
 
-## Committing 'when it works'
-Every time you get a new test to pass, ACP with a concise but descriptive commit message.
+Input | Expected
+4, 3 | 12
 
-## ACP, then see my tests run
-When you ACP, go to https://travis-ci.com/. You will see your tests running on the travis server!
+### `divide` two numbers
 
-## Showing the world your tests pass!
-See this image? It's special, and is tied to the tests for this repo. Go into README.md and, following the instructions below, __**REPLACE THIS WITH WITH YOUR OWN FORKED REPO'S BADGE FROM TRAVIS-CI.COM:**__
+Input | Expected
+6, 2 | 3
+7, 0 | `Math.Infinity`
 
-[![Build Status](https://travis-ci.com/alchemycodelab/prep-math-functions.svg?token=s6NAyhTUz8pa2uz3xLcD&branch=master)](https://travis-ci.com/alchemycodelab/prep-math-functions)
+### `isEven` a number
 
-This badge image is provided by travis and shows the active state of this repo's tests. This repo's tests are failing on travis because `math-functions.js` hasn't been completed yet. Here are the docs on how to replace the badge above with the badge that goes with your forked version of the repo: 
+Input | Expected
+6 | `true`
+7 | `false`
 
-https://docs.travis-ci.com/user/status-images/
+### `getNumbers`
 
-## Submitting
-Link to your forked repo with passing tests in travis. The badge on your repo should be green.
+Input | Expected
+9 | `[2, 4, 6, 8]`
+
+### STRETCH: `fizzBuzz`
+
+Write a function called `fizzBuzz` that takes a number and returns an array of number from 1 to that number, except:
+1. Replace any number divisible by 3 with `fizz`
+1. Replace any number divisible by 5 with `fizzbuzz`
+1. Replace any number divisible by 3 and 5 with `fizzbuzz`
+
+Input | Expected
+16 | `[1, 2, 'fizz', 4, 'buzz', 'fizz', 7, 8, 'fizz', 'buzz', 11, 'fizz', 13, 14, 'fizzbuzz']`
