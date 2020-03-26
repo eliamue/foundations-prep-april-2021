@@ -25,7 +25,7 @@ Input | Expected
 Input | Expected
 ---|---
 6, 2 | 3
-7, 0 | `Math.Infinity`
+7, 0 | `Infinity`
 
 ### `isEven` a number
 
