@@ -14,7 +14,7 @@ Input | Expected
 ---|---
 5, 3 | 2
 
-### `multiple` two numbers
+### `multiply` two numbers
 
 Input | Expected
 ---|---
