@@ -34,7 +34,7 @@ Input | Expected
 6 | `true`
 7 | `false`
 
-### `getNumbers`
+### `getEvenNumbers`
 
 This function takes a number and returns an array of even number from 2 to the supplied number.
 
