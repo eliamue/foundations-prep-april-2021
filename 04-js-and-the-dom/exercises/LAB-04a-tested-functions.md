@@ -34,9 +34,40 @@ Input | Expected
 6 | `true`
 7 | `false`
 
+### `getNumbers` **EXAMPLE**
+
+This is a reference function and test for the next testing problem `getEvenNumbers`:
+
+Input | Expected
+---|---
+5 | `[1, 2, 3, 4, 5]`
+
+```js
+function getNumbers(upTo) {
+    const numbers = [];
+    for(let i = 1; i <= upTo; i++) {
+        numbers.push(i);
+    }
+    return numbers;
+}
+
+test('getNumbers function', function(assert) {
+    // arrange
+    const upTo = 5;
+    const expected = [1, 2, 3, 4, 5];
+
+    // act
+    const numbers = getNumbers(upTo);
+
+    //assert
+    assert.deepEqual(numbers, expected);
+});
+```
+
 ### `getEvenNumbers`
 
-This function takes a number and returns an array of even number from 2 to the supplied number.
+This function takes a number and returns an array of even number from 2 to the supplied number. **Use your `isEven`
+function as part of your solution.**
 
 Input | Expected
 ---|---
