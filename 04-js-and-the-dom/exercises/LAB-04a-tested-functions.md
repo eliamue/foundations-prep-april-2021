@@ -11,28 +11,33 @@ Expand on our test suite for `add` and `getNumbers` by writing more tests and  f
 ### `subtract` two numbers
 
 Input | Expected
+---|---
 5, 3 | 2
 
 ### `multiple` two numbers
 
 Input | Expected
+---|---
 4, 3 | 12
 
 ### `divide` two numbers
 
 Input | Expected
+---|---
 6, 2 | 3
 7, 0 | `Math.Infinity`
 
 ### `isEven` a number
 
 Input | Expected
+---|---
 6 | `true`
 7 | `false`
 
 ### `getNumbers`
 
 Input | Expected
+---|---
 9 | `[2, 4, 6, 8]`
 
 ### STRETCH: `fizzBuzz`
