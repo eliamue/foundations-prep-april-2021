@@ -36,6 +36,8 @@ Input | Expected
 
 ### `getNumbers`
 
+This function takes a number and returns an array of even number from 2 to the supplied number.
+
 Input | Expected
 ---|---
 9 | `[2, 4, 6, 8]`
