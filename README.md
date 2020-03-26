@@ -7,10 +7,10 @@
 | 11-noon 	|  	|  	|  	|  	| Madelib Project	|
 | noon-1 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	| Lunch 	|
 | 1-2 	| Lecture: VSCode, Terminal <br>(ls, cd, rm, mkdir,<br>touch, ../, ., -, cat, <br>echo, >>) 	| More HTML and CSS 	| Career Services <br>Follow-up (Shannon)<br><br> 	| JS and the DOM 	| MadLib Project 	|
-| 2-3 	|  	|  	| Lecture: JS and the DOM <br>(getElementById) 	|  	|  	|
-| 3-4 	| Lecture: Markdown on <br>Github in the GUI 	|  	|  	| 4:30 Most Common Errors 	|  	|
-| 4-5 	|  	| 4:30 networking<br>(Shannon) 	| 4:30-6<br>Past Cohort demo faire 	| GitHub Pages 	|  	|
-| 5- 6 	| npm Workshop: Install <br>Node, alchemy-bootstrap, <br>and live-server 	| Network with 301 <br>students! 	|  	| Branching and Pull Requests 	| Virtual Happy Hour with<br>Alums and Industry<br>Vets! 	|
+| 2-3 	|  	|  	| Lecture: JS and the DOM <br>(getElementById) 	| Branching and Pull Requests for Name Tag Lab 	|  	|
+| 3-4 	| Lecture: Markdown on <br>Github in the GUI 	|  	|  	| 	|  	|
+| 4-5 	|  	| 4:30 networking<br>(Shannon) 	| 4:30-6<br>Past Cohort demo faire 	|  	|  	|
+| 5- 6 	| npm Workshop: Install <br>Node, alchemy-bootstrap, <br>and live-server 	| Network with 301 <br>students! 	|  	| GitHub Pages<br><br>Most Common Errors 	| Virtual Happy Hour with<br>Alums and Industry<br>Vets! 	|
 
 ### Welcome to Bootcamp Prep! We're going to spend five days giving you
 practical "how-to" training on getting setup and using your tools like a
