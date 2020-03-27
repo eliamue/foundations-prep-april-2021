@@ -1,0 +1,87 @@
+/* meta */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Comic Neue";
+    src: url("/ComicNeue-Regular.woff2") format("woff2");
+}
+
+/* layout */
+
+.nametag-container {
+    margin: 25vh auto 20vh auto;
+    padding: 10px 0 20px 0;
+    width: 500px;
+    text-align: center;
+}
+
+.nametag-container p {
+    margin: 10px;
+}
+
+.nametag-info {
+    padding: 10px;
+}
+
+footer {
+    margin: auto;
+    text-align: center;
+}
+
+/* styles */
+
+body {
+    font-family: sans-serif;
+    font-size: 1.5em;
+}
+
+.nametag-container {
+    border: 3px solid gray;
+    border-radius: 15px;
+    background-color: red;
+}
+
+.nametag-greeting {
+    color: white;
+    font-weight: bold;
+    line-height: 2em;
+}
+
+.hello {
+    font-size: 4em;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.name-is {
+    font-size: 2em;
+    font-style: italic;
+}
+
+.nametag-info {
+    font-family: "Comic Neue", cursive;
+    background-color: white;
+}
+
+.name {
+    font-size: 2em;
+}
+
+.title {
+    font-style: italic;
+}
+
+footer {
+    font-family: "Comic Neue";
+}
+
+footer a {
+    color: red;
+}
