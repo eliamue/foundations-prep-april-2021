@@ -44,7 +44,9 @@ function getEvenNumbers(someNumber) {
     for (let i = 0; i < someNumber; i++) {
         // check if it's an even number
         const itIsEven = i % 2 === 0;
-        if (itIsEven) {
+        const itIsNotZero = i !== 0;
+
+        if (itIsEven && itIsNotZero) {
             // if it's an even number, push it
             myCoolArray.push(i);
         }
