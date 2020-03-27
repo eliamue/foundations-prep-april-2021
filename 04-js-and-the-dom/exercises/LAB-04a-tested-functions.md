@@ -77,7 +77,7 @@ Input | Expected
 
 Write a function called `fizzBuzz` that takes a number and returns an array of number from 1 to that number, except:
 1. Replace any number divisible by 3 with `fizz`
-1. Replace any number divisible by 5 with `fizzbuzz`
+1. Replace any number divisible by 5 with `buzz`
 1. Replace any number divisible by 3 and 5 with `fizzbuzz`
 
 Input | Expected
