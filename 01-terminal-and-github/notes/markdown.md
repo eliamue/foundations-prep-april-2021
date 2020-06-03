@@ -3,24 +3,40 @@ Markdown
 
 > Write docs the developer way
 
-## Headings
+# Headings
 
 ```md
-# h1
-## h2
-### h3
+# Big header
+## Medium header
+### Small header
 ```
+
+☝️ will render 👇
+
+
+# Big header
+## medium header
+### small header
+
 
 ## Bold and Italic
 
 ```md
-**bold**
-_italic_
+**bold text**
+_italic text_
 ```
 
-## Lists
+☝️ will render 👇
 
-### Bullets
+
+**bold text**
+_italic text_
+
+-----
+
+# Lists
+
+## Bullets
 
 ```md
 * one
@@ -28,7 +44,16 @@ _italic_
 * three
 ```
 
-### Numbered
+☝️ will render 👇
+
+
+* one
+* two
+* three
+
+## Numbered 
+
+### **NOTE: in markdown, we only type the number `1` to make a numbered list**
 
 ```md
 1. one
@@ -36,20 +61,52 @@ _italic_
 1. three
 ```
 
-## Code
+☝️ will render 👇
 
-### Inline
+
+1. one
+1. two
+1. three
+
+# Code
+
+## Inline
 
 ```md
-Assign the two added values: `var x = 1 + 2`
+Assign the two added values: `const sum = 1 + 2`
 ```
 
-### Code Fences
+☝️ will render 👇
 
-```md
+
+Assign the two added values: `const sum = 1 + 2`
+
+
+## Code Fences
+
 ```js
 // this is some JavaScript code
-var x = 1 + 2;
+const sum = 1 + 2;
+```    
+
+# Tables
+
+At the end of the day, don't write your own markdown tables. Use a generator: https://www.tablesgenerator.com/markdown_tables
+
+```md
+Name|Type|Cool Factor
+---|---|---
+spot | puppy | 10
+jumpy | frog | 7
+flaps | birb | 4
+mew-mew | kitty | 6
 ```
-<pre>```</pre>
-    
+
+☝️ will render 👇
+
+Name|Type|Cool Factor
+---|---|---
+spot | puppy | 10
+jumpy | frog | 7
+flaps | birb | 4
+mew-mew | kitty | 6

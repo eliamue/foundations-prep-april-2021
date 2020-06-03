@@ -41,3 +41,25 @@ Background and Font
 ## Font
 
 Style and size
+
+# Layout: the hard part
+
+![](./css-is-awesome.jpg)
+
+### The old world
+- tables: 
+<iframe src="www.spacejam.com" title="space jam!"></iframe>
+
+- `float: left` 
+    - simulates a sort of gravity on a page
+    - elements 'fall' either to the left or right
+
+
+[Flexbox FTW](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    - Games for learning:
+        - http://www.flexboxdefense.com/
+        - https://flexboxfroggy.com/
+
+[Also, Grid FTW](https://css-tricks.com/snippets/css/complete-guide-grid/)
+    - Games for learning:
+        - https://cssgridgarden.com/
