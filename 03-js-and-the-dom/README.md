@@ -5,6 +5,14 @@ Day 3: JavaScript and the DOM
 
 > [Intra-app switching](./notes/keyboard.md)
 
+### JavaScript in the Browser
+
+> [`<script>` and DevTools](./notes/script.md)
+
+### JS Types and Variables
+
+> [Types and Variables](./notes/types-vars.md)
+
 ## Handling Events
 
 > [Calling functions from events](./notes/handling-events.md)
@@ -12,13 +20,6 @@ Day 3: JavaScript and the DOM
 ## The DOM
 
 > [Document Object Model](./notes/dom.md)
-
-## TDD
-
-> [Testing with QUnit](./notes/tdd/md)
-    - Why do testing?
-    - https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit
-
 
 ## Exercises
 

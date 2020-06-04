@@ -27,7 +27,8 @@ Tag | Description
 
 Tag | Description
 ---|---
-`<p></p>` | Paragraph
+`<p></p>` | Paragraph Block text (`display:block`)
+`<span></span>` | Inline text (`display: inline`)
 `<em></em>` | Emphasis
 `<strong></strong>` | Strong
 
@@ -36,8 +37,28 @@ Tag | Description
 Tag | Description
 ---|---
 `<div></div>` | Division
-`<article></article>` | Content
 
+## Div soup and semantic HTML
+
+Avoid `div`s whenever possible. These tags work exactly like divs, but are treated differently by _screen readers_ and other accessibility devices. 
+
+Also, `div` soup is hard to read. Semtantic tags, meanwhile, make the purpose of your code clearer to future developers.
+
+```html
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<nav>
+<section>
+<summary>
+<time>
+```
 ## Visual
 
 Tag | Description
@@ -47,8 +68,10 @@ Tag | Description
 
 ## Attributes: `id` and `class`
 
-* `<article id="flowers"></article>`
-* `<p class="content"></p>`
+```html
+<article id="flowers"></article>
+<p class="content"></p>
+```
 
 ## Links 
 

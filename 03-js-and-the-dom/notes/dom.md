@@ -16,7 +16,7 @@ Examples:
 
 ## `document`
 
-Represents active browser page
+This is where _alllll_ the magic lives.
 
 ### Finding Elements
 
@@ -30,7 +30,7 @@ const result = document.getElementById('result');
 * `const checked = input.checked`
 * More...
 
-## Writing Text
+## Changing Text
 
 ```js
 const paragraph = document.getElementById('result');
@@ -38,4 +38,4 @@ paragraph.textContent = 'The text you want to show';
 ```
 
 ## Outcome
-Let's write a nametag!
+Let's add functionality to our nametag!
