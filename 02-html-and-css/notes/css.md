@@ -47,9 +47,7 @@ Style and size
 ![](./css-is-awesome.jpg)
 
 ### The old world
-- tables: 
-<iframe src="www.spacejam.com" title="space jam!"></iframe>
-
+- tables: https://www.spacejam.com/
 - `float: left` 
     - simulates a sort of gravity on a page
     - elements 'fall' either to the left or right
