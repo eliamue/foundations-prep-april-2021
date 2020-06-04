@@ -9,8 +9,8 @@ https://htmlcheatsheet.com/css/
 
 ## Dev Tools
 
-* select from `Elements`
 * Visual match from dev tools to live browser on hover
+* select from `Elements`
 * Change values
     * `⬆⬇` +-1
     * `SHIFT` + `⬆⬇` +-10
