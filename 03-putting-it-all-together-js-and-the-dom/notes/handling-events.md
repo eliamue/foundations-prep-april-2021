@@ -4,6 +4,11 @@ Handling Events
 
 ### Do things on click!
 
+On click, we usually want to:
+
+1) Go get stuff from an input (or some other state container)
+1) Use the stuff from the input to update application state
+1) Update the DOM to reflect the new state
 
 ## event listeners
 
@@ -11,13 +16,13 @@ Handling Events
 const myButton = document.getElementById('my-special-button');
 
 myButton.addEventListener('click', () => {
-    // put instructions here for the browser to follow whenever the user clicks this button
+    // post-click logic goes here!
 })
 
 const myInput = document.getElementById('my-special-input');
 
 myInput.addEventListener('input', () => {
-    // put instructions here for the browser to follow whenever the user types in this input
+    // post-click logic goes here!
 })
 
 ```

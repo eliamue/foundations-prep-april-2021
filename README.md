@@ -1,4 +1,4 @@
-# Bootcamp Prep: On the Job Training!
+# Bootcamp Prep: On the Job Training! {#title}
 
 |  	| Monday 	| Tuesday 	| Wednesday 	| Thursday 	| Friday 	|
 |-----------	|-------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------------------	|--------------------------------------------------------------------------------	|---------------------------------------------------------------------------------------------	|------------------------------------------------------------------------------------------------	|
@@ -12,7 +12,7 @@
 | 4-5 	|  	| 4:30 networking<br>(Shannon) 	| 4:30-6<br>Past Cohort demo faire 	|  	|  Demo Madlib Projects	|
 | 5- 6 	| npm Workshop: Install <br>Node, alchemy-bootstrap, <br>and live-server 	| Network with 301 <br>students! 	|  	| GitHub Pages<br><br>Most Common Errors 	| Virtual Happy Hour with<br>Alums and Industry<br>Vets! 	|
 
-### Welcome to Bootcamp Prep! We're going to spend five days giving you
+### Welcome to Bootcamp Prep! We're going to spend five days giving you {#five-days}
 practical "how-to" training on getting setup and using your tools like a
 professional developer. 
 
@@ -27,11 +27,11 @@ This will include:
 By the end of this week you'll have leveled up your development skills!
 
 
-## Get a TA's help
+## Get a TA's help {#help}
 [Make a GitHub issue on this board to get a TA's attention](https://github.com/alchemycodelab/ta-room-bootcamp)
 
 
-## Resources
+## Resources {#resources}
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * Keyboard Shortcuts
   * [Mac](http://www.danrodney.com/mac/)
