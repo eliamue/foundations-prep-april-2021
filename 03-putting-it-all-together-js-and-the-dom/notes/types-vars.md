@@ -28,3 +28,19 @@ Introducing variables...remembering values
     * assignment
     * reassignment
     * scope
+
+## What happens when I get the type wrong?
+
+```js
+// number + number = number
+5 + 7 // 12
+
+// string + string = string
+"5" + "7" // "57"
+
+// number + string = string
+7 + "4" // "74"
+
+// we can 'cast' the string into a number like so:
+7 + Number("4") // 11
+```

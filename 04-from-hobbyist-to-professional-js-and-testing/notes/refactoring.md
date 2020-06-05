@@ -16,6 +16,7 @@ Decisions you make today, you (or somebody) will have to live with in 6 months.
     - Every time you copy and paste, you introduce a new possibility for error
     - If you write it in one place and refer to it by name later, you only have to make changes in one place later.
 1) Store complex and ugly code in functions
+    - Keep the engine under the hood.
     - Keep all the scary monsters in the basement where they cannot hurt casual onlookers.
 1) Store magic numbers and magic strings in variables 
     - For example, define a variable called `salesTax` instead of just copying and pasting `.06` throughout your code.
@@ -104,24 +105,10 @@ Imagine the following file structure:
 ```
 my-project
     |
-    --- app.js
-    --- utils.js
+    --- utils.js // functions live here
+    --- app.js // we import them here!
 ```
 
-`app.js`
-
-Here, we will import all of our util functions and use them inside of an event listener.
-
-```js
-import { makeGreeting, sendEmail } from './utils.js'
-
-const button = document.querySelector('#my-button')
-
-button.addEventListener('click', () => {
-    const geeting = makeGreeting();
-    sendEmail(greeting);
-})
-```
 
 `utils.js`
 
@@ -136,4 +123,20 @@ export function sendEmail(greeting) {
     // imagine some email logic here
 
 }
+```
+
+
+`app.js`
+
+Here, we will import all of our util functions and use them inside of an event listener.
+
+```js
+import { makeGreeting, sendEmail } from './utils.js'
+
+const button = document.querySelector('#my-button')
+
+button.addEventListener('click', () => {
+    const geeting = makeGreeting();
+    sendEmail(greeting);
+})
 ```
