@@ -3,8 +3,6 @@ Day 1: Developer Tools
 
 ## Intro
 
-![Doing Sofware Development](./notes/assets/doing-sw-dev.png)
-
 ### Keyboard
 
 > [Let your fingers do the talking](./notes/keyboard.md)

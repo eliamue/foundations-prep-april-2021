@@ -1,5 +1,7 @@
 # Bootcamp Prep: On the Job Training!
 
+![Doing Sofware Development](./doing-sw-dev.png)
+
 ### Welcome to Bootcamp Prep! We're going to spend five days giving you
 practical "how-to" training on getting setup and using your tools like a
 professional developer. 
@@ -13,6 +15,38 @@ This will include:
 1. Integrating JavaScript with HTML and CSS
 
 By the end of this week you'll have leveled up your development skills!
+
+---
+
+# Schedule
+## Monday: Learning the tools
+- Terminal
+-  Github
+
+## Tuesday: Making a Website
+ - Semantic HTML
+ - Attributes 
+ - CSS Basics (selectors and styles)
+ - Flexbox and Grid
+ - Simple CSS Animations
+
+## Wednesday: Putting it all Together!
+ - JS basics
+ - Calling functions (and passing arguments)
+ - The DOM 
+ - Calculator App
+
+## Thursday: From Hobbyist to Professional
+  - Declaring vs Calling functions
+  - Testing Code with QUnit
+  - Refactoring (Calculator App)
+
+## Friday: What's it like on the job?
+ - Alumni Panel
+- Agile Practices vs Waterfall
+- Mad Libs Mob
+
+---
 
 ## Get a TA's help
 [Make a GitHub issue on this board to get a TA's attention](https://github.com/alchemycodelab/ta-room-bootcamp)
