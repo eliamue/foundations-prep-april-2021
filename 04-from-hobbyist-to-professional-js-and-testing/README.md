@@ -21,11 +21,11 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 > [Setting and validating expectations](./notes/tests.md)
 
-### Control Flow
+### Preview: Control Flow
 
 > [Managing variation and repetition](./notes/control-flow.md)
 
-
 ### Exercises 
+    - Refactor the calculator
     - Functions in the Browser
     - Math functions with QUnit

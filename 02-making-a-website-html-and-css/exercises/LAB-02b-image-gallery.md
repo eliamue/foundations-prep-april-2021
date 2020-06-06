@@ -24,6 +24,14 @@ Create a list of things with images. Pick a theme and you can search and copy ur
 
 Make 2 wireframe designs for an image gallery site. One wireframe should have all of the images lined up vertically in a single column. The other wireframe should be a grid of images instead. In both wireframes, each image should be inside a container with a caption. Feel free to add borders, and box shadows and other design elements. Take pictures of these wireframes to your repo. ACP!
 
+Grid Example:
+
+![](./grid.png)
+s 
+List example:
+
+![](./list.png)
+
   > <img src="./list.png" width="300px">
 
   > <img src="./grid.png" width="300px">

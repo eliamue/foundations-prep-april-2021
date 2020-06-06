@@ -13,6 +13,8 @@ Day 3: JavaScript and the DOM
 
 > [Types and Variables](./notes/types-vars.md)
 
+> [Objects and Arrays](./notes/objects-and-arrays.md)
+
 ## Handling Events
 
 > [Calling functions from events](./notes/handling-events.md)

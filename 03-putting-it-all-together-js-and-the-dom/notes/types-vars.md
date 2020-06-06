@@ -14,9 +14,20 @@ Objects | `{ name: 'felix', type: 'cat' }` | key-value pairs
 Arrays | `['apple', 'banana', 'orange' ]` | list of things
 
 ## Variables
+Variables are like a named box where you put things.
 
-Introducing variables...remembering values
+For example, typing 3.14159 over and over can cause errors and waste time.
 
+Let's store it in a variable instead, like so:
+
+```js
+const mySpecialNumber = 3.14159;
+
+console.log(mySpecialNumber); // now we can just refer to it by name
+```
+That way, instead of typing 3.14159 every time, you can type the human-readable word `mySpecialNumber`
+
+As a bonus, VSCode will now autocomplete the word `mySpecialNumber` for you
 
 * `let` and `const` (used to be `var`)
 * names can contain:
@@ -29,7 +40,7 @@ Introducing variables...remembering values
     * reassignment
     * scope
 
-## What happens when I get the type wrong?
+## Tricky stuff: What happens when I get a string mixed with a number?
 
 ```js
 // number + number = number
@@ -38,9 +49,13 @@ Introducing variables...remembering values
 // string + string = string
 "5" + "7" // "57"
 
+// STOP: why is this 57?
+
 // number + string = string
 7 + "4" // "74"
 
 // we can 'cast' the string into a number like so:
 7 + Number("4") // 11
+
+// this tranforms the string "4" into the number 4
 ```

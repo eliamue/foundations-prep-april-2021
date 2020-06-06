@@ -1,6 +1,12 @@
 # Workflow for Creating a New Lab Repository
 
+![xkcd](./git_3x.png)
+
 For each new Lab, you will need to create a new repository in GitHub. We will initialize a repo, add a few setup files (a `README.md`, `lab.md` and later a `.gitignore`) and then create a development branch (`dev`) for us to work in. This allows us to make a Pull Request from `dev` to `master` for the Instructors and TA's to review and grade:
+
+
+![xkcd](./git_commit_2x.png)
+
 
 - Login to your GitHub account and create a new repo.
   - click the "New" button

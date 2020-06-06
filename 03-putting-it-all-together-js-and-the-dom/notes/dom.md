@@ -26,7 +26,7 @@ const result = document.getElementById('result');
 // result is an element
 ```
 
-Demo: Let's go grab stuff in github in the browser!
+Demo: Let's go grab stuff in craigslist in the browser!
 
 ### Reading Values
 
@@ -36,7 +36,7 @@ const inputValue = someInput.value
 const divText = someDiv.textContent
 ```
 
-Demo: Let's go read stuff in github in the browser!
+Demo: Let's go read stuff in craigslist in the browser!
 
 
 ## Changing Text
@@ -47,7 +47,7 @@ const paragraph = document.getElementById('result');
 paragraph.textContent = 'The text you want to show';
 ```
 
-Demo: Let's go change text in github in the browser!
+Demo: Let's go change text in craigslist in the browser!
 
 ## Changing styles
 
@@ -61,7 +61,7 @@ broccoliDiv.style.color = 'green';
 broccoliDiv.classList.add('broccoli-box')
 ```
 
-Demo: Let's go change styles in github in the browser!
+Demo: Let's go change styles in craigslist in the browser!
 
 ## Outcome
 Let's add functionality to our nametag!

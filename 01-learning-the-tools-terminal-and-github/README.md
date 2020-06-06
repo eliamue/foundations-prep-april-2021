@@ -3,7 +3,7 @@ Day 1: Developer Tools
 
 ## Intro
 
-## Agenda
+![Doing Sofware Development](./notes/assets/doing-sw-dev.png)
 
 ### Keyboard
 

@@ -2,7 +2,7 @@
 
 ## Standard Setup Process
 
-1. Create a repo called `lab-03a-functions-in-the-console` on Github
+1. Create a repo called `lab-04a-functions-in-the-console` on Github
     - make sure to click add a `README.md`
 1. Copy the URL of the new repo
 1. From the command line (terminal) clone your repo:
