@@ -82,6 +82,12 @@ command | meaning | notes
 `mkdir` | make `<directory>` | can pass multiple directories to create
 `rmdir`🔥 | remove `<directory>` | doesn't work if directory has files
 
+**Demo: let's take a journey through the root and home directories...and back again!**
+
+**Please, please, pleaaaaassse don't delete anything in your root directory**
+**Please, please, pleaaaaassse don't delete anything in your root directory**
+**Please, please, pleaaaaassse don't delete anything in your root directory**
+
 ### File Commands
 
 command | meaning
