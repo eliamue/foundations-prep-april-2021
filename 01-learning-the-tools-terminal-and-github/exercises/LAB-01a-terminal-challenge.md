@@ -19,6 +19,8 @@ Make directories with `mkdir`, `cd` and `pwd`
         +- bootcamp-prep
         |
         +- bootcamp-rename-me
+            |
+            +-bootcamp-sub-directory
 ```
 
 ## Step 2
@@ -41,6 +43,9 @@ Creating files with `echo`
         +- bootcamp-one
         |
         +- bootcamp-prep
+            |
+            +-bootcamp-sub-directory
+
 ```
 
 ## Step 3
@@ -63,6 +68,9 @@ Moving files with `mv`
         +- bootcamp-one
         |
         +- bootcamp-prep
+        |
+        +-bootcamp-sub-directory
+
 ```
 
 
@@ -86,6 +94,9 @@ Renaming with `mv`
         +- bootcamp-one
         |
         +- bootcamp-prep
+            |
+            +-bootcamp-sub-directory
+
 ```
 
 ## Step 5
@@ -106,11 +117,13 @@ Remove empty directory with `rmdir`
         +- bootcamp-one
         |
         +- bootcamp-prep
+            |
+            +-bootcamp-sub-directory
 ```
 
 ## Step 6
 
-Remove directory and its contents with `rm -rf`
+Remove the bootcamp-full directory and its contents with `rm -rf`
 
 ```
 ~

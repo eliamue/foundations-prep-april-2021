@@ -109,7 +109,9 @@ If you are using git bash for your terminal on windows, it won't be able to find
 
 will show you the documentation for `cd`  (change directory)
 
-## `/.bash_profile, `/.bashrc (on mac, sometimes `/.zshrc)
+## Bash aliases
+
+`~/.bash_profile` and `~/.bashrc` (on mac, sometimes `~/.zshrc`)
 
 These files are basically the configuartion files for your terminal. They are full of terminal commands,and they are run whenever you open a terminal.
 
@@ -121,7 +123,9 @@ These config files. are a good place to put shortcuts (`alias`es) for yourself. 
 alias gac='git add . && git commit -m'
 ```
 
-Then close and reopen your terminal (alternatively, you can `source ~/.bash_profile`)
+Then close and reopen your terminal (alternatively, you can `source ~/.bash_profile`).
+
+Now you can type `gac` instead of the whole thing.
 
 NOTE: When installing `nvm`, you might have to put stuff in one of these files to get it working.
 
