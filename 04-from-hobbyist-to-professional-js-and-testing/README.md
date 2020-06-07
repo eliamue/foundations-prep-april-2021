@@ -19,7 +19,11 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 ### Writing Tests
 
-> [Setting and validating expectations](./notes/tests.md)
+> [Free Code Camp, celcius to farenheit](ecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+**Demo: Let's add celcius to farenheit functionality to our calculator**
+
+> [Setting and validating expectations](./notes/tdd.md)
 
 ### Preview: Control Flow
 

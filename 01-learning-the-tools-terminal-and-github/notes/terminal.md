@@ -18,7 +18,6 @@ Installed including `git`
 
 Setup side-by-side Terminal and Finder/GUI
 
-
 ### Compare and Contrast!
 
 Where am I?
@@ -109,6 +108,22 @@ If you are using git bash for your terminal on windows, it won't be able to find
 ```
 
 will show you the documentation for `cd`  (change directory)
+
+## `/.bash_profile, `/.bashrc (on mac, sometimes `/.zshrc)
+
+These files are basically the configuartion files for your terminal. They are full of terminal commands,and they are run whenever you open a terminal.
+
+Notice the `.` before the filename. That makes it a hidden file. To see hidden files, you need to `ls -la`.
+
+These config files. are a good place to put shortcuts (`alias`es) for yourself. For example, imagine you are sick and tired of typing `git add . && git commit -m` over and over. You can add a line to your `.bash_profile` like so:
+
+```sh
+alias gac='git add . && git commit -m'
+```
+
+Then close and reopen your terminal (alternatively, you can `source ~/.bash_profile`)
+
+NOTE: When installing `nvm`, you might have to put stuff in one of these files to get it working.
 
 ## Outcome
 
