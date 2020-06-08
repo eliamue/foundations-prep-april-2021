@@ -133,5 +133,8 @@ Remove the bootcamp-full directory and its contents with `rm -rf`
         +- bootcamp-one
         |
         +- bootcamp-prep
+            |
+            +-bootcamp-sub-directory
+
 ```
 
