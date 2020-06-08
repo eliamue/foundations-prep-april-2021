@@ -3,6 +3,10 @@ Challenge!
 
 Create the following structure inside your `~/alchemy` directory (folder).
 
+## Step 0
+
+(If you don't have a `~/alchemy` directory, go make one!)
+
 ## Step 1
 
 Make directories with `mkdir`, `cd` and `pwd`
@@ -133,5 +137,8 @@ Remove the bootcamp-full directory and its contents with `rm -rf`
         +- bootcamp-one
         |
         +- bootcamp-prep
+            |
+            +-bootcamp-sub-directory
+
 ```
 
