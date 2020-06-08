@@ -20,6 +20,8 @@ By the end of this week you'll have leveled up your development skills!
 
 ![](./agenda.png)
 
+![](./learning.png)
+
 # Schedule
 ## Monday: Learning the tools
 - Terminal
