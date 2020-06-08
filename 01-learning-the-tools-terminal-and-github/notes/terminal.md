@@ -79,7 +79,7 @@ command | meaning | notes
 --- | --- | ---
 `cd` | change `<directory>` | can use relative paths!
 `ls` | list `<directory>` | `ls -a` for system files
-`mv` | move `<directory>` `here` | takes two arguments: `from` and `to` // I NEED TO PUSH THESE TO GITHUB
+`mv` | move `<directory>` `here` | takes two arguments: `from` and `to`
 `mkdir` | make `<directory>` | can pass multiple directories to create
 `rmdir`🔥 | remove `<directory>` | doesn't work if directory has files
 
