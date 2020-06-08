@@ -33,12 +33,14 @@ By the end of this week you'll have leveled up your development skills!
  - Simple CSS Animations
 
 ## Wednesday: Putting it all Together!
+ - Shannon and career services!
  - JS basics
  - Calling functions (and passing arguments)
  - The DOM 
  - Calculator App
 
 ## Thursday: From Hobbyist to Professional
+  - Ryan and Career Track!
   - Declaring vs Calling functions
   - Testing Code with QUnit
   - Refactoring (Calculator App)

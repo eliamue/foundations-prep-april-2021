@@ -7,13 +7,13 @@ Day 1: Developer Tools
 
 > [Let your fingers do the talking](./notes/keyboard.md)
 
-### Terminal
-
-> [Your developer portal!](./notes/terminal.md)
-
 ### Github/Git
 
 > [Managing code](./notes/github.md)
+
+### Terminal
+
+> [Your developer portal!](./notes/terminal.md)
 
 ### VSCode
 
