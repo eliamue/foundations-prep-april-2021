@@ -22,7 +22,7 @@ Create a list of things with images. Pick a theme and you can search and copy ur
 
 ### **Wireframes**
 
-Make 2 wireframe designs for an image gallery site. One wireframe should have all of the images lined up vertically in a single column. The other wireframe should be a grid of images instead. In both wireframes, each image should be inside a container with a caption. Feel free to add borders, and box shadows and other design elements. Take pictures of these wireframes to your repo. ACP!
+Use these 2 wireframe designs for an image gallery site. One wireframe has all of the images lined up vertically in a single column. The other wireframe is a grid of images instead. In both wireframes, each image should be inside a container with a caption. Feel free to add borders, and box shadows and other design elements. Take pictures of these wireframes to your repo. ACP!
 
 Grid Example:
 
@@ -46,3 +46,4 @@ List example:
 1) take a screenshot of the dynamically-wrapping image items and add the screenshot to your repo.
 1) play with all the different options that flex offers for lists of things! `justify-content: flex-end`, `align-items: center`, `flex-direction: column`, etc
 1) ACP and submit the repo link to the canvas assignment
+1) If you have more time, add a header and footer and elaborate on your design.

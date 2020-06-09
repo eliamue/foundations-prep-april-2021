@@ -16,15 +16,15 @@ Make directories with `mkdir`, `cd` and `pwd`
     |
     +- alchemy
         |
-        +- bootcamp-empty
+        +- dev-101-empty
         |
-        +- bootcamp-files
+        +- dev-101-files
         |
-        +- bootcamp-prep
+        +- dev-101-prep
         |
-        +- bootcamp-rename-me
+        +- dev-101-rename-me
             |
-            +-bootcamp-sub-directory
+            +-dev-101-sub-directory
 ```
 
 ## Step 2
@@ -36,19 +36,19 @@ Creating files with `echo`
     |
     +- alchemy
         |
-        +- bootcamp-empty
+        +- dev-101-empty
         |
-        +- bootcamp-files
+        +- dev-101-files
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- bootcamp-one
+        +- dev-101-one
         |
-        +- bootcamp-prep
+        +- dev-101-prep
             |
-            +-bootcamp-sub-directory
+            +-dev-101-sub-directory
 
 ```
 
@@ -61,19 +61,19 @@ Moving files with `mv`
     |
     +- alchemy
         |
-        +- bootcamp-empty
+        +- dev-101-empty
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         
-        +- bootcamp-files
+        +- dev-101-files
         |
-        +- bootcamp-one
+        +- dev-101-one
         |
-        +- bootcamp-prep
+        +- dev-101-prep
         |
-        +-bootcamp-sub-directory
+        +-dev-101-sub-directory
 
 ```
 
@@ -87,19 +87,19 @@ Renaming with `mv`
     |
     +- alchemy
         |
-        +- bootcamp-full
+        +- dev-101-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- bootcamp-files
+        +- dev-101-files
         |
-        +- bootcamp-one
+        +- dev-101-one
         |
-        +- bootcamp-prep
+        +- dev-101-prep
             |
-            +-bootcamp-sub-directory
+            +-dev-101-sub-directory
 
 ```
 
@@ -112,33 +112,33 @@ Remove empty directory with `rmdir`
     |
     +- alchemy
         |
-        +- bootcamp-full
+        +- dev-101-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         
-        +- bootcamp-one
+        +- dev-101-one
         |
-        +- bootcamp-prep
+        +- dev-101-prep
             |
-            +-bootcamp-sub-directory
+            +-dev-101-sub-directory
 ```
 
 ## Step 6
 
-Remove the bootcamp-full directory and its contents with `rm -rf`
+Remove the dev-101-full directory and its contents with `rm -rf`
 
 ```
 ~
     |
     +- alchemy
         |        
-        +- bootcamp-one
+        +- dev-101-one
         |
-        +- bootcamp-prep
+        +- dev-101-prep
             |
-            +-bootcamp-sub-directory
+            +-dev-101-sub-directory
 
 ```
 

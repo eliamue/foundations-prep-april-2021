@@ -10,7 +10,7 @@ Day 2: HTML and CSS -- Lists of Things!
         - How will I know I've accomplished it?
         - Break the outcome into parts:
             - Is this the smallest possible outcome? If not, what is?
-                - How will I know I've accompliushed it?
+                - How will I know I've accomplished it?
 
 ## Html Pages
 
@@ -33,7 +33,7 @@ Day 2: HTML and CSS -- Lists of Things!
 
 > [Show the world!](./notes/gh-pages.md)
 
-- Demo: Let's _deploy_ our markdown from yesterday with GHpages!
+- Demo: Let's _deploy_ our html from today with GHpages!
 
 
 ##  Food for Thought
