@@ -89,6 +89,10 @@ Assign the two added values: `const sum = 1 + 2`
 const sum = 1 + 2;
 ```    
 
+## Quotes 
+
+> I can do a quote
+
 # Tables
 
 At the end of the day, don't write your own markdown tables. Use a generator: https://www.tablesgenerator.com/markdown_tables
