@@ -207,3 +207,8 @@ Use `:hover` or `:active` pseudoclasses with the `transition` property to trigge
 `transform`
 - Breaks items out of CSS layout
 - The big three: translate, scale, rotate
+
+## CSS Variables
+- In programming, giving names to things is powerful. It lets us reuse code so that we don't have to copy and paste.
+- A `class` lets us give names to HTML elements
+- A `--css-variable` lets us give names to CSS values, like colors and pixel values (i.e. `40px`, `rgb(33,44,66)`)
