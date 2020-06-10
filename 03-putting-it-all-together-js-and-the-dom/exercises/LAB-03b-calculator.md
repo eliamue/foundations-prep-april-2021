@@ -23,6 +23,8 @@ It might look a little like this:
 
 Repeat this process for subtraction, multiplication, and division.
 
+![](./outcome-validation.png)
+
 ## Some guidance:
 
 1) In the HTML, Your inputs and buttons will need ids.
