@@ -135,6 +135,8 @@ body, html {
 }
 ```
 
+`box-sizing: border-box;` is useful when trying to use percentages for width. As thinking people, we like 25 + 25 + 50 to equal 100%. If you don't use border box, you need to account for padding and margin explicitly, so you end up doing: 48.5% + 23% + 23% = 100%.
+
 # Layout: 
 ## okay here's where it gets weird
 ![](./css-is-awesome.jpg)
@@ -204,7 +206,7 @@ Use `:hover` or `:active` pseudoclasses with the `transition` property to trigge
 }
 ```
 
-`transform`
+`tran sform`
 - Breaks items out of CSS layout
 - The big three: translate, scale, rotate
 
