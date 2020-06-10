@@ -25,6 +25,10 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 > [Setting and validating expectations](./notes/tdd.md)
 
+### Debugging
+
+> [Debugging Tips](./notes/debugging.md)
+
 ### Preview: Control Flow
 
 > [Managing variation and repetition](./notes/control-flow.md)
