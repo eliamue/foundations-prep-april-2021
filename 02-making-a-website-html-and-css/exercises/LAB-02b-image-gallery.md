@@ -39,7 +39,7 @@ List example:
 ### Build out HTML and CSS
 
 1) in your `index.html`, make a `ul` with an `li` inside (style the `li` in with `list-style: none;` to get rid of the browser-default dot)
-1) in the `li`, make a image item `article` with a `class='gallery-item'` attribute, and style this image item div in `style.css`. Each image item div must also have an image, and a link.
+1) in the `li`, make a image item `article` with a `class='gallery-item'` attribute, and style this image item `article` tag in `style.css`. Each image item `article` tag must also have an image, and a link.
 1) now, copy and paste this `li` seven times, and change the caption and image in every copied image item.
 1) by default, `li` tags are `display: block`. notice that the image-items all go down in a  single vertical row. take a screenshot of the vertical  row of `display: block` image-items, and add that screenshot to the repo. ACP!
 1) in `style.css`, style the `ul` and/or `li` elements to make the image items wrap dynamically (use `display: flex` and `flex-wrap: row` on the `ul`)
