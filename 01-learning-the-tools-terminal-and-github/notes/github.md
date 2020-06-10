@@ -44,7 +44,7 @@ command | notes
 `git status` | this time, to check that everything has been staged
 `git commit -m "commit message"` | to "take the snapshot". "why" (not "what")
 `git status` | this time, to check everything is committed
-`git push origin master` | to share the changes with your remote repo (you will be asked for username and password)
+`git push origin master` | to share the changes with your remote repo (you will be asked for email and password)
 `git status` | overkill, to check that local in sync with origin
 
 ## Setting up Credentials

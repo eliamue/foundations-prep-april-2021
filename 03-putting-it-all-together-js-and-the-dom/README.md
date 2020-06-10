@@ -1,6 +1,12 @@
 Day 3: JavaScript and the DOM
 ===
 
+## create-alchemy-bootstrap
+
+> `npx create-alchemy-bootstrap .`
+
+Note: This puts the css in a separate directory!
+
 ## Keyboard 3
 
 > [Intra-app switching](./notes/keyboard.md)
