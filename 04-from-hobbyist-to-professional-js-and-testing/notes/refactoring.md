@@ -30,7 +30,7 @@ Decisions you make today, you (or somebody) will have to live with in 6 months.
 1) One big file of robot guts
 1) To outsiders it looks like a mess
     - If you didn't cook it, it's basically impossible to find, fix, or focus on one piece of the dish
-    - Cnce you step away from the casserole for a few days, you have _become an outsider_. 
+    - Once you step away from the casserole for a few days, you have _become an outsider_. 
 1) But hey, I guess it works!
     - _Just don't touch anything!_
 
@@ -109,6 +109,12 @@ my-project
     --- app.js // we import them here!
 ```
 
+Modular code is code that uses lots of different files talking to each other to organize a codebase.
+
+Some befefits of modularity (bento box code):
+    - Easier to read code
+    - Easier to maintain
+    - Easier to have clarity of intent
 
 `utils.js`
 

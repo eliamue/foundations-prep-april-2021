@@ -15,7 +15,11 @@ _Make a simple nametag and link to nametag.html from index.html_
 1) Make it good
 1) Make it fast
 
-![](./notes/code-refactoring.jpg)
+> [Refactor code!](./notes/code-refactoring.jpg)
+
+### Functions
+
+> [Write functions!](./notes/functions.md)
 
 ### Writing Tests
 
@@ -37,3 +41,4 @@ _Make a simple nametag and link to nametag.html from index.html_
     - Refactor the calculator
     - Functions in the Browser
     - Math functions with QUnit
+
