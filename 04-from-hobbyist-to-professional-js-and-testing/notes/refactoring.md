@@ -5,7 +5,7 @@ If it works, you're only halfway there.
 
 Code is _read_ ten times more than it is _written_. Who cares if it works? We need it to be _maintanable_.
 
-!()[./wtf.png]
+![./wtf.png](./wtf.png)
 Decisions you make today, you (or somebody) will have to live with in 6 months. 
     - Every line of code is _signed forever_. If you write something confusing, future developers will immediately learn and curse your name.
 

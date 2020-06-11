@@ -35,6 +35,20 @@ If above fails (for now):
 
 Copy Bootcamp One `.eslintrc`
 
+To disable a rule once:
+
+```js
+const myCoolNumber = 7; // eslint-disable-line
+```
+
+To disable a rule everywhere, go into the rules property of your `.eslintrc`
+
+```js
+...
+    "no-unused-vars": 0
+...
+```
+
 ## VSCode Tab Setting
 
 Make sure our default vscode is 4 spaces
