@@ -146,3 +146,7 @@ button.addEventListener('click', () => {
     sendEmail(greeting);
 })
 ```
+
+## No declarations in the same files as `document.getElementById()`
+
+Make sure you are defining and exporting your functions outside of your main `app.js`. If you try to test against functions that are exported in the same file as your `document.getElementById` calls, the tests will not run, becuause you will be missing some of the HTML necessary for the rest of the `app.js` code to run.

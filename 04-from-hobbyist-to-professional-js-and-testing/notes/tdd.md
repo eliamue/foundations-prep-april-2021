@@ -16,6 +16,10 @@ Testing with qUnit
 
 Notice that all of these are pure functions. They have input (`arguments`) and output, and I expect to get the same output every time I supply the same input (`arguments`). Impure functions are much more challenging to test. Therefore, we will mostly only test pure functions in this foundational course.
 
+## No HTML
+
+Make sure you are defining and exporting your functions outside of your main `app.js`. If you try to test against functions that are exported in the same file as your `document.getElementById` calls, the tests will not run, becuause you will be missing some of the HTML necessary for the rest of the `app.js` code to run.
+
 ## Setup QUnit
 
 `alchemy-bootstrap` comes with a built-in place for tests!
