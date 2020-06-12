@@ -11,3 +11,14 @@
         - Is the value what you expected? 
         - If not, why not? 
         - What would you have to change to make the actual value match your expectations?
+
+
+## Most common JS error:
+
+`Cannot read property 'type' of undefined (app.js:34)`
+`
+![](./error.png)
+
+1) Go look for `.type` on line 34 in app.js
+2) Look to the left of `.type`
+3) Figure out why the thing to the left of `.type` is undefined
