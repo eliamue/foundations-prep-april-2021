@@ -140,5 +140,5 @@ NOTE: When installing `nvm`, you might have to put stuff in one of these files t
 
 ## Outcome
 
-Create a `~/alchemy/dev-101` directory. This is where you will clone your
+Create a `~/alchemy/foundations` directory. This is where you will clone your
 github repos!

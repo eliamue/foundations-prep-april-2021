@@ -22,3 +22,7 @@
 1) Go look for `.type` on line 34 in app.js
 2) Look to the left of `.type`
 3) Figure out why the thing to the left of `.type` is undefined
+
+**Outcome: Debug this buggy repo!**
+
+https://github.com/dpcairns/buggy-calculator

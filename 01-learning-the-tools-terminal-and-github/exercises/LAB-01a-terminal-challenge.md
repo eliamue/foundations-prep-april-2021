@@ -16,15 +16,15 @@ Make directories with `mkdir`, `cd` and `pwd`
     |
     +- alchemy
         |
-        +- dev-101-empty
+        +- foundations-empty
         |
-        +- dev-101-files
+        +- foundations-files
         |
-        +- dev-101-prep
+        +- foundations-prep
         |
-        +- dev-101-rename-me
+        +- foundations-rename-me
             |
-            +-dev-101-sub-directory
+            +-foundations-sub-directory
 ```
 
 ## Step 2
@@ -36,19 +36,19 @@ Creating files with `echo`
     |
     +- alchemy
         |
-        +- dev-101-empty
+        +- foundations-empty
         |
-        +- dev-101-files
+        +- foundations-files
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101-one
+        +- foundations-one
         |
-        +- dev-101-prep
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-sub-directory
 
 ```
 
@@ -61,19 +61,19 @@ Moving files with `mv`
     |
     +- alchemy
         |
-        +- dev-101-empty
+        +- foundations-empty
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         
-        +- dev-101-files
+        +- foundations-files
         |
-        +- dev-101-one
+        +- foundations-one
         |
-        +- dev-101-prep
+        +- foundations-prep
         |
-        +-dev-101-sub-directory
+        +-foundations-sub-directory
 
 ```
 
@@ -87,19 +87,19 @@ Renaming with `mv`
     |
     +- alchemy
         |
-        +- dev-101-full
+        +- foundations-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101-files
+        +- foundations-files
         |
-        +- dev-101-one
+        +- foundations-one
         |
-        +- dev-101-prep
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-sub-directory
 
 ```
 
@@ -112,33 +112,33 @@ Remove empty directory with `rmdir`
     |
     +- alchemy
         |
-        +- dev-101-full
+        +- foundations-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         
-        +- dev-101-one
+        +- foundations-one
         |
-        +- dev-101-prep
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-sub-directory
 ```
 
 ## Step 6
 
-Remove the dev-101-full directory and its contents with `rm -rf`
+Remove the foundations-full directory and its contents with `rm -rf`
 
 ```
 ~
     |
     +- alchemy
         |        
-        +- dev-101-one
+        +- foundations-one
         |
-        +- dev-101-prep
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-sub-directory
 
 ```
 
