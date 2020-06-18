@@ -33,7 +33,7 @@ If above fails (for now):
 
 ## Copy `.eslintrc` configuration file
 
-Copy Bootcamp One `.eslintrc`
+Copy Foundations One `.eslintrc`
 
 To disable a rule once:
 

@@ -1,8 +1,8 @@
-# Bootcamp Prep: On the Job Training!
+# Foundations Prep: On the Job Training!
 
 ![Doing Sofware Development](./doing-sw-dev.png)
 
-### Welcome to Bootcamp Prep! We're going to spend five days giving you
+### Welcome to Foundations Prep! We're going to spend five days giving you
 practical "how-to" training on getting setup and using your tools like a
 professional developer. 
 
@@ -55,7 +55,7 @@ By the end of this week you'll have leveled up your development skills!
 ---
 
 ## Get a TA's help
-[Make a GitHub issue on this board to get a TA's attention](https://github.com/alchemycodelab/ta-room-bootcamp)
+[Make a GitHub issue on this board to get a TA's attention](https://github.com/alchemycodelab/ta-room-Foundations)
 
 
 ## Resources

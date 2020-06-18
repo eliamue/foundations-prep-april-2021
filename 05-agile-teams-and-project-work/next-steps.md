@@ -1,11 +1,11 @@
-Ready for Bootcamp!
+Ready for Foundations!
 ===
 
 ## Review Project Structure
 
 Your project contains the basic elements.
 
-## Ready for Bootcamp!
+## Ready for Foundations!
 
 ### Technically
 
