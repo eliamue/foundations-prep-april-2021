@@ -119,10 +119,6 @@ If you are using git bash for your terminal on windows, it won't be able to find
 
 will show you the documentation for `cd`  (change directory)
 
-
-## Outcome
-> Do terminal challenge!
-
 ## Bash aliases
 
 `~/.bash_profile` and `~/.bashrc` (on mac, sometimes `~/.zshrc`)
@@ -142,3 +138,6 @@ Then close and reopen your terminal (alternatively, you can `source ~/.bash_prof
 Now you can type `gac` instead of the whole thing.
 
 NOTE: When installing `nvm`, you might have to put stuff in one of these files to get it working.
+
+## Outcome
+> Do terminal challenge!
