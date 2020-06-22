@@ -133,7 +133,7 @@ Remove the foundations-full directory and its contents with `rm -rf`
 ~
     |
     +- alchemy
-        |        
+        |        |        
         +- foundations-one
         |
         +- foundations-prep

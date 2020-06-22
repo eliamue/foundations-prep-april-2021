@@ -80,6 +80,7 @@ command | meaning | notes
 `cd` | change `<directory>` | can use relative paths!
 `ls` | list `<directory>` | `ls -a` for system files
 `mv` | move `<directory>` `here` | takes two arguments: `from` **and** `to`
+`mv` | rename `<directory>` `new-name` | takes two arguments: `from` **and** `new name`
 `mkdir` | make `<directory>` | can pass multiple directories to create
 `rmdir`🔥 | remove `<directory>` | doesn't work if directory has files
 
@@ -118,6 +119,10 @@ If you are using git bash for your terminal on windows, it won't be able to find
 
 will show you the documentation for `cd`  (change directory)
 
+
+## Outcome
+> Do terminal challenge!
+
 ## Bash aliases
 
 `~/.bash_profile` and `~/.bashrc` (on mac, sometimes `~/.zshrc`)
@@ -137,8 +142,3 @@ Then close and reopen your terminal (alternatively, you can `source ~/.bash_prof
 Now you can type `gac` instead of the whole thing.
 
 NOTE: When installing `nvm`, you might have to put stuff in one of these files to get it working.
-
-## Outcome
-
-Create a `~/alchemy/foundations` directory. This is where you will clone your
-github repos!
