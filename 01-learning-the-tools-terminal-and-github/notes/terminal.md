@@ -81,6 +81,7 @@ command | meaning | notes
 `ls` | list `<directory>` | `ls -la` for system files
 `ls -R` | list `<directory>` | `ls` recursively
 `mv` | move `<directory>` `here` | takes two arguments: `from` **and** `to`
+`mv` | rename `<directory>` `new-name` | takes two arguments: `from` **and** `new name`
 `mkdir` | make `<directory>` | can pass multiple directories to create
 `rmdir`🔥 | remove `<directory>` | doesn't work if directory has files
 
@@ -141,6 +142,4 @@ Now you can type `gac` instead of the whole thing.
 NOTE: When installing `nvm`, you might have to put stuff in one of these files to get it working.
 
 ## Outcome
-
-Create a `~/alchemy/foundations` directory. This is where you will clone your
-github repos!
+> Do terminal challenge!
