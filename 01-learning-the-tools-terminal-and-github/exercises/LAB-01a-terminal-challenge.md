@@ -142,3 +142,4 @@ Remove the foundations-full directory and its contents with `rm -rf`
 
 ```
 
+> Submit a screenshot of your `~/alchemy` directory, with the correct directories inside, using `ls -R` to show the contents of all the children.

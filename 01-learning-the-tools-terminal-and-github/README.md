@@ -15,6 +15,10 @@ Day 1: Developer Tools
 
 > [Your developer portal!](./notes/terminal.md)
 
+### Git in the Terminal 
+
+> [ACP](./notes/terminal_git.md)
+
 ### VSCode
 
 > [Integrated Development Environment (IDE)](./notes/ide.md)

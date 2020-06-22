@@ -78,7 +78,8 @@ Removing things from the command line does **not** put them in the trash/recycli
 command | meaning | notes
 --- | --- | ---
 `cd` | change `<directory>` | can use relative paths!
-`ls` | list `<directory>` | `ls -a` for system files
+`ls` | list `<directory>` | `ls -la` for system files
+`ls -R` | list `<directory>` | `ls` recursively
 `mv` | move `<directory>` `here` | takes two arguments: `from` **and** `to`
 `mkdir` | make `<directory>` | can pass multiple directories to create
 `rmdir`🔥 | remove `<directory>` | doesn't work if directory has files
@@ -99,6 +100,7 @@ command | meaning
 `cat`   | read `<file>`
 `echo "content" > file` | write a quick snippet to a file
 `rm`🔥 | remove `<file>`
+`rm -rf`🔥 | remove `<file or directrory>` and all of its children
 
 ## Use the `man` Luke
 
