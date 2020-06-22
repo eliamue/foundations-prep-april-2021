@@ -1,6 +1,7 @@
 # Foundations Prep: On the Job Training!
 
 ![Doing Sofware Development](./doing-sw-dev.png)
+![](./planning.png)
 
 ### Welcome to Foundations Prep! We're going to spend five days giving you
 practical "how-to" training on getting setup and using your tools like a

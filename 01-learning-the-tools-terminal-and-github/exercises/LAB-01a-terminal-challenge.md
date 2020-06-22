@@ -72,8 +72,8 @@ Moving files with `mv`
         +- foundations-one
         |
         +- foundations-prep
-        |
-        +-foundations-sub-directory
+            |
+            +-foundations-sub-directory
 
 ```
 
