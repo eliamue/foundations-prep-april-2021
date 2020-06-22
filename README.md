@@ -13,6 +13,7 @@ This will include:
 1. Working with HTML and CSS
 1. Working with JavaScript
 1. Integrating JavaScript with HTML and CSS
+1. Using Agile methodologies to plan and develop software
 
 By the end of this week you'll have leveled up your development skills!
 
@@ -35,7 +36,6 @@ By the end of this week you'll have leveled up your development skills!
  - Simple CSS Animations
 
 ## Wednesday: Putting it all Together!
- - Shannon and career services!
  - JS basics
  - Calling functions (and passing arguments)
  - The DOM 
