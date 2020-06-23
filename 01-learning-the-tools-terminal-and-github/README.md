@@ -30,3 +30,4 @@ Day 1: Developer Tools
 ### Exercises
     - Terminal Challenge
     - Documenting the Terminal Challenge in Markdown with Github
+
