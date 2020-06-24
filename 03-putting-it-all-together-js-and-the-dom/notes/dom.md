@@ -16,6 +16,7 @@ Examples:
 
 ## Play with elements!
 
+Follow these screenshots to play with an element live in the browser. With javascript, we can make HTML dance!
 ![](./dom1.png)
 
 ![](./dom2.png)
