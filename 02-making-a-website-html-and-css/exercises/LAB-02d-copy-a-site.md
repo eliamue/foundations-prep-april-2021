@@ -2,7 +2,7 @@
 
 ## Standard Setup Process
 
-1. Create a repo called `lab-03c-craigslist-layout` on Github
+1. Create a repo called `lab-02d-copy-a-site` on Github
     - make sure to click add a `README.md`
 1. Copy the URL of the new repo
 1. From the command line (terminal) clone your repo:
