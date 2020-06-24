@@ -27,7 +27,8 @@ Note: This puts the css in a separate directory!
 
 ## Handling Events
 
-> [Calling functions from events](./notes/handling-events.md)
+> [Functions](./notes/handling-events.md)
+> [Calling functions from events](./notes/calling-functions.md)
 
 ## Exercises
 
