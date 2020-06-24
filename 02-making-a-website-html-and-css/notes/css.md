@@ -206,9 +206,13 @@ Use `:hover` or `:active` pseudoclasses with the `transition` property to trigge
 }
 ```
 
-`tran sform`
+`transform`
 - Breaks items out of CSS layout
 - The big three: translate, scale, rotate
+
+## Other stuff
+
+box shadow, keyframes, nested selectors
 
 ## CSS Variables
 - In programming, giving names to things is powerful. It lets us reuse code so that we don't have to copy and paste.
