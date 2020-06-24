@@ -73,3 +73,9 @@ By the end of this week you'll have leveled up your development skills!
   * [Git Documentation](https://git-scm.com/docs)
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+
+  Recordings:
+
+  Monday:
+  https://zoom.us/rec/share/_Y9Zc-jI1mpOe4nN2F7CYYMAIZ_eeaa8hHMf-vEOmE34vhAUwrGWw1Wi7wNEFkj2?startTime=1592864901000
+  https://zoom.us/rec/share/xJwoBpbB5GJLY6Pi0miAHfc_XcPVeaa81CIa_PQIz09rcL8aX8yo1G6jDNr2lDZG?startTime=1592839523000
