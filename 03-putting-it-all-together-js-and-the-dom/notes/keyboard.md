@@ -29,3 +29,9 @@ Command|Meaning
 `CMD` (or `ALT`) + <code>`</code> | Switch Window
 `CMD` + `SHIFT` + `[` | Switch Tab
 `CMD` + `SHIFT` + `]` | Reverse Switch Tab
+
+Alternatively . . . 
+Command|Meaning
+---|---
+`CTRL` + `TAB` | Switch Tab
+`CTRL` + `SHIFT` + `TAB` | Go back one Tab
