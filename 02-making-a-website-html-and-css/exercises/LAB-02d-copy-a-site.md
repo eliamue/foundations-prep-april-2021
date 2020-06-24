@@ -17,4 +17,7 @@
 
 Pick a site from the `designs` directory (or some other interesting site of your choosing), and try to recreate it using your new CSS prowess! It might be worthwhile to visit the site and inspect it in the dev tools to try and get to the bottom of how they accomplished some of the more difficult pieces.
 
+It would be worthwhile to do planning ahead of time. Try to break your site down (on paper or using software) into a hierarchy of containers beforehand, like so:
+
+![](./rainbow-hierarchy.png)
 Submit your repo and deployed site on canvas.
