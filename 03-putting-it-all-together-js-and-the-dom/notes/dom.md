@@ -14,6 +14,12 @@ Examples:
 * `console`
 * `Math`
 
+## Play with elements!
+
+![](./dom1.png)
+
+![](./dom2.png)
+
 ## `document`
 
 This is where _alllll_ the magic lives.
