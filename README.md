@@ -77,5 +77,15 @@ By the end of this week you'll have leveled up your development skills!
   Recordings:
 
   Monday:
-  https://zoom.us/rec/share/_Y9Zc-jI1mpOe4nN2F7CYYMAIZ_eeaa8hHMf-vEOmE34vhAUwrGWw1Wi7wNEFkj2?startTime=1592864901000
-  https://zoom.us/rec/share/xJwoBpbB5GJLY6Pi0miAHfc_XcPVeaa81CIa_PQIz09rcL8aX8yo1G6jDNr2lDZG?startTime=1592839523000
+Meeting Recording:
+https://zoom.us/rec/share/_Y9Zc-jI1mpOe4nN2F7CYYMAIZ_eeaa8hHMf-vEOmE34vhAUwrGWw1Wi7wNEFkj2
+
+Access Password: 9U@6#3J.
+
+Topic: Danny Cairns' Personal Meeting Room
+Date: Jun 22, 2020 08:25 AM Pacific Time (US and Canada)
+
+Meeting Recording:
+https://zoom.us/rec/share/xJwoBpbB5GJLY6Pi0miAHfc_XcPVeaa81CIa_PQIz09rcL8aX8yo1G6jDNr2lDZG
+
+Access Password: 8F*.FD&9
