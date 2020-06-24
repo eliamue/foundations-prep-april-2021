@@ -88,4 +88,7 @@ Date: Jun 22, 2020 08:25 AM Pacific Time (US and Canada)
 Meeting Recording:
 https://zoom.us/rec/share/xJwoBpbB5GJLY6Pi0miAHfc_XcPVeaa81CIa_PQIz09rcL8aX8yo1G6jDNr2lDZG
 
-Access Password: 8F*.FD&9
+Access Password: 8F*.FD&
+
+Tuesday
+https://zoom.us/rec/share/tZBMIpH-03JISbPKyUHYeKk9Aobnaaa81iQZqfEKnU_9T7vJJ6ISqsKfM2pdfW6s Password: 6Q$050!8
