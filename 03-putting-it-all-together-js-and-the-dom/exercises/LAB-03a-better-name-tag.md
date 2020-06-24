@@ -5,7 +5,7 @@ Recreate a classic name tag in HTML
 
 ## Standard Setup Process
 
-1. Create a repo called `lab-02a-name-tag` on Github
+1. Create a repo called `lab-03a-name-tag` on Github
     - make sure to click add a `README.md`
 1. Copy the URL of the new repo
 1. From the command line (terminal) clone your repo:
