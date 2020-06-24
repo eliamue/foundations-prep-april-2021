@@ -43,15 +43,15 @@ By the end of this week you'll have leveled up your development skills!
  - Calculator App
 
 ## Thursday: From Hobbyist to Professional
-  - Ryan and Career Track!
+ - Alumni Panel
   - Declaring vs Calling functions
   - Testing Code with QUnit
   - Refactoring (Calculator App)
 
 ## Friday: What's it like on the job?
- - Alumni Panel
-- Agile Practices vs Waterfall
-- Mad Libs Mob
+  - Ryan and Career Track!
+  - Agile Practices vs Waterfall
+  - Mad Libs Mob
 
 ---
 
