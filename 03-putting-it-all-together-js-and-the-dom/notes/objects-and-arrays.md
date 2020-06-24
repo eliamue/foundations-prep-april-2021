@@ -38,6 +38,21 @@ myDog.age++ //7
 myDog //{ name: "scooter", type: "dog", weight: 5, age: 8 }
 
 ```
+
+### Nested objects--objects inside objects!
+```js
+const otherDog = {
+ type: 'dog',
+ name: 'fido',
+ weight: 3
+}
+
+myDog.bestFriend = otherDog //{type: "dog", name: "fido", weight: 3}
+
+myDog //{name: "spotthew", type: "dog", weight: 5, age: 9, bestFriend: {…}}age: 9bestFriend: {type: "dog", name: "fido", weight: 3}name: "fido"type: "dog"weight: 3__proto__: Objectname: "spotthew"type: "dog"weight: 5__proto__: Object
+
+myDog.bestFriend.name // "fido"
+```
 ## Simple Arrays
 
 What happens if you want to show a collection (or list) of things in javascript?
