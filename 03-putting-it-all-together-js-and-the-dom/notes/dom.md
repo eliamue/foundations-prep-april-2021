@@ -19,6 +19,8 @@ Examples:
 Follow these screenshots to play with an element live in the browser. With javascript, we can make HTML dance!
 ![](./dom1.png)
 
+Note that we changed the `textContent` of `temp1` to 'wow', and this changed it in the HTML!
+
 ![](./dom2.png)
 
 ## `document`
