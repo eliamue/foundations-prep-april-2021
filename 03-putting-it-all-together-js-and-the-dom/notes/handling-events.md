@@ -22,7 +22,7 @@ myButton.addEventListener('click', () => {
 const myInput = document.getElementById('my-special-input');
 
 myInput.addEventListener('input', () => {
-    // post-click logic goes here!
+    // post-type logic goes here!
 })
 
 ```
