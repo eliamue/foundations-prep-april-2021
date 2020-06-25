@@ -23,7 +23,7 @@ _Make a simple nametag and link to nametag.html from index.html_
 
 ### Writing Tests
 
-> [Free Code Camp, celcius to farenheit](ecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+> [Free Code Camp, celcius to farenheit](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
 
 **Demo: Let's add celcius to farenheit functionality to our calculator**
 

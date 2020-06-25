@@ -92,3 +92,6 @@ Access Password: 8F*.FD&
 
 Tuesday
 https://zoom.us/rec/share/tZBMIpH-03JISbPKyUHYeKk9Aobnaaa81iQZqfEKnU_9T7vJJ6ISqsKfM2pdfW6s Password: 6Q$050!8
+
+Wednesday
+https://zoom.us/rec/share/6t0tDJ-h9VhIUpH_5GTCVochR4vXX6a8gyYWr_QImEbvmGHxKMhqCrC-4klPeZGJ Password: 8I.&.?%#
