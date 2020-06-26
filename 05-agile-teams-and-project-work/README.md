@@ -26,6 +26,12 @@ Pair programming and mob programming are common practices. It sounds like it mig
     1) Fewer distractions--continuous communication requires continuous focus
     1) Lateral thinking is easier in groups. Individuals tends to have their own 'style' for solving problems. Groups mix lots of these styles together.
 
+### Product owner vs scrum master 
+
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ### Tickets
 
 At the beginning of a sprint (however long that is in your organizatiopn), devs go and look at a pile of 'tickets', like the one below:
@@ -40,6 +46,7 @@ In well-organized teams, devs meet like twice a week to 'groom the backlog'. Thi
 At the sprint kickoff, devs take on as many tickets as they think they can handle for a the duration of the sprint.
 
 **Demo: The TAs and I make tickets and mob a small project with branches and PRs**
+
 ## Exercises
 
 - [Madlib Project](./exercises/PROJECT-madlib-challenge.md)
