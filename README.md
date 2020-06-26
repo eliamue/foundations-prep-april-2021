@@ -95,3 +95,17 @@ https://zoom.us/rec/share/tZBMIpH-03JISbPKyUHYeKk9Aobnaaa81iQZqfEKnU_9T7vJJ6ISqs
 
 Wednesday
 https://zoom.us/rec/share/6t0tDJ-h9VhIUpH_5GTCVochR4vXX6a8gyYWr_QImEbvmGHxKMhqCrC-4klPeZGJ Password: 8I.&.?%#
+
+
+## Danny Cairns' Personal Meeting Room
+
+password: `5o&v^+f1`
+
+* [6/25/2020, 4:04:27 PM - 6/25/2020, 6:02:04 PM](https://zoom.us/rec/play/7sAtJuyp-Go3SYCQ4QSDUaBwW9W5LqOsgHNPqKcNyUywACYCMVejNbVBZrSnDvlOjStCv_F1WlndMigf)
+* [6/25/2020, 8:31:54 AM - 6/25/2020, 4:04:26 PM](https://zoom.us/rec/play/vJIlc72h-203G9HBsgSDCvN7W43rK6Ks2yhI-fRYmU-1BXAHZFf1MLtAMLeOdLAWEglOz1bNh0_S5-i4)
+
+## Danny Cairns' Personal Meeting Room
+
+password: `2H*lz$=4`
+
+* [6/26/2020, 8:07:36 AM - 6/26/2020, 8:08:06 AM](https://zoom.us/rec/play/tZwoI-r-_zg3TNOWuASDVvd4W43pK66s0nQfqKBZyka9VHcLM1SuZrYVYbZy_QOKVEg5xpSBTkJMK2Qg)
