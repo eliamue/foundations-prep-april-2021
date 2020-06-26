@@ -39,6 +39,7 @@ In well-organized teams, devs meet like twice a week to 'groom the backlog'. Thi
 
 At the sprint kickoff, devs take on as many tickets as they think they can handle for a the duration of the sprint.
 
+**Demo: The TAs and I make tickets and mob a small project with branches and PRs**
 ## Exercises
-    
+
 - [Madlib Project](./exercises/PROJECT-madlib-challenge.md)
