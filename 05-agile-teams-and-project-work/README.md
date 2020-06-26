@@ -28,9 +28,7 @@ Pair programming and mob programming are common practices. It sounds like it mig
 
 ### Product owner vs scrum master 
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share
 
 ### Tickets
 
@@ -44,6 +42,8 @@ In the background, somebody called a 'product owner' has (supposedly) been spend
 In well-organized teams, devs meet like twice a week to 'groom the backlog'. This means they assign 'complexity points' to tickets, and try to make the feature descriptions as clear as possible, sometimes breaking work into multiple tickets. This makes assigning work painless.
 
 At the sprint kickoff, devs take on as many tickets as they think they can handle for a the duration of the sprint.
+
+![](./agile-ceremonies.png)
 
 **Demo: The TAs and I make tickets and mob a small project with branches and PRs**
 
