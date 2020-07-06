@@ -116,3 +116,9 @@ password: `6U*09LH%`
 
 * [6/26/2020, 3:33:49 PM - 6/26/2020, 5:01:31 PM](https://zoom.us/rec/play/tJEsI-j7pjo3TNGc5QSDC_B5W9W6eP6s0XRI_PMFmE-yAnUAYVKjZrBDYuCFmOURM-ETg7OsMGjW7nzM)
 * [6/26/2020, 8:44:31 AM - 6/26/2020, 3:33:47 PM](https://zoom.us/rec/play/750sd7r-rGk3HYCXsQSDCvFxW9XsJ_-s1SBMr_sLzB60BiIAYFf1b-cTauT8gduoiXqu886doMzviVnX)
+
+## Danny Cairns' Personal Meeting Room
+
+password: `8J&@*$2c`
+
+* [7/6/2020, 3:25:45 PM - 7/6/2020, 3:25:54 PM](https://zoom.us/rec/play/uZYrc7-h-D83GtOTtwSDVKcrW47seKis1iMb_aYLzxy3W3VSYwenY7pEY-TwtkPYBTrVpCc9ngJISOyC)
