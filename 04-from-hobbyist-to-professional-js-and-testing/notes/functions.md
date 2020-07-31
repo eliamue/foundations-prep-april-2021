@@ -2,6 +2,12 @@ Functions: Saving code for later/sharing behavior
 ===
 
 
+## Loose coupling
+
+Loosely coupled systems are like cars: you can easily replace parts without taking apart the whole thing!
+
+When we break our work into functions, we can replace pieces without having to change the base app.
+
 ## Pure functions
 
 If a function is like a machine that takes input, and (predictably) returns the same output every time it is run, it is called pure function.
