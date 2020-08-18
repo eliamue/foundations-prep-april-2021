@@ -1,4 +1,4 @@
-# Foundations Prep: On the Job Training!
+# Dev 101: On the Job Training!
 
 # Schedule
 ## Monday: Learning the tools

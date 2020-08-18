@@ -7,7 +7,7 @@ Git
 1. Go to the repo you made earlier in github.
 1. Click the green button to get the repo url.
 1. Go to terminal window (use keyboard to switch apps!)
-1. Go to your `~/alchemy/foundations` directory
+1. Go to your `~/alchemy/dev-101` directory
 1. `git clone <repo>`
 1. `cd <repo>` (<-- don't forget this)
 

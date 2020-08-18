@@ -21,7 +21,7 @@ Then type `shell`
 ### Terminal Launch
 
 ```
-~/alchemy/foundations/project-name> code .
+~/alchemy/dev-101/project-name> code .
 ```
 
 ### Default git Editor
