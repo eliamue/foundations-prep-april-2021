@@ -20,7 +20,7 @@ Make directories with `mkdir`, `cd` and `pwd`
         |
         +- dev-101-files
         |
-        +- dev-101-prep
+        +- dev-101
         |
         +- dev-101-rename-me
             |
@@ -46,7 +46,7 @@ Creating files with `echo`
         |
         +- dev-101-one
         |
-        +- dev-101-prep
+        +- dev-101
             |
             +-dev-101-sub-directory
 
@@ -71,7 +71,7 @@ Moving files with `mv`
         |
         +- dev-101-one
         |
-        +- dev-101-prep
+        +- dev-101
             |
             +-dev-101-sub-directory
 
@@ -97,7 +97,7 @@ Renaming with `mv`
         |
         +- dev-101-one
         |
-        +- dev-101-prep
+        +- dev-101
             |
             +-dev-101-sub-directory
 
@@ -120,7 +120,7 @@ Remove empty directory with `rmdir`
         
         +- dev-101-one
         |
-        +- dev-101-prep
+        +- dev-101
             |
             +-dev-101-sub-directory
 ```
@@ -136,7 +136,7 @@ Remove the dev-101-full directory and its contents with `rm -rf`
         |        |        
         +- dev-101-one
         |
-        +- dev-101-prep
+        +- dev-101
             |
             +-dev-101-sub-directory
 
