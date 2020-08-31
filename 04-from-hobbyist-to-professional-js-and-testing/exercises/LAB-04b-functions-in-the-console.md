@@ -55,16 +55,14 @@
 1. Validate that it logs the first message, then logs your array of things to the console
 1. ACP
 
-### STRETCH Step 5:
-
-Change your function so that before each object is logged, it first logs the category of the object. For example:
-
-```sh
-Here are your 5 things
-small dog
-{ name: 'spot', age: 5, weight: 13 }
-medium dog
-{ name: 'rover', age: 9, weight: 23 }
-```
 
 You'll need to use control flow to determine what message to log!
+
+## Points Break Down
+
+Looking For | Points (10)
+:--|--:
+Make 5 objects in `app.js` and store them in a `const` | 3
+Make an array for these objects and store it in a `const` | 3
+`logOutThings` function with a loop | 3
+Call your `logOutThings` function so that it logs the items out to the console | 1

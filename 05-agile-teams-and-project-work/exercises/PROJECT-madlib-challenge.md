@@ -97,7 +97,7 @@ Time for a commit!
 Looking For | Points (10)
 :--|--:
 Deployed on GitHub pages, with link in the About section of the Github repo | 2
-Styling and Semantic HTML | 2
-Inputs (with id) for each word that will be replaced in Mad Lib | 2
+Nice styling and semantic HTML | 2
+Inputs (with ids) and Spans (with corresponding ids) for each word that will be replaced in Mad Lib | 2
 On clicking the submit button, show the Mad Lib text (initially hidden) | 2
 On clicking the submit button, replace `<span/>`s with the correct words from text inputs | 2
