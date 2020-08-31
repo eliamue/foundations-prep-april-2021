@@ -115,7 +115,7 @@ Remove newly empty directory with `rmdir`
             +-dev-101-sub-directory
 ```
 
-## Step 5
+## 6
 
 Copy full directory with `cp -r`
 
@@ -141,7 +141,7 @@ Copy full directory with `cp -r`
             +-dev-101-sub-directory
 ```
 
-## Step 6
+## Step 7
 
 Remove the `dev-101-full` directory and its contents with `rm -rf` (keep the copy around).
 
