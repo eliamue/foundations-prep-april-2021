@@ -47,3 +47,15 @@ Recreate a classic name tag in HTML
     - Text Decoration
 - Font Family and Size
 
+### Deploy to github pages
+
+Put the URL to the github page in the repo's 'About' section.
+
+## Points Break Down
+
+Looking For | Points (10)
+:--|--:
+Deployed on GitHub pages, with link in the About section of the Github repo | 2
+Use semantic HTML in your design | 2
+Use `kabob-case` class names to organize your CSS | 2
+Looks like a name tag with nice rounded edges, two red sections, etc | 4

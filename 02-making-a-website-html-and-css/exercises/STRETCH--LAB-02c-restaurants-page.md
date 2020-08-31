@@ -4,7 +4,7 @@ Lists of lists of lists of lists of...
 
 ## Standard Setup Process
 
-1. Create a repo called `lab-02b-image-gallery` on Github
+1. Create a repo called `lab-02d-restaurant-reviews` on Github
     - make sure to click add a `README.md`
 1. Copy the URL of the new repo
 1. From the command line (terminal) clone your repo:

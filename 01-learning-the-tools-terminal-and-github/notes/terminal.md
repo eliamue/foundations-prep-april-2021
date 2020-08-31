@@ -84,6 +84,7 @@ command | meaning | notes
 `mv` | rename `<directory>` `new-name` | takes two arguments: `from` **and** `new name`
 `mkdir` | make `<directory>` | can pass multiple directories to create
 `rmdir`🔥 | remove `<directory>` | doesn't work if directory has files
+`cp -r` | copy `<directory>` `here` | takes two arguments: `from` **and** `to`
 
 **Demo: let's take a journey through the root and home directories...and back again!**
 
@@ -100,6 +101,7 @@ command | meaning
 `touch` | create `<file>`
 `cat`   | read `<file>`
 `echo "content" > file` | write a quick snippet to a file
+`cp` | copy `<file>` `here` | takes two arguments: `from` **and** `to`
 `rm`🔥 | remove `<file>`
 `rm -rf`🔥 | remove `<file or directrory>` and all of its children
 

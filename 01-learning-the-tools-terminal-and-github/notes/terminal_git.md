@@ -19,7 +19,7 @@ $ echo "hello world, time for git!" > README.md
 
 ### Add and Commit
 
-(Note: Will seem redundant at first to add and commit!)
+(Note: It will seem redundant at first to add and commit!)
 
 command | notes
 ---|---

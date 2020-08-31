@@ -92,4 +92,12 @@ Time for a commit!
 1. Push to GitHub
 1. Turn on GitHub pages so everyone can play your MadLib game!
 
+## Points Break Down
 
+Looking For | Points (10)
+:--|--:
+Deployed on GitHub pages, with link in the About section of the Github repo | 2
+Styling and Semantic HTML | 2
+Inputs (with id) for each word that will be replaced in Mad Lib | 2
+On clicking the submit button, show the Mad Lib text (initially hidden) | 2
+On clicking the submit button, replace `<span/>`s with the correct words from text inputs | 2

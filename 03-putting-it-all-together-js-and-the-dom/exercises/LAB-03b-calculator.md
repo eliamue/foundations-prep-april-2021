@@ -1,4 +1,4 @@
-Let's build a calculator!
+Lab 03b: Let's build a calculator!
 ===
 
 
@@ -40,3 +40,14 @@ Repeat this process for subtraction, multiplication, and division.
 1) In the HTML, you will need a span to put the answers into. The span will need an id.
 1) On click, you'll need to put the correct answer into this span using its `textContent` property and the `=` assignment operator.
 1) Repeat all of these steps for all four operations.
+
+## Points Break Down
+
+Looking For | Points (10)
+:--|--:
+Deployed on GitHub pages, with link in the About section of the Github repo | 2
+Nicely styled text input and styled buttons | 2
+Addition | 2
+Subtraction | 2
+Multiplication | 2
+Division | 2

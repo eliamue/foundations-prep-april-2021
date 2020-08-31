@@ -22,28 +22,35 @@ Create a list of things with images. Pick a theme and you can search and copy ur
 
 ### **Wireframes**
 
-Use these 2 wireframe designs for an image gallery site. One wireframe has all of the images lined up vertically in a single column. The other wireframe is a grid of images instead. In both wireframes, each image should be inside a container with a caption. Feel free to add borders, and box shadows and other design elements. Take pictures of these wireframes to your repo. ACP!
+Use these 2 wireframe designs for an image gallery site. One wireframe has all of the images lined up vertically in a single column. The other wireframe is a grid of images instead. In both wireframes, each image should be inside a container with a caption
 
-Grid Example:
-
-![](./grid.png)
-s 
 List example:
 
 ![](./list.png)
 
-  > <img src="./list.png" width="300px">
+Grid Example:
 
-  > <img src="./grid.png" width="300px">
+![](./grid.png)
+
+
 
 ### Build out HTML and CSS
 
-1) in your `index.html`, make a `ul` with an `li` inside (style the `li` in with `list-style: none;` to get rid of the browser-default dot)
-1) in the `li`, make a image item `article` with a `class='gallery-item'` attribute, and style this image item `article` tag in `style.css`. Each image item `article` tag must also have an image, and a link.
-1) now, copy and paste this `li` seven times, and change the caption and image in every copied image item.
-1) by default, `li` tags are `display: block`. notice that the image-items all go down in a  single vertical row. take a screenshot of the vertical  row of `display: block` image-items, and add that screenshot to the repo. ACP!
-1) in `style.css`, style the `ul` and/or `li` elements to make the image items wrap dynamically (use `display: flex` and `flex-wrap: row` on the `ul`)
-1) take a screenshot of the dynamically-wrapping image items and add the screenshot to your repo.
+1) in your `index.html`, make a `main` tag with an `div` inside
+1) Give the `div` a `class='gallery-list-item'` attribute, and style this tag in `style.css`. Each `gallery-list-item` must also have an image of some kind and a link of some kind. Make the width something around `200px`
+1) Now, copy and paste this `div` seven times, and change the caption and image in every copied image item.
+1) by default, `div` tags are `display: block`. notice that the image-items all go down in a  single vertical row. You should now have a vertical row of `display: block` image-items.
+1) Take a few minutes and try to get these items centered in the page, like in the wireframe. No biggie if you can't get there--let's call it a stretch goal. ACP with the commit message: 'add list'!
+1) In `style.css`, style the `main` tag and/or`div` elements to make the image items wrap dynamically (for example, use `display: flex` and `flex-wrap: row` on the `main` tag)
 1) play with all the different options that flex offers for lists of things! `justify-content: flex-end`, `align-items: center`, `flex-direction: column`, etc
-1) ACP and submit the repo link to the canvas assignment
-1) If you have more time, add a header and footer and elaborate on your design.
+1) ACP, deploy, and submit the repo link to the canvas assignment
+1) If you have more time and ambition, add a sidebar and elaborate on your design.
+
+## Points Break Down
+
+Looking For | Points (10)
+:--|--:
+Deployed on GitHub pages, with link in the About section of the Github repo | 2
+Nicely styled image items | 4
+Working Grid design in `index.html` | 4
+Sidebar | +2

@@ -68,4 +68,3 @@ medium dog
 ```
 
 You'll need to use control flow to determine what message to log!
-

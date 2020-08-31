@@ -35,7 +35,6 @@ Day 2: HTML and CSS -- Lists of Things!
 
 - Demo: Let's _deploy_ our html from today with GHpages!
 
-
 ##  Food for Thought
 >     - [Material Design...](https://material.io/components/cards/)
 >     - [User Research](https://www.nngroup.com/articles/cards-component/)
