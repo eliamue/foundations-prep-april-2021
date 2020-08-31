@@ -65,7 +65,7 @@ Move files with from `dev-101-files-to-remove` to `dev-101-empty` with `mv`
         |
         +- dev-101-files-to-remove
         |
-        +- dev-101
+        +- dev-101-rename-me
             |
             +-dev-101-sub-directory
 
@@ -74,7 +74,7 @@ Move files with from `dev-101-files-to-remove` to `dev-101-empty` with `mv`
 
 ## Step 4
 
-Rename `dev-101-empty` to `dev-101-full` with `mv`
+Rename `dev-101-empty` to `dev-101-full` with `mv`. Also, rename `dev-101-rename-me` to just `dev-101`
 
 ```
 ~
