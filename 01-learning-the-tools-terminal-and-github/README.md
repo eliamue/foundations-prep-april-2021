@@ -7,17 +7,13 @@ Day 1: Developer Tools
 
 > [Let your fingers do the talking](./notes/keyboard.md)
 
-### Github/Git
-
-> [Managing code](./notes/github.md)
-
 ### Terminal
 
 > [Your developer portal!](./notes/terminal.md)
 
-### Git in the Terminal 
+### Github/Git
 
-> [ACP](./notes/terminal_git.md)
+> [Managing code](./notes/github.md)
 
 ### VSCode
 
