@@ -1,3 +1,6 @@
+Tuesday: CSS
+===
+
 https://zoom.us/rec/share/70HHVW4VjrRJwP_ma9sYiek73lLXn0MvkD2m35bGVN9ROXh1cmZ0iZ_P7BmAnV4R.PxMDevCR9AEAg5JN?startTime=1598997671000
 
 password: NJ4M45J.
