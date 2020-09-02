@@ -5,6 +5,7 @@ Day 3: JavaScript and the DOM
 
 > `npx create-alchemy-bootstrap .`
 
+(You'll get an email error about tests--don't worry about it for today!)
 Note: This puts the css in a separate directory!
 
 ## Keyboard 3
