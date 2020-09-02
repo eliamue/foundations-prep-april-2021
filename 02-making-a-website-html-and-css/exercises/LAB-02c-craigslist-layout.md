@@ -9,7 +9,7 @@
     1. Check with `pwd` that you are in correct directory for labs
     1. `git clone <url>`
     1. **`cd` into your repo from the command line**
-    1. `npx create-alchemy-boostrap .`
+    1. `npx create-alchemy-bootstrap .`
     1. Launch vscode with `code .`
 
 ### Goal
