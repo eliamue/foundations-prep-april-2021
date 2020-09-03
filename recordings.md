@@ -13,7 +13,7 @@ https://zoom.us/rec/share/N4aG5zJnIxlmtItHTybHggTUjsBOYGHHSd43YcUZMDormeDHJqcVSc
 password: *TJ#5%GF
 
 
-Wednesday
+Wednesday: JS Day One
 ===
 
 Topic: Danny Cairns' Personal Meeting Room
