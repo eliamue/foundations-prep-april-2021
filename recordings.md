@@ -39,3 +39,14 @@ Meeting Recording:
 https://zoom.us/rec/share/vW1irEDPSeTw55EuGitKPzHnYfl3wLRY9NhgaTFWoNtHHN3nmFP_JGhteFrhzI62.CMAzRWZD7D_qIs9w
 
 Access Passcode: Dh90#X3@
+
+Thursday
+===
+
+Topic: Danny Cairns' Personal Meeting Room
+Start Time : Sep 3, 2020 09:27 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/GX4zGBmxESSh6b_GoswFRcVrEqMDmTiDpKjBPljiicRe2N2aMqfCGmBLhIaRcsnF.191ByxugOElgOinz
+
+Access Passcode: Gc6Z&er?
