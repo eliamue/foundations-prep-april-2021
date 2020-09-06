@@ -13,7 +13,7 @@ https://zoom.us/rec/share/N4aG5zJnIxlmtItHTybHggTUjsBOYGHHSd43YcUZMDormeDHJqcVSc
 password: *TJ#5%GF
 
 
-Wednesday: JS Day One
+Wednesday: JavaScript Day One
 ===
 
 Topic: Danny Cairns' Personal Meeting Room
@@ -40,7 +40,7 @@ https://zoom.us/rec/share/vW1irEDPSeTw55EuGitKPzHnYfl3wLRY9NhgaTFWoNtHHN3nmFP_JG
 
 Access Passcode: Dh90#X3@
 
-Thursday
+Thursday -- Refactoring and Testing JavaScript
 ===
 
 Topic: Danny Cairns' Personal Meeting Room
@@ -50,3 +50,22 @@ Meeting Recording:
 https://zoom.us/rec/share/GX4zGBmxESSh6b_GoswFRcVrEqMDmTiDpKjBPljiicRe2N2aMqfCGmBLhIaRcsnF.191ByxugOElgOinz
 
 Access Passcode: Gc6Z&er?
+
+Friday -- Alumni Panel, Agile Methodology, and Refactoring Revisited
+===
+
+Topic: Danny Cairns' Personal Meeting Room
+Start Time : Sep 4, 2020 09:27 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/DFj9PK-SAr6SzhtL2ZK4emOiBxXo2v34jvyOa9JBgkenurA4DiCLZcUjpf4HUsM6.MnxsjtiW2WLzvrQ9
+
+Access Passcode: CU0?m0YH
+
+Topic: Danny Cairns' Personal Meeting Room
+Start Time : Sep 4, 2020 01:09 PM
+
+Meeting Recording:
+https://zoom.us/rec/share/aAvgDOh0AjqYulvvtRlLCIzfxkHStKpd8nZZIZP4l1JLGV_oBkg0nO38CLfNDvWF.gSJG7zq1K0T2WRIs
+
+Access Passcode: $+a9eF5^
