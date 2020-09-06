@@ -3,7 +3,7 @@ Lab 04a: Calculator Refactor
 
 - Turn your math operations into functions in a separate file to be imported
 - Turn your click handlers into functions in a separate file to be imported
-- Add tests with at least 2 test cases per function to verify that the functions return what you _expect_ them to return
+- For the math functions, add tests with at least 2 test cases per function to verify that the functions return what you _expect_ them to return
 - Refactor names of things to clarify the intent and make your code generally more readable to other developers.
 
 Here's a diagram of what the module architecture should look like:
