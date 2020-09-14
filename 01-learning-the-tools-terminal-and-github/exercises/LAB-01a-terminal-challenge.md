@@ -5,160 +5,160 @@ Create the following structure inside your `~/alchemy` directory (folder).
 
 ## Step 0
 
-(If you don't have a `~/alchemy` directory, go make one!)
+If you don't have a `~/alchemy` directory, go make one!
 
 ## Step 1
 
-Make directories with `mkdir`, `cd` and `pwd`
+Make the following directories and subdirectories with `mkdir`, `cd` and `pwd`
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-empty
+        +- foundations-prep-empty
         |
-        +- dev-101-files-to-remove
+        +- foundations-prep-files-to-remove
         |
-        +- dev-101-rename-me
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 ```
 
 ## Step 2
 
-Create files with `echo`
+`cd` into `foundations-prep-files-to-remove` and create the files listed below with this command: `echo 'words' > name.txt`
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-empty
+        +- foundations-prep-empty
         |
-        +- dev-101-files-to-remove
+        +- foundations-prep-files-to-remove
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101-rename-me
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 
 ```
 
 ## Step 3
 
-Move files with from `dev-101-files-to-remove` to `dev-101-empty` with `mv`
+Move files with from `foundations-prep-files-to-remove` to `foundations-prep-empty` with `mv`
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-empty
+        +- foundations-prep-empty
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar" 
         |
-        +- dev-101-files-to-remove
+        +- foundations-prep-files-to-remove
         |
-        +- dev-101-rename-me
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 
 ```
 
 
 ## Step 4
 
-Rename `dev-101-empty` to `dev-101-full` with `mv`. Also, rename `dev-101-rename-me` to just `dev-101`
+Rename `foundations-prep-empty` to `foundations-prep-full` with `mv`.
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-full
+        +- foundations-prep-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101-files-to-remove
+        +- foundations-prep-files-to-remove
         |
-        +- dev-101
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 
 ```
 
 ## Step 5
 
-Remove newly empty directory with `rmdir`
+Remove newly empty `foundations-prep-files-to-remove` directory with `rmdir`
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-full
+        +- foundations-prep-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar" 
         |
-        +- dev-101
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 ```
 
 ## 6
 
-Copy full directory with `cp -r`
+Copy `foundations-prep-full` directory (and name the copy `foundations-prep-full-copy`) with `cp -r`
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-full
+        +- foundations-prep-full
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101-full-copy
+        +- foundations-prep-full-copy
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 ```
 
 ## Step 7
 
-Remove the `dev-101-full` directory and its contents with `rm -rf` (keep the copy around).
+Remove the `foundations-prep-full` directory and its contents with `rm -rf` (keep the copy around).
 
 ```
 ~
     |
     +- alchemy
         |
-        +- dev-101-full-copy
+        +- foundations-prep-full-copy
             |
             +- hello-world.txt  "hello world"
             |
             +- foo-bar.txt  "if foo then bar"
         |
-        +- dev-101
+        +- foundations-prep
             |
-            +-dev-101-sub-directory
+            +-foundations-prep-sub-directory
 
 ```
 
