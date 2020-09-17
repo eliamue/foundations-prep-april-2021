@@ -73,6 +73,35 @@ sigil | meaning
 
 Removing things from the command line does **not** put them in the trash/recycling. They are gone. Forever. These commands are marked with 🔥 below
 
+### Commands, arguments, and flags
+
+Commands can be broken down into three parts:
+
+`command argument -flag`
+
+A **command** is the name of the program you're running.
+
+- Example: `sl` will launch an animation of a train (**S**team **L**ocomotive)
+
+A **argument** is the input you're operating on.
+
+- Example: `cowsay "hello!!!"` will show a picture of a cow saying "hello!!!". 
+    - `cowsay` is the command. 
+    - `"hello!!!"` is the argument.
+- Example: `cd ./localdev` tells the `cd` program to go to the `./localdev` directory. 
+    - `cd` is the command
+    - `./localdev` is the argument
+
+A **flag** is configuration about how to run that input.
+
+- Example: `sl -F` will configure that train to 'fly'
+    - `sl` is the command 
+    - `-F` is the flag
+
+- Example: `sl -l` will configure that train to be little.
+    - `sl` is the command 
+    - `-l` is the flag
+
 ### Directory Commands
 
 command | meaning | notes
