@@ -18,20 +18,14 @@ Have a `GitHub` account.
 
 ### Create a Repository
 
-1. Add the repository to your Github account
+1. Create the repository in your Github account
     - Choose add `README.md`!
-1. Notice Github offers instructions
-1. Copy the download link
+1. Click on the friendly, green Clone button
+1. Copy the download link (HTTPS only)
 1. Go to terminal window (use keyboard to switch apps!)
 1. Go to your `~/alchemy/foundations-prep` directory
 1. `git clone <repo>`
 1. `cd <repo>` (<-- don't forget this)
-
-### Create a README.md
-
-```
-$ echo "hello world, time for git!" > README.md
-```
 
 ### Add and Commit
 
