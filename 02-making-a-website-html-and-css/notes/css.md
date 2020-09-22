@@ -135,6 +135,8 @@ body, html {
 }
 ```
 
+By default, padding _adds to the width_ of an element. This can be annoying and cause us to have to recalculate our widths whenever we change padding. We use `box-sizing: border-box;` to fix this.
+
 `box-sizing: border-box;` is useful when trying to use percentages for width. As thinking people, we like 25 + 25 + 50 to equal 100%. If you don't use border box, you need to account for padding and margin explicitly, so you end up doing: 48.5% + 23% + 23% = 100%.
 
 # Layout: 
@@ -188,6 +190,20 @@ Flexbox:
 }
 ```
 
+## Planning out a grid
+
+Ask yourself: how many _direct_ children does the parentmost container have? Are they rows or columns? If rows, use `grid-template-rows`. If columns, use `grid-template-columns`.
+
+Ask these questions of every child.
+
+![](./grid-strategy.png)
+
+## Flex vs Grid
+
+Grid is good when you "know what you want": layouts, columns, rows.
+
+Flex is good for centering and creating wrapped lists of items.
+
 ## Interaction and animaion
 
 Use `:hover` or `:active` pseudoclasses with the `transition` property to trigger a hover animation.
@@ -218,3 +234,4 @@ box shadow, keyframes, nested selectors
 - In programming, giving names to things is powerful. It lets us reuse code so that we don't have to copy and paste.
 - A `class` lets us give names to HTML elements
 - A `--css-variable` lets us give names to CSS values, like colors and pixel values (i.e. `40px`, `rgb(33,44,66)`)
+
