@@ -17,7 +17,7 @@
 1) From the command line, add the line 'Hello there!' to your `greeting.md` file
 1) If it's working time to commit! ACP your code and push it to your master branch!
 1) From the command line `code .` your repo.
-1) Use VSCode to write in `README.md`. Add to this file a list of terminal commands that you used to clone this repo and create all of the files and directories in it. Use code block syntax and `1)` for numbered bullets in `instructions.md`, like so:
+1) Use VSCode to write in `README.md`. Add to this file a list of terminal commands that you used to clone this repo and create all of the files and directories in it. Use code block syntax and `1)` for numbered bullets in `README.md`, like so:
 ```console
 1) First, you should make a repo with a README.me
 1) Then, you should `git clone` that repo, using the URL from the Clond button 
