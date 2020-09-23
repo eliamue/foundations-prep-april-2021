@@ -20,3 +20,10 @@ It would be worthwhile to do planning ahead of time. Try to break your site down
 
 ![](./rainbow-hierarchy.png)
 Submit your repo and deployed site on canvas.
+
+## Points Break Down
+
+Looking For | Points (10)
+:--|--:
+Deployed on GitHub pages, with link in the About section of the Github repo | 2
+Looks like the real thing! | 8
