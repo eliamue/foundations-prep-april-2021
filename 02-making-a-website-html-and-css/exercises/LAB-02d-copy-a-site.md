@@ -1,4 +1,4 @@
-## Craigslist Layout
+## Copy a Site
 
 ## Standard Setup Process
 
