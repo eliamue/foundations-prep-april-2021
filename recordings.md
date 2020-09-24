@@ -1,3 +1,13 @@
+Topic: Prep Week Day 1 - Terminal and Git
+Start Time : Sep 21, 2020 08:03 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/Sg7IY4bUBhZ-lWI1oYbk4PZIq0cMWomO2TuVB5ZONC_1QMGMaYa-WkNbYidOdrDv.ROsdfhB234-eICSg
+
+Access Passcode: tG21q$Fj
+
+---
+
 Topic: Prep Week Day 2 - HTML and CSS
 Start Time : Sep 22, 2020 08:51 AM
 
