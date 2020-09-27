@@ -38,3 +38,29 @@ Access Passcode: rM+0RL&7
 
 ---
 
+
+Topic: Day 4: From Hobbyist to Professional
+Start Time : Sep 24, 2020 08:37 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/uStbHMpzoiOm2Y2RKnOiBUcMhqgdMf59pK1QzMtzKaBymp-r6h15UXLG-IlgzKEY.fF6JphYKjfytrnpl
+
+Access Passcode: Ug.iUP^0
+
+Topic: Day 4: From Hobbyist to Professional
+Start Time : Sep 24, 2020 12:50 PM
+
+Meeting Recording:
+https://zoom.us/rec/share/bBqp8cV5Rq6W2u2Xp-XMGipolUAPxcpHdpnDa4jRLwMMiQS4jKy3ukrlyPQHF5Xa.AetCyqFDj51yPZ8N
+
+Access Passcode: N2x2=EpO
+
+---
+
+Day 5 Alumni Panel and Agile Methodologies
+Start Time : Sep 25, 2020 08:37 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/6JL6N7GaHTY_ADN-ISnO1Lz2UUohS9hN3lApkAiZ6vcZb12vQdMRPfcfLK551xU9.4X_jfdYwBmowy49q
+
+Access Passcode: .8w*6bbN
