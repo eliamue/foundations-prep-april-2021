@@ -11,17 +11,18 @@ Day 1: Developer Tools
 
 > [Your developer portal!](./notes/terminal.md)
 
-### Github/Git
+### Markdown
 
-> [Managing code](./notes/github.md)
+> [Write docs the developers way](./notes/markdown.md)
 
 ### VSCode
 
 > [Integrated Development Environment (IDE)](./notes/ide.md)
 
-### Markdown
 
-> [Write docs the developers way](./notes/markdown.md)
+### Github/Git
+
+> [Managing code](./notes/github.md)
 
 ### Exercises
     - Terminal Challenge
