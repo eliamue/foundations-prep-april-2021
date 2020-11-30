@@ -173,4 +173,7 @@ Now you can type `gac` instead of the whole thing.
 NOTE: When installing `nvm`, you might have to put stuff in one of these files to get it working.
 
 ## Outcome
+
+Let's add everyone to the github repo so you can see the instructions!
+
 > Do terminal challenge!
