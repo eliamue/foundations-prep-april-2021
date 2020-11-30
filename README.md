@@ -19,13 +19,13 @@
  - Calculator App
 
 ## Thursday: From Hobbyist to Professional
- - Alumni Panel
+  - Ryan and Career Track!
   - Declaring vs Calling functions
   - Testing Code with QUnit
   - Refactoring (Calculator App)
 
 ## Friday: What's it like on the job?
-  - Ryan and Career Track!
+  - Alumni Panel
   - Agile Practices vs Waterfall
   - Mad Libs Mob
 
