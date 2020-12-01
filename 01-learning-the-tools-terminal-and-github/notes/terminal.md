@@ -48,6 +48,15 @@ Visually clear out commands:
 > clear
 ```
 
+## Hint: Have the finder open
+
+On mac:
+`open .`
+
+On WSL:
+`explorer.exe .`
+
+![](./screens.png)
 ## Files and Directories
 
 ### Paths
@@ -134,23 +143,43 @@ command | meaning
 `rm`🔥 | remove `<file>`
 `rm -rf`🔥 | remove `<file or directrory>` and all of its children
 
-## Use the `man` Luke
+## Complicated moves!
 
-You can look at the "manual" for command line commands by typing `man <command>`, for example:
+imagine the following file tree:
 
-```sh
-> man cd
+```
+parent-dir
+    |- child-dir
+        - child-item.txt
+    |- sibling-dir
+
 ```
 
-will show you the built-in documentation for `cd` (change directory).
-
-If you are using git bash for your terminal on windows, it won't be able to find the `man` command. Instead try `<command> --help`. 
-
-```sh
-> cd --help
+> Moving an item from a child directory to a parent directory:
+```
+cd child-dir
+mv child-item.txt ../parent-dir
 ```
 
-will show you the documentation for `cd`  (change directory)
+or! 
+
+```
+mv ./child-dir/child-item.txt ./parent-dir
+```
+
+---
+
+> Moving an item from a child directory to a sibling directory:
+```
+cd child-dir
+mv child-item ../parent-dir
+```
+
+or
+
+```
+mv ./child-dir/child-item ./sibling-dir
+```
 
 ## Bash aliases
 
