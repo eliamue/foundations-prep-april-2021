@@ -158,13 +158,13 @@ parent-dir
 > Moving an item from a child directory to a parent directory:
 ```
 cd child-dir
-mv child-item.txt ../parent-dir
+mv child-item.txt ../
 ```
 
 or! 
 
 ```
-mv ./child-dir/child-item.txt ./parent-dir
+mv ./child-dir/child-item.txt ./
 ```
 
 ---
@@ -172,7 +172,7 @@ mv ./child-dir/child-item.txt ./parent-dir
 > Moving an item from a child directory to a sibling directory:
 ```
 cd child-dir
-mv child-item ../parent-dir
+mv child-item ../sibling-dir
 ```
 
 or
