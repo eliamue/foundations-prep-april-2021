@@ -53,7 +53,6 @@ Command|Meaning
 `CMD/CTRL` + `,` | open user settings
 `CMD/CTRL` + `F` | search file
 `CMD/CTRL` +  `SHIFT` + `F` | search WHOLE PROJECT
-`CMD/CTRL` + `D` | add next token
 `OPTION/ALT` + up/down arrow | move line
 `SHIFT` + `OPTION/ALT` + up/down arrow | copy lines
 `CMD/CTRL` + `SHIFT` + K | delete line
