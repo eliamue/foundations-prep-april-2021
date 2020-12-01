@@ -155,7 +155,9 @@ parent-dir
 
 ```
 
-> Moving an item from a child directory to a parent directory:
+### Options for moving an item from a child directory to a parent directory:
+
+Go into the directory and lift it up from inside
 ```
 cd child-dir
 mv child-item.txt ../
@@ -163,19 +165,24 @@ mv child-item.txt ../
 
 or! 
 
+Maneuver out from the current directory
 ```
 mv ./child-dir/child-item.txt ./
 ```
 
 ---
 
-> Moving an item from a child directory to a sibling directory:
+### Options for moving an item from a child directory to a sibling directory:
+
+Go into the directory and lift it up from inside
 ```
 cd child-dir
 mv child-item ../sibling-dir
 ```
 
 or
+
+Maneuver it from the current directory
 
 ```
 mv ./child-dir/child-item ./sibling-dir
