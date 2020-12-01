@@ -3,6 +3,9 @@ Challenge!
 
 Create the following structure inside your `~/alchemy` directory (folder).
 
+## Hint: Have the finder open while you do this!
+
+![](../notes/screens.png)
 ## Step 0
 
 If you don't have a `~/alchemy` directory, go make one!
