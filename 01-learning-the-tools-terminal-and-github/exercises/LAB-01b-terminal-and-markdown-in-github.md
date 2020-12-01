@@ -26,7 +26,7 @@
 
 Looking For | Points (10)
 :--|--:
-All info live on github repo with relevant, readable name | 3
-Correct file structure for repo | 3
+All info live on github repo with relevant, readable name | 2
+Correct file structure for repo | 2
 Good markdown for the a bullet list, a table, bold, italicized, h1, h2, and h3 text | 3
 Two separate commits with descriptive messages | 3
