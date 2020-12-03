@@ -1,14 +1,4 @@
 
-Topic: Day 3 CSS continued
-Start Time : Dec 2, 2020 09:29 AM
-
-Meeting Recording:
-https://zoom.us/rec/share/qYagogVtbw0SMdcXGAgEiEY2bs-J94z0XarCP7KfQdSXZvaZZ0Fy7fUcW_2BWMaY.1hA1nJbwC9jrOflr
-
-Access Passcode: 6^p$JiW*
-
----
-
 Topic: Day 2 CSS
 Start Time : Dec 1, 2020 12:55 PM
 
@@ -35,3 +25,23 @@ Meeting Recording:
 https://zoom.us/rec/share/x5x_Mdh3J_kEFR6Y6vM5H338qR5R2-FLAqXrPJ3O7Pl4aTrdabvntqMuk7lcqSjO.O0AKYy9mNYPQ7o-X
 
 Access Passcode: JM2dn^%m
+
+---
+
+Topic: Day 3 -- CSS Continued
+Start Time : Dec 2, 2020 12:38 PM
+
+Meeting Recording:
+https://zoom.us/rec/share/d_hMWY7o9Q0e5D5SNX_esSGHeVpeLx_qRIQOrKaRWZQ53vIYxQ04540N0RnFgQjG._MVQojEGodPxEkxG
+
+Access Passcode: Z*@2s4u+
+
+---
+
+Topic: Day 3 CSS Continued
+Start Time : Dec 2, 2020 09:29 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/AH7aLy9bByDGLsugba5zJDnyZd4-sZ7sRSKzvAaQnq2wQWZCWmMUdSZXGVyVXgLj.TNj-hRiFoOH1RBbF
+
+Access Passcode: 6^p$JiW*
