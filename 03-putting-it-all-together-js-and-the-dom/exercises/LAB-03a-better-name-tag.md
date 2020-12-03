@@ -3,7 +3,7 @@ Lab 03a: Interactive Name Tag
 
 1) Update the project so that the user is able to change the name on the nametag with an input and a button.
 
-1) STRETCH GOAL: Also update your nametag repo to add three buttons that change the background color of the tag to `pink`, `lightgreen`, or `lightblue` depending on the button you click.
+1) STRETCH GOAL: Also update your nametag repo to add three buttons that change the background color of the tag to `pink`, `lightgreen`, or `lightblue` (or whatever colors you like) depending on the button you click.
 
 ## Points Break Down
 
