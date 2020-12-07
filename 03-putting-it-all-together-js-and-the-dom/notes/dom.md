@@ -1,4 +1,4 @@
-JS Does Browser 
+JS in the Browser 
 ===
 
 > Introducing the DOM
