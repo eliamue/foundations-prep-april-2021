@@ -1,5 +1,7 @@
 # Foundation Prep: On the Job Training!
 
+##  First things first: screen share
+![](./screen-share.png)
 # Schedule
 ## Monday: Learning the tools
 - Terminal
