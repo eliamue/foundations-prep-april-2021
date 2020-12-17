@@ -26,7 +26,7 @@ Pair programming and mob programming are common practices. It sounds like it mig
     1) Fewer distractions--continuous communication requires continuous focus
     1) Lateral thinking is easier in groups. Individuals tends to have their own 'style' for solving problems. Groups mix lots of these styles together.
 
-### Product owner vs scrum master 
+### Product owner vs scrum main 
 
 https://www.youtube.com/watch?v=y8OnoxKotPQ&feature=share
 

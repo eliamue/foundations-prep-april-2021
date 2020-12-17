@@ -5,8 +5,10 @@ CSS
 
 ## Cheat Sheet Resource
 
-Podcasts?
+Podcasts? Instagram?
+https://grid.malven.co/
 https://htmlcheatsheet.com/css/
+https://www.ladybug.dev/episodes/css-part-1
 
 ## Dev Tools
 

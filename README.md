@@ -63,7 +63,7 @@ By the end of this week you'll have leveled up your development skills!
 
 
 ## Resources
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Mastering Markdown](https://guides.github.com/features/maining-markdown/)
 * Keyboard Shortcuts
   * [Mac](http://www.danrodney.com/mac/)
   * [Windows](http://www.hongkiat.com/blog/100-keyboard-shortcuts-windows/)

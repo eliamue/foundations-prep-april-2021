@@ -1,7 +1,7 @@
 JavaScript Syntax
 ===
 
-## Objects
+## Objects (Got dots?)
 
 Objects are sets of key value pairs that represents real-world items. For example, here is an object that represents a dog:
 

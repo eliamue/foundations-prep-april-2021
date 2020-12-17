@@ -26,14 +26,14 @@ You should work in a mob on this project, with one person driving and everybody 
 1) One person should make a repo, and should give everybody permission to work on it.
 1) Everybody should clone this repo.
 1) One person should drive,  while everybody else watches and contributes verbally. Then every 20 minutes or so, that person will push their code, and everybody else will pull, and you will pick a new driver.
-    - When it's time for you to "drive", you can `git pull origin master` in your cloned version of the repo to get the freshest code. 
-    - When it's time for you to pass off to the next person, add, commit, and `git push origin master` so they can pull to get the freshest code.
-    - No harm in gratuitously running `git pull origin master`. The more often you do this, the easier everything will be!
+    - When it's time for you to "drive", you can `git pull origin main` in your cloned version of the repo to get the freshest code. 
+    - When it's time for you to pass off to the next person, add, commit, and `git push origin main` so they can pull to get the freshest code.
+    - No harm in gratuitously running `git pull origin main`. The more often you do this, the easier everything will be!
 1) You could run into merge issues here. The way to avoid this is to do the project in _advanced mode_ (see below)
 
 ## STRETCH GOAL: Advanced group work
-1) In addition to all of the above, when you become driver, you should make a branch off of master. Using your name for the branch is fine for now: `git checkout -b danis-branch`.
-1) Make sure you have all the freshest code by using `git pull origin master` while on your new branch.
+1) In addition to all of the above, when you become driver, you should make a branch off of main. Using your name for the branch is fine for now: `git checkout -b danis-branch`.
+1) Make sure you have all the freshest code by using `git pull origin main` while on your new branch.
 1) You can see what branch you're on at any time by using `git status`
 1) When it's time to push your code and swap off (ACP), you will
     1)  use `git push -u origin danis-branch`.
