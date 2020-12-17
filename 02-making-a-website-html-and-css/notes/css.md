@@ -5,6 +5,7 @@ CSS
 
 ## Cheat Sheet Resource
 
+Podcasts?
 https://htmlcheatsheet.com/css/
 
 ## Dev Tools
@@ -199,6 +200,8 @@ Ask these questions of every child.
 ![](./grid-strategy.png)
 
 ## Flex vs Grid
+
+TL;RD: Grid for 2D layouts (horizontal AND vertical). Flex for 1D layouts (horizontal OR vertical).
 
 Grid is good when you "know what you want": layouts, columns, rows.
 
