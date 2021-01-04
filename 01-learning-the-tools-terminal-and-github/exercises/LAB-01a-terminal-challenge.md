@@ -172,3 +172,5 @@ Remove the `foundations-prep-full` directory and its contents with `rm -rf` (kee
 Looking For | Points (10)
 :--|--:
 Screenshot in canvas reflects the correct final state of the files in the directory | 10
+STRETCH: Add at least 3 aliases to your `.bash_profile` or `.zshrc` | +1
+STRETCH: Change your terminal using the `PS1` variable in your `.bash_profile` or `.zshrc` to suit your preferences | +1
