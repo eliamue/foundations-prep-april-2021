@@ -4,8 +4,8 @@
 ![](./screen-share.png)
 
 ## Our tools
-- VSCode
-  - basically, Microsoft Word for code
+- VSCode with ESLint
+  - basically, Microsoft Word with spell check for code
 - Git/Github
   - version control
   - 'facebook for code'
