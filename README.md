@@ -2,6 +2,19 @@
 
 ##  First things first: screen share
 ![](./screen-share.png)
+
+## Our tools
+- VSCode
+  - basically, Microsoft Word for code
+- Git/Github
+  - version control
+  - 'facebook for code'
+- The Browser
+  - Chrome, please! 
+  - [64% of web users are on Chrome, so that's our target browser](https://gs.statcounter.com/)
+- Terminal, Git/Bash, or WSL (Unbuntu on Windows)
+  - For Windows users, WSL is generally considered better since it's closer to an actual Linux distribution. However (since it's Linux) it has weird, difficult edges. If WSL is causing you a lot of problems, download Git/Bash for easy mode.
+
 # Schedule
 ## Monday: Learning the tools
 - Terminal
