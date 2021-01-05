@@ -46,18 +46,11 @@ Also, `div` soup is hard to read. Semtantic tags, meanwhile, make the purpose of
 
 ```html
 <article>
-<aside>
-<details>
-<figcaption>
-<figure>
 <footer>
 <header>
 <main>
-<mark>
 <nav>
 <section>
-<summary>
-<time>
 ```
 ## Visual
 
