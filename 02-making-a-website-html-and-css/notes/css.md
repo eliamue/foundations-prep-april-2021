@@ -107,9 +107,11 @@ body {
 
 ## Font
 
+- rem vs em: em goes to the the nearest parent, rem goes to the root
+
 - set defaults in the body, override them in the children:  
-    - `2rem` will make the font size _twice_ the parent
-    - `0.75rem` will make the font size _75%_ of the parent
+    - `2rem` will make the font size _twice_ the root element
+    - `0.75rem` will make the font size _75%_ of the root element
 
 ```css
 body {
