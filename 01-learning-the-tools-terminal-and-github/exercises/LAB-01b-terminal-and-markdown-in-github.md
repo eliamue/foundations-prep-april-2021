@@ -1,6 +1,6 @@
 ## Terminal Commands and Github Lab
 
-1) Create a repo with a README.md on Github
+1) Create a repo with a README.md on Github (make sure the name is readable and relevant)
 1) Clone your repo on the command line
 1) `cd` into your repo from the command line
 1) `pwd` to make sure you're in the right directory
