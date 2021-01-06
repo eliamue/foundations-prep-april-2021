@@ -1,8 +1,5 @@
 Day 4: Professional Javascript: Testing and Refactoring
 ===
-
-_Make a simple nametag and link to nametag.html from index.html_
-
 ### Setup ESLint
 
 > [Setup ESLint](./notes/eslint.md)

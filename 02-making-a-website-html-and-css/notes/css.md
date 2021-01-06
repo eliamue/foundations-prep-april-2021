@@ -195,6 +195,11 @@ Flexbox:
 }
 ```
 
+## Exercise: Lets name a nametag!
+
+<img src="https://user-images.githubusercontent.com/478864/77445954-f6c20600-6daa-11ea-80ea-d7bc770ca81b.png" width="400px">
+
+
 ## Planning out a grid
 
 Ask yourself: how many _direct_ children does the parentmost container have? Are they rows or columns? If rows, use `grid-template-rows`. If columns, use `grid-template-columns`.
