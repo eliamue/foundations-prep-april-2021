@@ -1,13 +1,6 @@
 Day 3: JavaScript and the DOM
 ===
 
-## create-alchemy-bootstrap
-
-> `npx create-alchemy-bootstrap .`
-
-(You'll get an email error about tests--don't worry about it for today!)
-Note: This puts the css in a separate directory!
-
 ## Keyboard 3
 
 > [Intra-app switching](./notes/keyboard.md)
@@ -31,6 +24,15 @@ Note: This puts the css in a separate directory!
 > [Events](./notes/handling-events.md)
 
 > [Functions](./notes/calling-functions.md)
+
+## Upgrade the nametag!
+
+## create-alchemy-bootstrap
+
+> `npx create-alchemy-bootstrap .`
+
+(You'll get an email error about tests--don't worry about it for today!)
+Note: This puts the css in a separate directory!
 
 ## Exercises
 
