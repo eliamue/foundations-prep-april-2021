@@ -174,6 +174,10 @@ By default, padding _adds to the width_ of an element. This can be annoying and 
 - Games for learning:
     - https://cssgridgarden.com/
 
+
+## Cheat sheets
+- https://grid.malven.co/
+- https://flexbox.malven.co/
 ## Centering
 
 Old and usually perfectly fine way, but sometimes just doesn't work for complicated reasons:
