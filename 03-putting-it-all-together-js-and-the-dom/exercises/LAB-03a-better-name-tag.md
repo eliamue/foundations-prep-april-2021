@@ -15,3 +15,4 @@ Clicking the text input button changes the name of the nametag to the value of t
 Clicking the color buttons changes the background color of then nametag | +1
 Add pronouns to the nametag | +1
 Give the user the option to change the font | +1
+Tell the user how many times they've changed the name | +1
