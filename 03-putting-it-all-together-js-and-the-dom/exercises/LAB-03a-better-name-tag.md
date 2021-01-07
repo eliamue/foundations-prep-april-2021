@@ -12,4 +12,6 @@ Looking For | Points (10)
 Deployed on GitHub pages, with link in the About section of the Github repo | 2
 Nicely styled text input and styled buttons | 2
 Clicking the text input button changes the name of the nametag to the value of the input | 6
-Clicking the color buttons changes the background color of then nametag | +3
+Clicking the color buttons changes the background color of then nametag | +1
+Add pronouns to the nametag | +1
+Give the user the option to change the font | +1
