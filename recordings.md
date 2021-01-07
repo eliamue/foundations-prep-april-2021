@@ -27,3 +27,19 @@ https://zoom.us/rec/share/6zQV4g-hDwOI9k65xghg-pGuFKWq89sGEJXz429PPU1JtJYl0pfY7d
 Access Passcode: yK+6=0g0
 
 ---
+
+Topic: CSS Wrap-up
+Start Time : Jan 6, 2021 08:39 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/eIdxxVvlWZXx9wbwOtQ6z4VA0wTPREPMAAAMofeFDVxhCf6MNUBqd0_CZlSzzbK7.J_Cd2mkkbENMFy1-
+
+Access Passcode: Sv.2q%$T
+
+Topic: JS Intro
+Start Time : Jan 6, 2021 12:55 PM
+
+Meeting Recording:
+https://zoom.us/rec/share/TCpQIGdWDMOEK0QVDO7tXocVA-IU-wk_KTrjjf_p0HWxBlFFzXuXOm_k0-UJxSck.5U3E-dschZVml9Li
+
+Access Passcode: 2!Qsxh2*
