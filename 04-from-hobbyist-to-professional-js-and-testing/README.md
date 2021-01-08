@@ -4,15 +4,6 @@ Day 4: Professional Javascript: Testing and Refactoring
 
 > [Setup ESLint](./notes/eslint.md)
 
-### Refactoring code
-
-> [From casserole to a bento box](./notes/refactoring.md)
-
-1) Make it work
-1) Make it good
-1) Make it fast
-
-> [Refactor code!](./notes/code-refactoring.jpg)
 
 ### Functions
 
@@ -26,6 +17,16 @@ Day 4: Professional Javascript: Testing and Refactoring
 
 > [Setting and validating expectations](./notes/tdd.md)
 
+
+### Refactoring code
+
+> [From casserole to a bento box](./notes/refactoring.md)
+
+1) Make it work
+1) Make it good
+1) Make it fast
+
+> [Refactor code!](./notes/code-refactoring.jpg)
 ### Debugging
 
 > [Debugging Tips](./notes/debugging.md)

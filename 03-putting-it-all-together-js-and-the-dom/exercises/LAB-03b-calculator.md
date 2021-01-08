@@ -45,8 +45,8 @@ Repeat this process for subtraction, multiplication, and division.
 
 Looking For | Points (10)
 :--|--:
-Deployed on GitHub pages, with link in the About section of the Github repo | 2
-Nicely styled text input and styled buttons | 2
+Deployed on GitHub pages, with link in the About section of the Github repo | 1
+Nicely styled text input and styled buttons | 1
 Addition | 2
 Subtraction | 2
 Multiplication | 2
