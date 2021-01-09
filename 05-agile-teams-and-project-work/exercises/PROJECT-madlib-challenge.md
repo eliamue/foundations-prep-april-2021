@@ -57,7 +57,7 @@ Time for a commit!
 
 1. In your JavaScript `app.js`, make variables for all the DOM elements you will
 to read data from (input form controls) or write data to (text spans).
-2. Add a function, then add an `onclick` attribute to the button that calls the function. Validate that the function is running when the button is clicked.
+2. Add a function, then add an event listener attribute to the button that calls the function. Validate that the function is running when the button is clicked.
 3. Write JavaScript logic in your function that mediates data between the inputs and the spans. Validate that it works.
 4. Read your code and make it as well crafted as you possibly can.
 
