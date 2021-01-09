@@ -3,21 +3,12 @@ MadLib Challenge
 
 Create a web page that allows the user to play a MadLib game!
 
-## Create Repo
 
 ![Mad Lib](./madlib1.png)
 
 ![Mad Lib](./madlib2.png)
 
-Create and clone a new repo: `madlib-game`, then `cd` into it and open in VSCode!
-
-Add:
-
-```
-app.js
-index.html
-style.css
-```
+Create and clone a new repo: `madlib-game`, then `cd` into i, open it in VSCode, and run `npx create-alchemy-bootstrap .` to get started.
 
 ## Group Work
 
