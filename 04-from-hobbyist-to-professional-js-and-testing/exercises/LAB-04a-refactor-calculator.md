@@ -17,4 +17,4 @@ Variables with clear intent to make code more readable | 2
 Refactored and imported math functions | 3
 Tested math functions | 3
 Refactored and imported click handler functions | 2
-Use a dropdown to select which operation to exectue on click | +1
+STRETCH: Use a dropdown to select which operation to exectue on click | +1

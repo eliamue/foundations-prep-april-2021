@@ -8,6 +8,8 @@ That's why more companies are trying to use agile methodologies. Agile teams shi
 
 Because they ship so frequently, agile teams get constant feedback from client, and work without absolute rigidity to a final project blueprint.
 
+![](./agile-comic.jpg)
+
 ![](./agile.png)
 
 https://www.blueoceanworkshops.com/agile-adaptive-vs-waterfall-predictive-project-management/
