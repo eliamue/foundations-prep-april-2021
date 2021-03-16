@@ -77,7 +77,7 @@ can become
 
 `color` vs `background`
 - `color: pink` 
-   - makes: the _font- pink
+   - makes: the _font_ pink
 - `background: pink` 
    - makes the _background color_ pink
     - `background: url("paper.gif");` also works
