@@ -20,7 +20,7 @@ Command|Meaning
 Command|Meaning
 ---|---
 `CMD/CTRL` + `Z` | Undo
-`SHIFT` + `CMD/CTRL` + `Z` | Redo
+`SHIFT` + `CMD/CTRL` + `Z` (or `CTRL` + `Y` on Windows) | Redo
 
 ### Select 
 
@@ -30,7 +30,7 @@ Command|Meaning
 ---|---
 `CMD` + `A` | Select All
 `SHIFT` + arrow key | extend/retract selection
-`OPTION/ALT` + arrow key | move by one word
+`OPTION/ALT` + arrow key (`CTRL` on Windows) | move by one word
 `CMD` + right/left arrow key | move to beginning/end of line
 `CMD` + up/down arrow key | move to beginning/end of file
 `SHIFT` any above | extend/retract selection
