@@ -20,7 +20,7 @@ Command|Meaning
 Command|Meaning
 ---|---
 `CMD/CTRL` + `Z` | Undo
-`SHIFT` + `CMD/CTRL` + `Z` | Redo
+`SHIFT` + `CMD/CTRL` + `Z` (or `CTRL` + `Y` on Windows) | Redo
 
 ### Select 
 
