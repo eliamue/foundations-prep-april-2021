@@ -89,14 +89,13 @@ import {
     addMoneyToRegister,
 } from './pizzaUtils.js';
 
-    const dough = makeDough(dryIngredients);
-    const sauce = makeSauce(wetIngredients);
-    const rawPizza = assemblePizza(dough, sauce);
-    const cookedPizza = cookPizza(rawPizza);
+const dough = makeDough(dryIngredients);
+const sauce = makeSauce(wetIngredients);
+const rawPizza = assemblePizza(dough, sauce);
+const cookedPizza = cookPizza(rawPizza);
 
-    deliverPizza(cookedPizza, address);
-    addMoneyToRegister(money);
-}
+deliverPizza(cookedPizza, address);
+addMoneyToRegister(money);
 ```
 
 # Importing and exporting code
