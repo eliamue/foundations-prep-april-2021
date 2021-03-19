@@ -27,3 +27,21 @@ https://zoom.us/rec/share/56N5I3F3EUWk4dkYbV5bDVMOTqs1sY-ITbrrcQ9XMvGK7VFPFSi3q-
 Access Passcode: 0YAL3tz=
 ---
 
+
+Topic: JS Pt 1
+Start Time : Mar 17, 2021 12:54 PM
+
+Meeting Recording:
+https://zoom.us/rec/share/cLqtUT8kkTEMLl2OomGrla0v9H765iE5HcqNDIeIpdQ7Wv68jYjdUeaab_8SPOvS.2FAGbtSCcegjCrX-
+
+Access Passcode: !bDdQ3vP
+
+
+Topic: JS Pt 2
+Start Time : Mar 18, 2021 08:48 AM
+
+Meeting Recording:
+https://zoom.us/rec/share/tyTbGDsAAMLg2xJFMpGCPIK05nbnAORH4F3Krvo6p7-8kg5b1Bf2T0ot3bxzkJ0a.ywPRa_7fmBmGxnnS
+
+Access Passcode: re22R&Qp
+
