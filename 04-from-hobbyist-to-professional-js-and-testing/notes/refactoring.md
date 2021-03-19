@@ -9,7 +9,10 @@ Code is _read_ ten times more than it is _written_. Who cares if it works? We ne
 Decisions you make today, you (or somebody) will have to live with in 6 months. 
     - Every line of code is _signed forever_. If you write something confusing, future developers will immediately learn and curse your name.
 
+
 ## Refactoring basics
+
+__Maintainable code__: is it as easy to add the tenth feature as it was to add the first feature?
 
 1) Store repeated or duplicate code in functions or variables, and assign them simple, human-readable names.
     - Favor DRY (Don't Repeat Yourself) code over WET code (Write Everything Twice)
@@ -21,7 +24,6 @@ Decisions you make today, you (or somebody) will have to live with in 6 months.
 1) Store magic numbers and magic strings in variables 
     - For example, define a variable called `salesTax` instead of just copying and pasting `.06` throughout your code.
 1) If all else fails, write comments to clarify the intent or purpose of code.
-
 
 ## Casserole Code
 
