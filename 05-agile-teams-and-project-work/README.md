@@ -47,6 +47,19 @@ At the sprint kickoff, devs take on as many tickets as they think they can handl
 
 ![](./agile-ceremonies.png)
 
+## Git collaboration
+
+Rules for successful collaboration.
+
+0) Always branch from `main`.
+1) When it's time for a new feature, checkout a new branch: `git checkout -b new-branch-or-whatever`
+2) Make changes to this branch, then (ACP) push the branch to github.
+3) Make a PR to main on github for this new branch.
+4) Once the team agrees to the changes, merge the PR into main. Feel free to delete the branch in github.
+5) Now, everybody should `git pull origin main` to get the freshest updates.
+6) When it's time for you to code a new feature, go the main branch locally `git checkout main`, then `git pull origin main` to sync your branch up.
+7) Now you're ready to repeat the process.
+
 **Demo: The TAs and I make tickets and mob a small project with branches and PRs**
 
 ## Exercises

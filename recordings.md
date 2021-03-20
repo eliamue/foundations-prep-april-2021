@@ -65,3 +65,11 @@ https://zoom.us/rec/share/rFlSYTHZR6gRi7DKTYkMvdBz6ySqiBdQyM0tLTydN4VYuM-t17b0GJ
 
 Access Passcode: 54QMh+I1
 
+
+Topic: dani cairns (they/them)'s Personal Meeting Room
+Start Time : Mar 19, 2021 02:00 PM
+
+Meeting Recording:
+https://zoom.us/rec/share/Mwybo-nsa2x7Bseb1Ve27CApNLXXSlNANm5jyQR84eaObQgFzPRfVWI0V88-kXRr.0CV5tGn2lp0Prsn-
+
+Access Passcode: b9?wh=9z
