@@ -18,3 +18,4 @@ Refactored and imported math functions | 3
 Tested math functions | 3
 Refactored and imported click handler functions | 2
 STRETCH: Use a dropdown to select which operation to exectue on click | +1
+STRETCH: Write a single `handleClick` function which can work with any of the buttons (hint: use `e.target.value`) | +1
