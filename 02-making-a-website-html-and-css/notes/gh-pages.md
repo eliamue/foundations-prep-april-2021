@@ -9,13 +9,12 @@ GH Pages
 
 ![repo settings](repo-settings.png)
 
-### Scroll Down
-
-![scroll down](scroll-down.png)
+### Pages tab on the left
+![repo settings](pages-tab.png)
 
 ### Configure and Save
 
-![gh-pages](gh-pages.png)
+![gh-pages](save.png)
 
 ## Outcome
 
