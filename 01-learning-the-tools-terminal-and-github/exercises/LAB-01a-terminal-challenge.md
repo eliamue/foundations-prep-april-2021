@@ -30,7 +30,7 @@ Make the following directories and subdirectories with `mkdir`, `cd` and `pwd`
 
 ## Step 2
 
-`cd` into `foundations-prep-files-to-remove` and create the files listed below with this command: `echo 'words' > name.txt`
+`cd` into `foundations-prep-files-to-remove` and create the files listed below with this command: `echo "words" > name.txt`
 
 ```
 ~
